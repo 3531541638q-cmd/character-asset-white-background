@@ -1,0 +1,4 @@
+interface:
+  display_name: "你健哥的人物资产生成器"
+  short_description: "生成有个人长相特色和真实生活感的人物资产，支持三视图、特写及横竖版"
+  default_prompt: "使用 $character-asset-white-background，按我的描述生成有辨识度和真实生活感的人物资产图。"
