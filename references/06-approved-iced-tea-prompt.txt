@@ -1,0 +1,28 @@
+生成方式：内置 imagegen。
+版式：全身正侧背三视图＋户外吸饮冰红茶特写＋眼镜耳机、手持杯细节。
+补全：原需求未涉及的下装与鞋子使用深靛蓝直筒牛仔裤、米白帆布鞋。
+最终提示词：
+Create ONE finished photorealistic landscape 16:9 CHARACTER ASSET SHEET for a new original young adult East Asian woman, about 20 years old, with a youthful everyday presence. She must have her own recognizable features, consistent across all views.
+
+LAYOUT:
+Left approximately 49%: three separate, equal-scale FULL-BODY standing views, in fixed FRONT / TRUE 90-DEGREE SIDE / BACK order on a clean near-white neutral background. All three figures fully visible head-to-shoe, with equal height, white gaps, relaxed poses and unobstructed hands. One identical character and identical clothing in every view.
+Center-right approximately 52%–82%: one LARGE, vivid outdoor close-up portrait from face to upper torso, the primary image. This portrait is a slightly low-angle handheld PHONE SELFIE view with a realistic casual composition, shallow depth of field, softly blurred green tree foliage and a clear summer-blue sky, natural summer afternoon sunlight. Keep all portrait pixels inside this column, with a clear gap from the three full-body views. Crop shoulders inside its own panel if needed; do not cover the full-body figures.
+Far right approximately 85%–99%: TWO stacked rounded-rectangle detail windows. Upper window: matching thin silver oval eyeglass frame at the temple, white wired earbud and a little of her real cheek skin. Lower window: matching anatomically correct RIGHT HAND holding the transparent iced black tea cup near the charcoal coat, with the single yellow star embroidered badge visible. Legible very fine vellus hair and natural hand creases, correct five fingers.
+Single composed sheet, no words, labels, dimensions, logos or watermarks.
+
+EXACT CHARACTER AND CONTINUITY:
+Airy wispy straight bangs with small uneven gaps, long straight deep COOL-TONED black-tea brown/near-black hair, reaching the lower back, real individual strands. A light breeze carries some loose strands naturally toward image-right in the outdoor portrait; maintain the same hair color, cut, bangs and length throughout.
+Thin SILVER METAL OVAL eyeglasses, gently horizontal oval lenses, fine visible bridge and temples, subtle natural reflections that do not conceal the eyes.
+Give her a distinctive slightly long oval face with a softly defined modest-width jaw, slender almond-shaped eyes with understated low eyelid folds, fairly straight natural eyebrows with a few irregular hairs, a graceful natural nose profile with a softly rounded tip, a subtly thinner upper lip than lower lip. Slight normal left-right differences in eyelids and mouth corners. Calm observant presence. A tiny understated mole near the lower outer cheek can be an individual anchor, placed consistently. Keep this new face distinguishable from a generic symmetrical beauty-template face.
+Fair clear skin, translucent in natural light but with real localized pores, delicate short soft peach fuzz on the cheeks/jaw/temples, subtle unevenness around nose, fine under-eye texture and actual lip lines. Minimal light everyday makeup, no heavy contouring, no porcelain airbrushing, no uniform freckles, no grain or noise overlay.
+
+OUTFIT:
+A dark CHARCOAL-GRAY wool-textured coat, tailored but casual and lightweight in appearance, worn open. A SINGLE SMALL YELLOW STAR-SHAPED EMBROIDERED PIN/BADGE is fastened on one lapel near the collar and remains in the same garment position across views. Plain light-gray thin crew-neck top underneath. Since the brief does not specify the lower outfit, complete it simply with dark indigo straight-leg jeans and off-white low-profile canvas shoes; keep these consistent. Do not change the gray coat into a cardigan, leather jacket or puffer.
+WHITE WIRED EARBUDS in the ears, with visible fine white cable hanging naturally along neck and coat, continuing down out of frame. No wireless buds or large headphones. No extra jewelry needed.
+
+PRIMARY OUTDOOR PORTRAIT ACTION — IMPORTANT:
+She looks toward FRAME LEFT, shown in an elegant natural three-quarter/profile view facing left rather than looking into the lens. The camera is slightly below face level, casual selfie perspective, mild real-phone perspective rather than an extreme wide-angle effect. Her RIGHT hand raises a clear disposable PLASTIC CUP of amber-brown ICED BLACK TEA. Visible ice cubes, condensation droplets and a clear lid, a single straw. She is ACTUALLY SIPPING through the straw, with lips gently closed around its end and relaxed cheeks. Keep eyeglasses, profile, white earbud cable, charcoal wool coat and yellow star embroidery readable together. This is a believable passing summer-afternoon moment, lightly imperfect and unposed. Hair moves in the breeze while the face remains clear. The phone is outside the image; do not add a visible phone blocking her face.
+In the full-body reference views, hold the same tea cup naturally in her RIGHT hand around chest/waist height, with her left arm relaxed, to make body and wardrobe clear. The side and rear views must be true views of this same woman.
+
+REALISM:
+Natural smartphone lifestyle photography with Xiaohongshu everyday atmosphere. Real skin on face, neck and all exposed hands/wrists: tiny pores, sparse very fine soft body hair, subtle knuckle lines, small normal color variations. Preserve the real material texture of wool, embroidered thread, metal, plastic and tea ice. Balanced daylight, gentle uneven natural highlights. No artificial perfect symmetry, overlarge doll eyes, pointed V-shaped jaw, glossy beauty advertisement finish, exaggerated body proportions, illustration or 3D. Keep all sheet views and closeups visually consistent.
