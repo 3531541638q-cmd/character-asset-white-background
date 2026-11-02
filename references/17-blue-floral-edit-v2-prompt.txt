@@ -1,0 +1,12 @@
+Edit this generated fictional woman's white-background photographic asset sheet. Correct the SKIN FINISH only, retaining the existing person, anatomy, hairstyle, smile, eye shape, clothes, earbuds, all panels, white backdrop, landscape format and full-body framing.
+
+The current skin has a continuous oily/waxy reflective layer. Remove that layer WITHOUT blurring, denoising, flattening or smoothing the face. This is not a conventional beauty retouch. The face must retain clear photographic midtone information. Skin should look like unretouched everyday skin in soft indirect daylight, without highlighter, glass-skin makeup or lip gloss.
+
+On the forehead, bridge/tip of nose, both upper cheeks and chin: lower broad shiny reflection bands; keep only tiny restrained highlights. Use slightly more directional soft daylight so the cheek planes and nose have gentle, readable light-to-shadow transitions. Maintain the existing skin colour overall, but retain small warm/pink/neutral tonal differences rather than a perfectly uniform peach film.
+
+Preserve and make gently legible the original fine pores in the nose and inner cheeks, faint under-eye folds and sparse subtle cheek hairs. Pores are tiny soft depressions with local shade, NOT bright sparkling dots, grain, an overlay or uniform texture spread over the entire face. Keep the outer cheeks calmer while retaining real surface structure. Lips should have fine soft creases and natural low reflectance instead of a wet bright line. Do not increase wrinkles, add freckles, acne or dirt, change age, or make the skin heavily powdered. Avoid the previous failure where reducing shine just erased skin structure. Apply compatible skin rendering to the body views, neck, hand and the upper-right eye/cheek window.
+
+The outcome must visibly differ in surface rendering at ordinary viewing size: less continuous glare, more natural regional skin colour and volume, without looking artificially rough. The eyes, nose, lips and face shape remain the same. Hair, cardigan's blue/red floral pattern, jeans and white shoes remain unchanged. Keep the background pure white, not gray.
+
+平滑控制要求:整体画面必须干净、平滑、统一，强调大色块叙事与整体轮廓，不要细碎噪点，不要高频纹理，不要脏污颗粒，不要密集小装饰，边缘清晰利落，表面干净，画面呼吸感强，一目了然。
+Apply this to composition, background and visual clutter. It does NOT authorize face blur, skin polishing, denoising or an even cosmetic coating. Retain local photographic pores and fine lip/eyelid structure.

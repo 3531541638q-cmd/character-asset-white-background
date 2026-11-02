@@ -1,0 +1,1791 @@
+{
+  "review_date": "2026-10-27",
+  "sample_count": 99,
+  "not_a_person_count": true,
+  "expanded_separate_enlarged_views": 12,
+  "original_four_xhs_feeds_read": false,
+  "samples": [
+    {
+      "batch": "initial",
+      "key": "fw01-neutral-dress",
+      "group": "female_outfit",
+      "source_title": null,
+      "page_url": "https://www.artofit.org/image-gallery/291748882122842901/8-best-minimalist-fashion-outfits-chic-minimalist-looks-for-women/",
+      "image_url": "https://i.pinimg.com/originals/32/d4/51/32d4518a8e441218ccc5b8e7cfccacf6.jpg",
+      "archived_image": "images/initial-fw01-neutral-dress.jpg",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "sha256": "0f4ec9cbb51b2d949aebebe5f2038af677159d730fecd16bd732fb9c406a81b2",
+      "review_level": "individual image viewed",
+      "observation": "Structured beige blazer, flowing white pleated dress, olive woven bag; repeated outfit views; phone blocks face.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "fw02-chic-six",
+      "group": "female_outfit",
+      "source_title": null,
+      "page_url": "https://cardina.vn/blogs/kien-thuc-thoi-trang/chic-style",
+      "image_url": "https://file.hstatic.net/200000503583/file/phong-cach-chi__4__23a55ceecf744ad49dd04dc06ff245a6.jpg",
+      "archived_image": "images/initial-fw02-chic-six.jpg",
+      "dimensions": [
+        800,
+        1067
+      ],
+      "sha256": "0db4cc4d80936b585eaa20224523d052f0893af7da4750a6bc5e6d916b83c310",
+      "review_level": "individual image viewed",
+      "observation": "Six looks vary outerwear length, volume, exposed legs, knit versus tailoring; wardrobe analysis only.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "fw03-minimal-duo",
+      "group": "female_outfit",
+      "source_title": null,
+      "page_url": "https://v6.duitang.com/blog/?id=1416465135",
+      "image_url": "https://c-ssl.duitang.com/uploads/blog/202208/02/20220802165021_58a47.jpeg",
+      "archived_image": "images/initial-fw03-minimal-duo.jpg",
+      "dimensions": [
+        1200,
+        1599
+      ],
+      "sha256": "71af3eb04df08b434dc2b805a87d2e194e90ba9095d372ab612272d09c014b71",
+      "review_level": "individual image viewed",
+      "observation": "Dark sleeveless top and pale loose trousers contrasted with pale knit and dark trousers; belt, bag and drape add structure.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "fw04-retro-colour",
+      "group": "female_outfit",
+      "source_title": null,
+      "page_url": "https://focus.cbbc.org/what-are-chinas-top-spring-summer-fashion-trends/",
+      "image_url": "https://cbbcfocus.b-cdn.net/wp-content/uploads/2023/03/4-Hong-Kong-Vintage-768x1024.jpg",
+      "archived_image": "images/initial-fw04-retro-colour.jpg",
+      "dimensions": [
+        768,
+        1024
+      ],
+      "sha256": "50ebf1019a4fc72b5e27de3a4c7adf8648f1513430d986e6e2f9528e3d78d1a4",
+      "review_level": "individual image viewed",
+      "observation": "Brown leather, red knit, white high neck and pleated skirt; red footwear and bag echo; search identity attribution not accepted.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "fw05-green-trousers",
+      "group": "female_outfit",
+      "source_title": null,
+      "page_url": "https://www.elle.com.hk/fashion/sabrina-ng-styles",
+      "image_url": "https://api.elle.com.hk/var/site/storage/images/_aliases/img_776_w/fashion/sabrina-ng-style/node_1838562/35388748-1-chi-HK/Photo08.jpg",
+      "archived_image": "images/initial-fw05-green-trousers.jpg",
+      "dimensions": [
+        776,
+        970
+      ],
+      "sha256": "3b749a282ef795f409eb5dcff94e060bfaf328828141f87523b0f1f6afc8bac6",
+      "review_level": "individual image viewed",
+      "observation": "Printed pale shirt, green trousers and matching earrings, brown bag; old editorial example with Instagram photo credit.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "fm01-mirror-six",
+      "group": "male_outfit",
+      "source_title": null,
+      "page_url": "https://www.pinterest.com/ideas/asian-men-style-outfits/923377787393/",
+      "image_url": "https://i.pinimg.com/originals/0a/5c/96/0a5c9609681da5ae75b89b0bf3d74e01.jpg",
+      "archived_image": "images/initial-fm01-mirror-six.jpg",
+      "dimensions": [
+        1280,
+        1707
+      ],
+      "sha256": "fee199212cd1ff396b4cfed64662c82ec8834479d0484de352cde0e90b015094",
+      "review_level": "individual image viewed",
+      "observation": "Six mirror outfits; tucked versus untucked shirts, short jackets, wide trousers and footwear alter proportions; phone blocks face.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "fm02-gray-coat",
+      "group": "male_outfit",
+      "source_title": null,
+      "page_url": "https://in.pinterest.com/oorrphhh/douyin-boys-fashion/",
+      "image_url": "https://i.pinimg.com/736x/c6/88/17/c68817cdd244ebc6e8d32b89994972ce.jpg",
+      "archived_image": "images/initial-fm02-gray-coat.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "sha256": "c1ca375434c11dd3b478b50ad995c2713bfec569b86cb6dcff887b2553f4cb7d",
+      "review_level": "individual image viewed",
+      "observation": "Long gray coat, loose striped tie, white shirt hem and black wide trousers; leaning posture; bangs obscure eyes.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "m01-orange-selfie",
+      "group": "male_face",
+      "source_title": null,
+      "page_url": "https://www.pinterest.com/pin/4011087170729205/",
+      "image_url": "https://i.pinimg.com/originals/38/3b/c8/383bc80384e9d9b59c069910734dc8e6.jpg",
+      "archived_image": "images/initial-m01-orange-selfie.jpg",
+      "dimensions": [
+        900,
+        1200
+      ],
+      "sha256": "745bc7dbf33f236f7d981228bbbab8a2cc9a3b8726b757de4812c9679e6eedc2",
+      "review_level": "individual image viewed",
+      "observation": "Horizontal eye apertures, upper-lid iris coverage, thick brows and fuller lips; retouch status unknown.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "m02-hood-close",
+      "group": "male_face",
+      "source_title": null,
+      "page_url": "https://www.pinterest.com/pin/28710516370175092/",
+      "image_url": "https://i.pinimg.com/originals/57/89/79/578979689790144e1f90fa348718e20b.jpg",
+      "archived_image": "images/initial-m02-hood-close.jpg",
+      "dimensions": [
+        1224,
+        1632
+      ],
+      "sha256": "9bab21d3b56125e4937c0f70c215c12a5d2085e3d07d6faae2077c88760f5cc5",
+      "review_level": "individual image viewed",
+      "observation": "Eyes held open with ring reflections; near-camera pose and expression confound fixed morphology; not a default eye template.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "m03-chin-hands",
+      "group": "male_face",
+      "source_title": null,
+      "page_url": "https://jp.pinterest.com/pfyvcd/%E4%B8%80%E9%87%8D-%E3%82%A4%E3%82%B1%E3%83%A1%E3%83%B3/",
+      "image_url": "https://i.pinimg.com/736x/9a/f2/3a/9af23a3234e722aebb39afef4758536b.jpg",
+      "archived_image": "images/initial-m03-chin-hands.jpg",
+      "dimensions": [
+        735,
+        979
+      ],
+      "sha256": "a8b29640d59be6efb1d143be6ea09ac75663ce9f2069608f32539f6561a4bc30",
+      "review_level": "individual image viewed",
+      "observation": "Tilted head and finger pressure change cheeks and mouth; expression reference, not fixed lip or eye anatomy.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "m04-university",
+      "group": "male_face",
+      "source_title": null,
+      "page_url": "https://jxxy.fzu.edu.cn/info/1067/10148.htm",
+      "image_url": "https://jxxy.fzu.edu.cn/__local/D/C1/13/31758048EA37816435D6FC0F51F_EE4A0285_189B6.jpg",
+      "archived_image": "images/initial-m04-university.jpg",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "sha256": "4a6dd63f7e06a848121243de4ecb2982ab111c6b0e4e3d365aa3e1963d400e72",
+      "review_level": "individual image viewed",
+      "observation": "White shirt indoor portrait; brows, visible eyelid boundaries and longer face combine; public university source, not XHS.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "f01-long-hair",
+      "group": "female_face",
+      "source_title": null,
+      "page_url": "https://afamily.vn/my-nu-hoc-ba-khien-ai-nhin-cung-ne-da-thong-minh-con-xinh-hut-hon-20241107093004113.chn",
+      "image_url": "https://afamilycdn.com/150157425591193600/2024/11/7/photo2024-11-0616-03-50-17308839773801377443680-1730887060599-17308870606661559560076-1730946421833-1730946421905410739256.jpg",
+      "archived_image": "images/initial-f01-long-hair.jpg",
+      "dimensions": [
+        960,
+        1280
+      ],
+      "sha256": "95298ab7a4d74916f97367201f069e8c79f8fe47d98b210f7ca132cdd4237abb",
+      "review_level": "individual image viewed",
+      "observation": "Unequal side lighting shows face volume, lower-eye shading and lip edge; cannot infer unretouched state.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "f02-bangs-university",
+      "group": "female_face",
+      "source_title": null,
+      "page_url": "https://jjgl.qlnu.edu.cn/info/1180/2489.htm",
+      "image_url": "https://jjgl.qlnu.edu.cn/__local/E/9A/1D/908D1D8C272CFA5F72187017314_5EE79A36_D96B3.png",
+      "archived_image": "images/initial-f02-bangs-university.png",
+      "dimensions": [
+        1080,
+        1418
+      ],
+      "sha256": "ac4dea311c453c486e78bf58d169a7c4b9f575b1c85996b0c9e8e269f6059b9c",
+      "review_level": "individual image viewed",
+      "observation": "Short bangs, transverse eye shape, rounded shorter chin and cheek volume; public university source, not XHS.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "f03-artist-selfie",
+      "group": "female_face",
+      "source_title": null,
+      "page_url": "https://cheerz.cz/artist/31839",
+      "image_url": "https://d1jo5b1m9v3ic.cloudfront.net/item/i1248372/s1510773f5bdaca7f64160dc8648f615ebfd5f12f-large.jpg",
+      "archived_image": "images/initial-f03-artist-selfie.jpg",
+      "dimensions": [
+        900,
+        900
+      ],
+      "sha256": "355bf97ab4846450afdce6b5e2d09218d796d08dd01ed9022b4927d7d488e167",
+      "review_level": "individual image viewed",
+      "observation": "Close high-angle selfie exaggerates visible eye prominence; retained as angle/processing confound example, not natural proportion template.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "initial",
+      "key": "f04-creator-portrait",
+      "group": "female_face",
+      "source_title": null,
+      "page_url": "https://www.youku.com/profile/index?uid=UMTI4NDAwNTMwMzI%3D",
+      "image_url": "https://ykimg.alicdn.com/product/image/2021-08-02/7988a0c3577857fdd36fec010f754b86.png",
+      "archived_image": "images/initial-f04-creator-portrait.png",
+      "dimensions": [
+        765,
+        765
+      ],
+      "sha256": "5b8b1d60f430867ab131b332e248b16e766d42075bd3b74bddff0f4f534c0642",
+      "review_level": "individual image viewed",
+      "observation": "Fringe, rounded cheeks, shifted gaze and subtle smile; low resolution and smooth appearance limit skin analysis.",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_outfits_02",
+      "group": "women_outfits",
+      "source_title": "Adidas Originals 紫灰色 經典 三葉草 立領 短版 華夫格 外套 女款 KC2650",
+      "page_url": "https://www.leeinselect.com/products/kc2650",
+      "image_url": "https://img.shoplineapp.com/media/image_clips/697a1b26b505bc4c7624c8bf/original.png?1769610020=&owner_id=646de95ac8fc1d00082e6c5f",
+      "archived_image": "images/expanded-women_outfits_02.png",
+      "dimensions": [
+        1206,
+        1508
+      ],
+      "sha256": "ceac9fc73e3e4face887c4b4d9d4adfe225282554b8d4d1bbb54a37e75223e29",
+      "review_level": "contact sheet",
+      "observation": "运动外套与褶裙、蕾丝、牛仔裤混搭；短上衣与长裤、长衬衫与外套的比例不同；袖口、领口、帽袜形成呼应。外部商品/媒体图只作穿搭观察。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_outfits_03",
+      "group": "women_outfits",
+      "source_title": "「運動外套」這樣搭超有感！運用 mix and match 技巧，穿出 5 套甜美又有態度的街頭風 | 愛漂亮 | udn 女子漾",
+      "page_url": "https://woman.udn.com/woman/story/123163/8654869",
+      "image_url": "https://pgw.udn.com.tw/gw/photo.php?exp=3600&fw=800&sh=0&sl=W&sw=0&u=https%3A%2F%2Fuc.udn.com.tw%2Fphoto%2F2025%2F04%2F05%2F32%2F31792180.jpg&x=0&y=0",
+      "archived_image": "images/expanded-women_outfits_03.jpg",
+      "dimensions": [
+        799,
+        533
+      ],
+      "sha256": "8fa81b28c3ceffc4fc3b0e2acff617163b1af0bd68bfc2590187d0a8f90ce5d7",
+      "review_level": "contact sheet",
+      "observation": "运动外套与褶裙、蕾丝、牛仔裤混搭；短上衣与长裤、长衬衫与外套的比例不同；袖口、领口、帽袜形成呼应。外部商品/媒体图只作穿搭观察。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_outfits_04",
+      "group": "women_outfits",
+      "source_title": "女生穿大气的西装外套，优雅又有高级感，展现都市女性魅力_美女",
+      "page_url": "https://www.sohu.com/a/438387891_120214456",
+      "image_url": "https://p8.itc.cn/images01/20201215/18d38092d19347c79984e85ad5f50d7f.jpeg",
+      "archived_image": "images/expanded-women_outfits_04.jpg",
+      "dimensions": [
+        640,
+        1138
+      ],
+      "sha256": "6225ddabc3bb7e59b3aad6ecde9f057f61db250ff73c2c263b2e57e0e7962cb6",
+      "review_level": "contact sheet",
+      "observation": "运动外套与褶裙、蕾丝、牛仔裤混搭；短上衣与长裤、长衬衫与外套的比例不同；袖口、领口、帽袜形成呼应。外部商品/媒体图只作穿搭观察。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_outfits_05",
+      "group": "women_outfits",
+      "source_title": "欧阳娜娜周也等15位明星演绎美式青春风穿搭|宋雨琦|王玉雯|范丞丞|范世琦|孟子义_新浪娱乐_新浪新闻",
+      "page_url": "https://k.sina.cn/article_6579479488_1882ae3c004001ijfi.html",
+      "image_url": "https://k.sinaimg.cn/n/sinakd/sni/88/w1080h1408/20260308/13fd-a37021eb38967f7f71f348c55000ecbd.jpg/w700d1q75cms.jpg",
+      "archived_image": "images/expanded-women_outfits_05.jpg",
+      "dimensions": [
+        700,
+        913
+      ],
+      "sha256": "ee0b8ea67e05e10c7d42c7d93f6501c4410612bf0d28747cb1ad233e908e5bbe",
+      "review_level": "contact sheet",
+      "observation": "运动外套与褶裙、蕾丝、牛仔裤混搭；短上衣与长裤、长衬衫与外套的比例不同；袖口、领口、帽袜形成呼应。外部商品/媒体图只作穿搭观察。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_outfits_06",
+      "group": "women_outfits",
+      "source_title": "Tôn lên dáng vẻ năng động, khỏe khoắn với những thiết kế từ denim",
+      "page_url": "https://thanhnien.vn/thoi-trang-tre/ton-len-dang-ve-nang-dong-khoe-khoan-voi-nhung-thiet-ke-tu-denim-185240720211058456.htm",
+      "image_url": "https://images2.thanhnien.vn/528068263637045248/2024/7/20/anh-2-1-17214839425981163252033.jpg",
+      "archived_image": "images/expanded-women_outfits_06.jpg",
+      "dimensions": [
+        1363,
+        1619
+      ],
+      "sha256": "f2024cbcdc920670b9a765ad4b2bafa8373dff99b44bc34dd69aa05957b78c45",
+      "review_level": "contact sheet",
+      "observation": "运动外套与褶裙、蕾丝、牛仔裤混搭；短上衣与长裤、长衬衫与外套的比例不同；袖口、领口、帽袜形成呼应。外部商品/媒体图只作穿搭观察。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_outfits_07",
+      "group": "women_outfits",
+      "source_title": "-EJ- 現貨 ADIDAS ORIGINALS RETRO 蛇年限定 短版 絲絨 立領外套 奶油白黑 JN0722 | 蝦皮購物",
+      "page_url": "https://shopee.tw/-EJ-%E7%8F%BE%E8%B2%A8-ADIDAS-ORIGINALS-RETRO-%E8%9B%87%E5%B9%B4%E9%99%90%E5%AE%9A-%E7%9F%AD%E7%89%88-%E7%B5%B2%E7%B5%A8-%E7%AB%8B%E9%A0%98%E5%A4%96%E5%A5%97-%E5%A5%B6%E6%B2%B9%E7%99%BD%E9%BB%91-JN0722-i.193580.25440540360",
+      "image_url": "https://down-tw.img.susercontent.com/file/tw-11134207-7rasg-m52pxtn3pqxie9",
+      "archived_image": "images/expanded-women_outfits_07.jpg",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "c48b30840231389bd5de50843e37c3f07892046786793304a865b0e6849c1f1d",
+      "review_level": "contact sheet",
+      "observation": "运动外套与褶裙、蕾丝、牛仔裤混搭；短上衣与长裤、长衬衫与外套的比例不同；袖口、领口、帽袜形成呼应。外部商品/媒体图只作穿搭观察。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_outfits_08",
+      "group": "women_outfits",
+      "source_title": "Asian Sweatpants Outfit",
+      "page_url": "https://www.pinterest.com/ideas/asian-sweatpants-outfit/907845772017/",
+      "image_url": "https://i.pinimg.com/474x/c1/71/bb/c171bbed6c0dab3ae8c3883ca0915efc.jpg",
+      "archived_image": "images/expanded-women_outfits_08.jpg",
+      "dimensions": [
+        474,
+        631
+      ],
+      "sha256": "465589e53f56923dbfc48d3f73ffd253fff57142a8a85d81480871e5f63e4fed",
+      "review_level": "contact sheet",
+      "observation": "运动外套与褶裙、蕾丝、牛仔裤混搭；短上衣与长裤、长衬衫与外套的比例不同；袖口、领口、帽袜形成呼应。外部商品/媒体图只作穿搭观察。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_outfits_09",
+      "group": "women_outfits",
+      "source_title": "アウター レディース ジャケット テーラードジャケット 長袖 チェック 秋 冬 かわいい 大人可愛い きれいめ シンプル カジュアル 大人 上品 おしゃれ レトロ 大人女子 こなれ感 緑 グリーン フリーサイズ 10代 20代 30代 40代 女性用 OL 通勤 学生 通学 デート お出かけ 女子会 着回し 普段使い 韓国系 ファッション コーデ あったか プチプラ 送料無料 | Rena 韓国ファッション レディースアパレル",
+      "page_url": "https://renaladies.shopselect.net/items/55708727",
+      "image_url": "https://baseec-img-mng.akamaized.net/images/item/origin/f19411db2eee8e3c3e66b722fac486e4.jpg?im=Resize%2Cwidth%3D1280%2Ctype%3Dnormal&imformat=generic&q=90",
+      "archived_image": "images/expanded-women_outfits_09.jpg",
+      "dimensions": [
+        1280,
+        1280
+      ],
+      "sha256": "7f58a162de49600bb302ab258e856cb87356b0ea9f763ff6eebcb59968647ea8",
+      "review_level": "contact sheet",
+      "observation": "运动外套与褶裙、蕾丝、牛仔裤混搭；短上衣与长裤、长衬衫与外套的比例不同；袖口、领口、帽袜形成呼应。外部商品/媒体图只作穿搭观察。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_outfits_10",
+      "group": "women_outfits",
+      "source_title": "春 夏 レディース セットアップ トップス ボトムス アウター ジャージ スリーライン おしゃれ カジュアル 原宿系 ストリート系 S M L XL 4サイズ ワンカラー 韓国 きれいめ プチプラ YN-4-12 | dress_sugar_moon",
+      "page_url": "https://asahimaru9.thebase.in/items/27980496",
+      "image_url": "https://baseec-img-mng.akamaized.net/images/item/origin/739d3c95f94203ccbd0fa707c7904541.jpg?im=Resize%2Cwidth%3D640%2Ctype%3Dnormal&imformat=generic&q=90",
+      "archived_image": "images/expanded-women_outfits_10.jpg",
+      "dimensions": [
+        640,
+        631
+      ],
+      "sha256": "1c51f057abab3a9b2b41fd574da26d8b273f8c65e6bf2cebc965ad908c5eca1e",
+      "review_level": "contact sheet",
+      "observation": "运动外套与褶裙、蕾丝、牛仔裤混搭；短上衣与长裤、长衬衫与外套的比例不同；袖口、领口、帽袜形成呼应。外部商品/媒体图只作穿搭观察。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_outfits_11",
+      "group": "women_outfits",
+      "source_title": "Fan Shuaiqi's cool street photo with big waves - iMedia",
+      "page_url": "https://min.news/en/fashion/3217f63581503f17ea9cdddfa28b4ea0.html",
+      "image_url": "https://p1-tt.byteimg.com/origin/tos-cn-i-qvj2lq49k0/081ba26e7c794e5ea05ab57b65c5c6f9.jpg",
+      "archived_image": "images/expanded-women_outfits_11.jpg",
+      "dimensions": [
+        2717,
+        3948
+      ],
+      "sha256": "faa1878c62e22e8cf0dd61eaae74ab0556f032301c11e58092c1522a95d76c3e",
+      "review_level": "contact sheet",
+      "observation": "运动外套与褶裙、蕾丝、牛仔裤混搭；短上衣与长裤、长衬衫与外套的比例不同；袖口、领口、帽袜形成呼应。外部商品/媒体图只作穿搭观察。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_outfits_12",
+      "group": "women_outfits",
+      "source_title": "After dismissal, secondhand shopping takes off in China | Vogue",
+      "page_url": "https://www.vogue.com/article/after-dismissal-secondhand-shopping-takes-off-in-china",
+      "image_url": "https://assets.vogue.com/photos/6391e38e2a2a5dac86c14b33/master/w_1600%2Cc_limit/VBIC-SECONDHAND-voguebus-photographer-month-22-story-inline-1.jpg",
+      "archived_image": "images/expanded-women_outfits_12.jpg",
+      "dimensions": [
+        1600,
+        1210
+      ],
+      "sha256": "be9386d44ed6dc65c182c715c55cc3d2a01dc5893c49c15600e9dcdbcdf4ff49",
+      "review_level": "contact sheet",
+      "observation": "运动外套与褶裙、蕾丝、牛仔裤混搭；短上衣与长裤、长衬衫与外套的比例不同；袖口、领口、帽袜形成呼应。外部商品/媒体图只作穿搭观察。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_outfits_01",
+      "group": "men_outfits",
+      "source_title": "两种男士硬核穿搭风，做100%型男（机能风、军旅风男装推荐） - 知乎",
+      "page_url": "https://zhuanlan.zhihu.com/p/438646216",
+      "image_url": "https://pic2.zhimg.com/v2-e4340447a209136f7d786f54a87aa9e9_r.jpg",
+      "archived_image": "images/expanded-men_outfits_01.jpg",
+      "dimensions": [
+        800,
+        800
+      ],
+      "sha256": "c41c1c9eeacb291287140753c6f0dcb4bc698a98661d1aacf9da243efc665a75",
+      "review_level": "contact sheet",
+      "observation": "工装和山系样本存在多种体型与衣物松量；口袋位置、叠穿厚度、裤脚堆积/卷边、帽子和鞋重改变轮廓，不全靠显高显瘦。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_outfits_03",
+      "group": "men_outfits",
+      "source_title": "niko and...（ニコアンド）の「[UNSTUDIED]アシメトリーファティーグジャケット（ナイロンジャケット）」 - WEAR",
+      "page_url": "https://wear.jp/item/77203048/",
+      "image_url": "https://c.imgz.jp/541/82136541/82136541b_b_01_500.jpg",
+      "archived_image": "images/expanded-men_outfits_03.jpg",
+      "dimensions": [
+        500,
+        600
+      ],
+      "sha256": "a915de247f1bce3374832bf2847ecfa77a344de951f0b878b8589f4a947f26b6",
+      "review_level": "contact sheet",
+      "observation": "工装和山系样本存在多种体型与衣物松量；口袋位置、叠穿厚度、裤脚堆积/卷边、帽子和鞋重改变轮廓，不全靠显高显瘦。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_outfits_04",
+      "group": "men_outfits",
+      "source_title": "citeユニクロ おしゃれ初心者におすすめしたいメンズパンツ10選",
+      "page_url": "https://magazine.photojoy.jp/mens-fashion/40327/",
+      "image_url": "https://sp-ao.shortpixel.ai/client/q_lqip%2Cret_wait%2Cw_384%2Ch_512/https%3A/magazine.photojoy.jp/wp-content/uploads/2023/03/ugc_stylehint_uq_jp_photo_230120_1025503-768x1024.jpg",
+      "archived_image": "images/expanded-men_outfits_04.jpg",
+      "dimensions": [
+        768,
+        1024
+      ],
+      "sha256": "9763a02fe1e02389a6a493abeb349c7c9341b22d312e3f083f2e25e90b9cfb44",
+      "review_level": "contact sheet",
+      "observation": "工装和山系样本存在多种体型与衣物松量；口袋位置、叠穿厚度、裤脚堆积/卷边、帽子和鞋重改变轮廓，不全靠显高显瘦。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_outfits_05",
+      "group": "men_outfits",
+      "source_title": "Ú-Sêng Tân｜nicesundaysのハンチング/ベレー帽を使ったコーディネート - WEAR",
+      "page_url": "https://wear.jp/kobe1989/25131342/",
+      "image_url": "https://images.wear2.jp/coordinate/wni2VBkG/FUp3xMmn/1741637581_1000.jpg",
+      "archived_image": "images/expanded-men_outfits_05.jpg",
+      "dimensions": [
+        1000,
+        1334
+      ],
+      "sha256": "9e4e9cc780a4be5ce8216dc05a96752b394d678933b3ebbbaddf4fd8620c41f5",
+      "review_level": "contact sheet",
+      "observation": "工装和山系样本存在多种体型与衣物松量；口袋位置、叠穿厚度、裤脚堆积/卷边、帽子和鞋重改变轮廓，不全靠显高显瘦。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_outfits_07",
+      "group": "men_outfits",
+      "source_title": "Colorholic man｜CMF OUTDOOR GARMENTのマウンテンパーカーを使ったコーディネート - WEAR",
+      "page_url": "https://wear.jp/colorholicman/25033863/",
+      "image_url": "https://images.wear2.jp/coordinate_sub_image/ywiogEW3/rk2bIsNR/1738948933_1000.jpg",
+      "archived_image": "images/expanded-men_outfits_07.jpg",
+      "dimensions": [
+        1000,
+        1333
+      ],
+      "sha256": "4a10c3ee410853bdabc9c7a09a7e61411bb9102ea59915747d8b4be8a241cc8a",
+      "review_level": "contact sheet",
+      "observation": "工装和山系样本存在多种体型与衣物松量；口袋位置、叠穿厚度、裤脚堆积/卷边、帽子和鞋重改变轮廓，不全靠显高显瘦。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_outfits_08",
+      "group": "men_outfits",
+      "source_title": "男生穿搭_搭配_流行_新款_图片_蘑菇街",
+      "page_url": "https://www.mogu.com/splookpclist/2ccd939fec8c3a33e77d8c70a03879a6/54",
+      "image_url": "https://s5.mogucdn.com/mlcdn/c45406/181114_39b6a7i52a51l187e4bg205l8b43l_1080x1638.jpg",
+      "archived_image": "images/expanded-men_outfits_08.jpg",
+      "dimensions": [
+        1080,
+        1638
+      ],
+      "sha256": "6f7ca065665d7c9cb469d37fed37271645b5922662208bbe2e17c8a9084021c8",
+      "review_level": "contact sheet",
+      "observation": "工装和山系样本存在多种体型与衣物松量；口袋位置、叠穿厚度、裤脚堆积/卷边、帽子和鞋重改变轮廓，不全靠显高显瘦。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_outfits_09",
+      "group": "men_outfits",
+      "source_title": "StylingBook",
+      "page_url": "https://www.uniqlo.com/us/en/stylingbook/stylehint/4358456?srsltid=AfmBOooquJxHHsJjukCc_t914h_truvm5NTyEMl7p-FjH46Ggkp7yLEP",
+      "image_url": "https://api.fastretailing.com/ugc/v1/uq/jp/SR_IMAGES/ugc_stylehint_uq_jp_photo_240124_1256795_r-1000-1333",
+      "archived_image": "images/expanded-men_outfits_09.jpg",
+      "dimensions": [
+        999,
+        1333
+      ],
+      "sha256": "16e5c547b9c7d248d0636bbd4c0c86a81d179b76a64642c6729dd50b75f7e599",
+      "review_level": "contact sheet",
+      "observation": "工装和山系样本存在多种体型与衣物松量；口袋位置、叠穿厚度、裤脚堆积/卷边、帽子和鞋重改变轮廓，不全靠显高显瘦。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_outfits_10",
+      "group": "men_outfits",
+      "source_title": "Colorholic man｜CMF OUTDOOR GARMENTのスウェットを使ったコーディネート - WEAR",
+      "page_url": "https://wear.jp/colorholicman/25157062/",
+      "image_url": "https://images.wear2.jp/coordinate/ywiogEW3/LkWDrHBu/1742308083_1000.jpg",
+      "archived_image": "images/expanded-men_outfits_10.jpg",
+      "dimensions": [
+        1000,
+        1334
+      ],
+      "sha256": "99735dcfeed22246a273e2b08294244b55809f9867ebf28672c591caa974d143",
+      "review_level": "contact sheet",
+      "observation": "工装和山系样本存在多种体型与衣物松量；口袋位置、叠穿厚度、裤脚堆积/卷边、帽子和鞋重改变轮廓，不全靠显高显瘦。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_outfits_11",
+      "group": "men_outfits",
+      "source_title": "#分享 入伍前的5G入秋穿搭 - 穿搭板 | Dcard",
+      "page_url": "https://www.dcard.tw/f/dressup/p/253633361",
+      "image_url": "https://megapx-assets.dcard.tw/images/31483617-4c2c-494b-8635-6324cfec72f8/1280.jpeg",
+      "archived_image": "images/expanded-men_outfits_11.jpg",
+      "dimensions": [
+        960,
+        1280
+      ],
+      "sha256": "69585c7d211f735ccfebf90c79d84c6dbc97124955b51ea93bc434ba5d813592",
+      "review_level": "contact sheet",
+      "observation": "工装和山系样本存在多种体型与衣物松量；口袋位置、叠穿厚度、裤脚堆积/卷边、帽子和鞋重改变轮廓，不全靠显高显瘦。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_outfits_12",
+      "group": "men_outfits",
+      "source_title": "Shopee Brasil | Ofertas incríveis. Melhores preços do mercado",
+      "page_url": "https://shopee.com.br/Primavera-outono-bonito-jaqueta-masculina-ins-High-Street-Street-Wear-estilo-Hong-Kong-japon%C3%AAs-Harajuku-estilo-vers%C3%A3o-co-i.243113656.29226919676",
+      "image_url": "https://down-br.img.susercontent.com/file/cn-11134208-7ras8-m6g61c6j0aug1f",
+      "archived_image": "images/expanded-men_outfits_12.jpg",
+      "dimensions": [
+        750,
+        1000
+      ],
+      "sha256": "969879f06f8015600c5bea369fb9d5e6331d49677fbc92009a6738dcf1d48df6",
+      "review_level": "contact sheet",
+      "observation": "工装和山系样本存在多种体型与衣物松量；口袋位置、叠穿厚度、裤脚堆积/卷边、帽子和鞋重改变轮廓，不全靠显高显瘦。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_faces_02",
+      "group": "women_faces",
+      "source_title": "ウィンクで写真をもっと楽しく撮ろう！",
+      "page_url": "https://www.lemon8-app.com/wenye1007/7163957609572188678?region=jp",
+      "image_url": "https://www.lemon8-app.com/seo/image?index=0&item_id=7163957609572188678&sign=a44afab01e1a3e77f8e8d1d99e5cc43c",
+      "archived_image": "images/expanded-women_faces_02.jpg",
+      "dimensions": [
+        1078,
+        1348
+      ],
+      "sha256": "dcebcda9d417efb9e51aa9cbf1cd2abd41ce99ec78c22195ec5491879fe94b91",
+      "review_level": "contact sheet",
+      "observation": "眨眼、俯拍、托脸、眼妆与开眼幅度影响观感；侧眼尾、眉下空间、面颊和唇形的组合不同。妆造及后期未知，不当作原生五官证明。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_faces_04",
+      "group": "women_faces",
+      "source_title": "这些网红，美妆博主你可能一个都不认识！|美妆|杏黄色|网红|吊带|清新风_新浪新闻",
+      "page_url": "https://k.sina.com.cn/article_7042558343_p1a3c4e98700100im7n.html",
+      "image_url": "https://n.sinaimg.cn/sinacn10115/273/w1440h1233/20190608/0057-hxyuapi5813117.jpg",
+      "archived_image": "images/expanded-women_faces_04.jpg",
+      "dimensions": [
+        1440,
+        1233
+      ],
+      "sha256": "83a96ac7db1dc17286799fc9ec5e4764f822f89849cb12fe5f17a3d4c022f06a",
+      "review_level": "contact sheet",
+      "observation": "眨眼、俯拍、托脸、眼妆与开眼幅度影响观感；侧眼尾、眉下空间、面颊和唇形的组合不同。妆造及后期未知，不当作原生五官证明。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_faces_07",
+      "group": "women_faces",
+      "source_title": "欧尼熊-One bear | iQIYI",
+      "page_url": "https://www.iq.com/actor-info/%E6%AC%A7%E5%B0%BC%E7%86%8A-one-bear-242822605?lang=zh_cn",
+      "image_url": "https://pic7.iqiyipic.com/image/20191127/42/3c/p_5275056_m_601_1080_608.jpg",
+      "archived_image": "images/expanded-women_faces_07.jpg",
+      "dimensions": [
+        1080,
+        608
+      ],
+      "sha256": "f3b6407c54b02482d55b909f86f47e92d6b872eb8a013bbbd3d27998dfb9f751",
+      "review_level": "contact sheet",
+      "observation": "眨眼、俯拍、托脸、眼妆与开眼幅度影响观感；侧眼尾、眉下空间、面颊和唇形的组合不同。妆造及后期未知，不当作原生五官证明。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_faces_08",
+      "group": "women_faces",
+      "source_title": "「內雙眼皮」眼妝教學6招！從「眼影、眼線、睫毛」手把手教，自然放大又不吃妝",
+      "page_url": "https://www.womenshealthmag.com/tw/beauty/make-up/g40914708/innerdouble-foldeyelid/",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/198456221-162107959227252-5282660053667432644-n-1660730795.jpg",
+      "archived_image": "images/expanded-women_faces_08.jpg",
+      "dimensions": [
+        640,
+        800
+      ],
+      "sha256": "ee1f036f6c22eb882c91f539dedb7e60852d1a0b92d91c9226d8b10345253fb2",
+      "review_level": "contact sheet",
+      "observation": "眨眼、俯拍、托脸、眼妆与开眼幅度影响观感；侧眼尾、眉下空间、面颊和唇形的组合不同。妆造及后期未知，不当作原生五官证明。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_faces_09",
+      "group": "women_faces",
+      "source_title": "漂亮小姐姐的高冷自拍头像图片(5) - 来配图",
+      "page_url": "https://www.laipeitu.com/p/20220313/14033_4.htm",
+      "image_url": "https://imgs.laipeitu.com/upload/2022/2022031309/46597.jpg",
+      "archived_image": "images/expanded-women_faces_09.jpg",
+      "dimensions": [
+        828,
+        828
+      ],
+      "sha256": "c52181ddb51352ad5979202d4622bcb7e8cb4956bb58e7cf144e5051e40b5567",
+      "review_level": "contact sheet",
+      "observation": "眨眼、俯拍、托脸、眼妆与开眼幅度影响观感；侧眼尾、眉下空间、面颊和唇形的组合不同。妆造及后期未知，不当作原生五官证明。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_faces_11",
+      "group": "women_faces",
+      "source_title": "內雙眼皮必學3個眼妝技巧不吃妝！「母胎感眼下臥蠶、自然開眼頭」秒變深邃眼神",
+      "page_url": "https://www.harpersbazaar.com/tw/beauty/makeup/g36272673/3-eyeshadow-tips/",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/fotojet-2023-11-02t121837-046-654326ce1db0d.jpg?crop=0.494xw%3A0.987xh%3B0.506xw%2C0.0130xh&resize=640%3A%2A",
+      "archived_image": "images/expanded-women_faces_11.jpg",
+      "dimensions": [
+        640,
+        639
+      ],
+      "sha256": "39e5f26a5159d7d742005db2b2e63854384ca130ec761cf6c393507ffaa378f4",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "眨眼、俯拍、托脸、眼妆与开眼幅度影响观感；侧眼尾、眉下空间、面颊和唇形的组合不同。妆造及后期未知，不当作原生五官证明。",
+      "detail_observation": "笑容带动面颊和下眼周，手势与斜头改变照片中比例；睫毛与眼线存在，不能照搬为所有角色的眼部描边。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_faces_12",
+      "group": "women_faces",
+      "source_title": "抖音美女梨涡允允自拍照图片_梨涡允允自拍照图片 - 三千图片网",
+      "page_url": "https://www.win3000.com/pic/3563_9.html",
+      "image_url": "https://img.win3000.com/m00/fd/94/ab4e488225dc23f725f497f9e88c88a0.jpg",
+      "archived_image": "images/expanded-women_faces_12.jpg",
+      "dimensions": [
+        1024,
+        1365
+      ],
+      "sha256": "41411aed0c8eae9d78f647cb718894859a44e4c84534cf4fb894eccf68c048d7",
+      "review_level": "contact sheet",
+      "observation": "眨眼、俯拍、托脸、眼妆与开眼幅度影响观感；侧眼尾、眉下空间、面颊和唇形的组合不同。妆造及后期未知，不当作原生五官证明。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_faces_02",
+      "group": "men_faces",
+      "source_title": "Trương Lục Nhượng - Chu Dực Nhiên - Khi Anh Chạy Về Phía Em | Diễn viên, Hình ảnh, Cười",
+      "page_url": "https://www.pinterest.com/pin/trng-lc-nhng-chu-dc-nhin-khi-anh-chy-v-pha-em--1025624515121914289/",
+      "image_url": "https://i.pinimg.com/736x/65/1e/94/651e94f4fd3c81bac1478967a210f9aa.jpg",
+      "archived_image": "images/expanded-men_faces_02.jpg",
+      "dimensions": [
+        736,
+        736
+      ],
+      "sha256": "2bec40a64d94a2881db4d8e97c1732796021e20a7bb3f0d990ff095e7847045d",
+      "review_level": "contact sheet",
+      "observation": "刘海、镜头距离、低头抬眼与眉眼关系共同影响眼型；遮挡图不用于补猜下半张脸。发现一张与前轮相同图片并扣除。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_faces_03",
+      "group": "men_faces",
+      "source_title": "肖战的唇下痣，鹿晗的眉上痣，白敬亭的泪痣，谁的痣最撩人？_长相",
+      "page_url": "https://www.sohu.com/na/344854308_120339209",
+      "image_url": "https://5b0988e595225.cdn.sohucs.com/images/20191003/7f88402ac7114ebda0bb996878165c75.jpeg",
+      "archived_image": "images/expanded-men_faces_03.jpg",
+      "dimensions": [
+        2160,
+        1440
+      ],
+      "sha256": "a3413a6d482864313277e125e452e618b857c1de81246a18d439ed10a16a946f",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "刘海、镜头距离、低头抬眼与眉眼关系共同影响眼型；遮挡图不用于补猜下半张脸。发现一张与前轮相同图片并扣除。",
+      "detail_observation": "抬起相机与三分之二角度影响鼻与下颌投影；睑折较低、眼尾和眉下空间具体，唇下痣不是通用去AI配方。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_faces_06",
+      "group": "men_faces",
+      "source_title": "🌻 (@sichengupdate) on X",
+      "page_url": "https://x.com/sichengupdate/status/2000552811164279270",
+      "image_url": "https://pbs.twimg.com/media/G8NkLTbW8AAAXKg.jpg",
+      "archived_image": "images/expanded-men_faces_06.jpg",
+      "dimensions": [
+        900,
+        1200
+      ],
+      "sha256": "ea5c95c47cdedbc52e9d71301c975573cbf0043794671b64d0171894f67b55a9",
+      "review_level": "contact sheet",
+      "observation": "刘海、镜头距离、低头抬眼与眉眼关系共同影响眼型；遮挡图不用于补猜下半张脸。发现一张与前轮相同图片并扣除。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_faces_07",
+      "group": "men_faces",
+      "source_title": "韓國10大單眼皮男神盤點「李鍾碩、朴敘俊、丁海寅」狗狗眼加精壯身材反轉魅力太迷人",
+      "page_url": "https://www.elle.com/tw/beauty/health/g42621832/single-eyelid-celebrities/",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/306377839-1025773278065324-2572723949082156379-n-1674626734.jpg?crop=1xw%3A1xh%3Bcenter%2Ctop&resize=980%3A%2A",
+      "archived_image": "images/expanded-men_faces_07.jpg",
+      "dimensions": [
+        980,
+        1225
+      ],
+      "sha256": "2b7a66fc0bf88aeda3e0765d5348505705e1b1f87e718456205eec577c477080",
+      "review_level": "contact sheet",
+      "observation": "刘海、镜头距离、低头抬眼与眉眼关系共同影响眼型；遮挡图不用于补猜下半张脸。发现一张与前轮相同图片并扣除。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_faces_08",
+      "group": "men_faces",
+      "source_title": "Pin by Chimene on asian boys/guys | Pretty people, Cute asian guys, Cute japanese boys",
+      "page_url": "https://www.pinterest.com/pin/asian-boysguys--118430665255565969/",
+      "image_url": "https://i.pinimg.com/736x/b6/55/4f/b6554f699aab31fae87ba817dad5816f.jpg",
+      "archived_image": "images/expanded-men_faces_08.jpg",
+      "dimensions": [
+        736,
+        981
+      ],
+      "sha256": "9e79f97ca804dfdaf4ba10a281b9207a44975d15666a71b9f5fd23bfca6705f7",
+      "review_level": "contact sheet",
+      "observation": "刘海、镜头距离、低头抬眼与眉眼关系共同影响眼型；遮挡图不用于补猜下半张脸。发现一张与前轮相同图片并扣除。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_faces_09",
+      "group": "men_faces",
+      "source_title": "17 Cute boys ideas | cute boys, ulzzang boy, boys",
+      "page_url": "https://www.pinterest.com/hadssis/cute-boys/",
+      "image_url": "https://i.pinimg.com/originals/32/4b/a6/324ba64f55e0ccbdd610e768620d4413.jpg",
+      "archived_image": "images/expanded-men_faces_09.jpg",
+      "dimensions": [
+        720,
+        960
+      ],
+      "sha256": "f02f13fe5e548aa79961454f70ae65701530db1d1d74e543186fa2beb4ba96db",
+      "review_level": "contact sheet",
+      "observation": "刘海、镜头距离、低头抬眼与眉眼关系共同影响眼型；遮挡图不用于补猜下半张脸。发现一张与前轮相同图片并扣除。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_women_01",
+      "group": "older_women",
+      "source_title": "Became a fan of the old Japanese street photography: wearing clothes that don't look tender or old, and still elegant with white hair - iNEWS",
+      "page_url": "https://inf.news/en/news/952c379391e39a8f27c0de2fd547031d.html",
+      "image_url": "https://p1-tt.byteimg.com/origin/tos-cn-i-qvj2lq49k0/06c39c869e844bef8cc211f8e48c8a9d.jpg",
+      "archived_image": "images/expanded-older_women_01.jpg",
+      "dimensions": [
+        993,
+        1356
+      ],
+      "sha256": "c3ef5befa29c4c1e96dcc47b0d4d4bc70e559505df604f9b79f7d1d1967ab642",
+      "review_level": "contact sheet",
+      "observation": "银发、颊部轮廓、眼镜和笑容并不统一；服装有宽松风衣、长裙、针织、色彩围巾和运动鞋。口罩/墨镜图仅用于穿搭和姿态；分组按检索来源，不确认个人性别。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_women_02",
+      "group": "older_women",
+      "source_title": "道具を変えることで、暮らしも変わる。賢く選んで、むだなく、気持ちよく。イーオクト・髙橋百合子さんの「心地いい、私の小さな暮らし」 - 天然生活web",
+      "page_url": "https://tennenseikatsu.jp/_ct/17678930",
+      "image_url": "https://d1uzk9o9cg136f.cloudfront.net/f/16783328/rc/2024/01/17/f118f4d63222a9ce1aa8c0342d2011ce77fb0011_xlarge.jpg",
+      "archived_image": "images/expanded-older_women_02.jpg",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "sha256": "2cce89d182ca52956c5dde1de0dfa2c4253bc58ae6f7b441c6ed8e08a521778b",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "银发、颊部轮廓、眼镜和笑容并不统一；服装有宽松风衣、长裙、针织、色彩围巾和运动鞋。口罩/墨镜图仅用于穿搭和姿态；分组按检索来源，不确认个人性别。",
+      "detail_observation": "银发和笑容、镜架、深色围巾与长外套构成完整人物观感；原图脸部仍较小，不虚构细皮纹。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_women_03",
+      "group": "older_women",
+      "source_title": "看了“日本老年人”的穿搭才明白，不扮嫩不老气，简单大方才最美",
+      "page_url": "https://k.sina.cn/article_7538330223_p1c151ca6f0010187lg.html?from=fashion",
+      "image_url": "https://k.sinaimg.cn/n/sinakd10118/640/w640h800/20210827/79c9-df4c3e6ad5e63f317569af91f9360c98.jpg/w700d1q75cms.jpg",
+      "archived_image": "images/expanded-older_women_03.jpg",
+      "dimensions": [
+        640,
+        800
+      ],
+      "sha256": "b8e60cb398cab6830ae6e0dd385be0c10c53822e757bd8019028565a824a3396",
+      "review_level": "contact sheet",
+      "observation": "银发、颊部轮廓、眼镜和笑容并不统一；服装有宽松风衣、长裙、针织、色彩围巾和运动鞋。口罩/墨镜图仅用于穿搭和姿态；分组按检索来源，不确认个人性别。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_women_04",
+      "group": "older_women",
+      "source_title": "Advanced Style. \"Showcasing some of the coolest and most beautifully dressed older Japanese women we’ve ever seen, L’idéal challe… | 年配の女性のファッション, ファッション, シニアファッション",
+      "page_url": "https://www.pinterest.com/pin/631137335257609336/",
+      "image_url": "https://i.pinimg.com/736x/c9/3e/22/c93e223ea6ab1fc291c2ef2a91493e91.jpg",
+      "archived_image": "images/expanded-older_women_04.jpg",
+      "dimensions": [
+        580,
+        1029
+      ],
+      "sha256": "17813d40eee36130acb19b6eff73d2f843ae46d8fbcfbf88ab4e6dcd946debdf",
+      "review_level": "contact sheet",
+      "observation": "银发、颊部轮廓、眼镜和笑容并不统一；服装有宽松风衣、长裙、针织、色彩围巾和运动鞋。口罩/墨镜图仅用于穿搭和姿态；分组按检索来源，不确认个人性别。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_women_05",
+      "group": "older_women",
+      "source_title": "看了日本“银发奶奶”的穿搭，才懂：女人直面衰老，比装嫩更高级__财经头条__新浪财经",
+      "page_url": "https://cj.sina.com.cn/articles/view/7282749474/1b215f022020016kz0",
+      "image_url": "https://n.sinaimg.cn/sinakd20230508s/723/w640h883/20230508/0b4b-acecfa0daf661967479d5300cf56bb5d.jpg",
+      "archived_image": "images/expanded-older_women_05.jpg",
+      "dimensions": [
+        640,
+        883
+      ],
+      "sha256": "39f51a7dbb98c48e4fc61475951eb72825adab27b5bb9f4e744bcd0780d59ecf",
+      "review_level": "contact sheet",
+      "observation": "银发、颊部轮廓、眼镜和笑容并不统一；服装有宽松风衣、长裙、针织、色彩围巾和运动鞋。口罩/墨镜图仅用于穿搭和姿态；分组按检索来源，不确认个人性别。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_women_06",
+      "group": "older_women",
+      "source_title": "japanese old age woman fashion - Google Search | Kleding stijlen, Kleding, Mode stijl",
+      "page_url": "https://www.pinterest.com/pin/527273068876278338/",
+      "image_url": "https://i.pinimg.com/originals/d7/96/83/d79683d011ace0dd89cb8ff402fb9378.png",
+      "archived_image": "images/expanded-older_women_06.png",
+      "dimensions": [
+        600,
+        910
+      ],
+      "sha256": "c1070ca2551e76ca3bb5f17e8930691269be7cca68341893dd383f0cc5608229",
+      "review_level": "contact sheet",
+      "observation": "银发、颊部轮廓、眼镜和笑容并不统一；服装有宽松风衣、长裙、针织、色彩围巾和运动鞋。口罩/墨镜图仅用于穿搭和姿态；分组按检索来源，不确认个人性别。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_women_07",
+      "group": "older_women",
+      "source_title": "Fashion for the young at heart! A different take on what it means to get older in Japan | Over 60 fashion, Fashion tips for women, Lady dior bag",
+      "page_url": "https://www.pinterest.com/pin/363102788677751294/",
+      "image_url": "https://i.pinimg.com/originals/5d/3d/a4/5d3da4733ccf6fbb3e8eac4a58be1233.jpg",
+      "archived_image": "images/expanded-older_women_07.jpg",
+      "dimensions": [
+        580,
+        862
+      ],
+      "sha256": "f8ff5259b0067b27fba2241afa9597b9c582cee721cc03d60624ade1b16724a1",
+      "review_level": "contact sheet",
+      "observation": "银发、颊部轮廓、眼镜和笑容并不统一；服装有宽松风衣、长裙、针织、色彩围巾和运动鞋。口罩/墨镜图仅用于穿搭和姿态；分组按检索来源，不确认个人性别。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_women_08",
+      "group": "older_women",
+      "source_title": "被日本街拍惊艳到！白发老人穿衣比年轻人更有品味，气质很高级_穿着_印花_服装",
+      "page_url": "https://www.sohu.com/a/607105673_120236255",
+      "image_url": "https://p7.itc.cn/q_70/images03/20221117/590dedd87fbe471fbedfadee2b0f6afb.png",
+      "archived_image": "images/expanded-older_women_08.png",
+      "dimensions": [
+        1068,
+        1625
+      ],
+      "sha256": "f5fd98cebc8141a4aa91ed1b5a39b74ac370c625a5330b5515cce5476b9c0dfb",
+      "review_level": "contact sheet",
+      "observation": "银发、颊部轮廓、眼镜和笑容并不统一；服装有宽松风衣、长裙、针织、色彩围巾和运动鞋。口罩/墨镜图仅用于穿搭和姿态；分组按检索来源，不确认个人性别。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_women_09",
+      "group": "older_women",
+      "source_title": "看街拍开眼界，日本奶奶的“冬季穿搭”当属第一，自然又有气质|穿搭|日本|羽绒服",
+      "page_url": "https://k.sina.cn/article_7282749474_1b215f022020016003.html",
+      "image_url": "https://k.sinaimg.cn/n/sinakd20230124s/572/w640h732/20230124/6752-e76d5b29df2d1482e7874c2eb50fc572.jpg/w700d1q75cms.jpg",
+      "archived_image": "images/expanded-older_women_09.jpg",
+      "dimensions": [
+        640,
+        732
+      ],
+      "sha256": "c65ebb2d6c25d5039b961c3298ce6252dd44e9fdb8cf99de7c3ced4439c94135",
+      "review_level": "contact sheet",
+      "observation": "银发、颊部轮廓、眼镜和笑容并不统一；服装有宽松风衣、长裙、针织、色彩围巾和运动鞋。口罩/墨镜图仅用于穿搭和姿态；分组按检索来源，不确认个人性别。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_women_10",
+      "group": "older_women",
+      "source_title": "摄影师在上海街拍一千个老人：睡衣、西装、拖鞋与草帽_照片",
+      "page_url": "https://www.sohu.com/a/452554617_120146415",
+      "image_url": "https://p2.itc.cn/images01/20210225/4cab04cb24124be094e7ffe49dd312c2.jpeg",
+      "archived_image": "images/expanded-older_women_10.jpg",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "sha256": "bd8b3a57ba91c23822df1fd84bca3bdcdae9d8fa5368b87bb8636c8e07433060",
+      "review_level": "contact sheet",
+      "observation": "银发、颊部轮廓、眼镜和笑容并不统一；服装有宽松风衣、长裙、针织、色彩围巾和运动鞋。口罩/墨镜图仅用于穿搭和姿态；分组按检索来源，不确认个人性别。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_women_11",
+      "group": "older_women",
+      "source_title": "The outfits of the elderly in Japan are \"old and beautiful\"!Exquisite and elegant dress, not tender or old-fashioned - iNEWS",
+      "page_url": "https://inf.news/en/fashion/b9b345ba57ecbaefbabcf0b4264b4791.html",
+      "image_url": "https://p1-tt.byteimg.com/origin/pgc-image/1f3b37b7385340a0b89ab82b7d12381a.jpg",
+      "archived_image": "images/expanded-older_women_11.jpg",
+      "dimensions": [
+        1080,
+        1439
+      ],
+      "sha256": "0ae406e5cc71085ff90a9c6a0a9caef5031e65e193ba81a5ba9b7a6757314c4e",
+      "review_level": "contact sheet",
+      "observation": "银发、颊部轮廓、眼镜和笑容并不统一；服装有宽松风衣、长裙、针织、色彩围巾和运动鞋。口罩/墨镜图仅用于穿搭和姿态；分组按检索来源，不确认个人性别。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_men_01",
+      "group": "older_men",
+      "source_title": "Why are you advised to wear more \"baseball caps\"? Just look at Grandpa Shanghai, you will know that fashion is not greasy - iMedia",
+      "page_url": "https://min.news/en/fashion/b30b913c098f78f3cc50622b4120d724.html",
+      "image_url": "https://p1-tt.byteimg.com/origin/tos-cn-i-qvj2lq49k0/e472ba70afe04385a9f2e0a7f498de57.jpg",
+      "archived_image": "images/expanded-older_men_01.jpg",
+      "dimensions": [
+        1080,
+        1440
+      ],
+      "sha256": "45e2d48819dbea92a7f89322e04808f17880e3c7763e8be7be6f91c777bca7bb",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "牛仔外套、羽绒内层、双排扣大衣、风衣与西装表现不同角色感；额颊、发际线、颈部与肩背姿态联动，不把年龄只写成皱纹。",
+      "detail_observation": "不完全等高的眼睑开口、较薄唇、面颊与颈部形态、帽檐阴影共同成立；夹报纸的手臂和多层外套体现日常动作。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_men_02",
+      "group": "older_men",
+      "source_title": "No.163 仙台ストリートスナップ & ファッションフォト Sendai Style Photography ポートレート 2026 A/W 1.5｜kou / Sendai Style Photography",
+      "page_url": "https://note.com/ssdl/n/nfaabed0cb3b8",
+      "image_url": "https://assets.st-note.com/img/1777609686-HLWK2moUgRbnAT4Bk7i9lP0y.png?width=1200",
+      "archived_image": "images/expanded-older_men_02.png",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "sha256": "18716063d26756417deb93ae7dac7d3cfa034eab3e3cfc1d083a63c770166dc7",
+      "review_level": "contact sheet",
+      "observation": "牛仔外套、羽绒内层、双排扣大衣、风衣与西装表现不同角色感；额颊、发际线、颈部与肩背姿态联动，不把年龄只写成皱纹。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_men_03",
+      "group": "older_men",
+      "source_title": "「笑点×週刊プレイボーイ」60周年コラボビジュアルが実現！5月25日発売の「週刊プレイボーイ」23号にて - ライブドアニュース",
+      "page_url": "https://news.livedoor.com/article/detail/31310846/",
+      "image_url": "https://image.news.livedoor.com/newsimage/stf/1/c/1c53e_1843_1047d6689fc57bdae6b74d295e855339.jpg",
+      "archived_image": "images/expanded-older_men_03.jpg",
+      "dimensions": [
+        800,
+        1200
+      ],
+      "sha256": "785e4544288006eecf5de986cbcd65cce5b1204abbd337d9cdccad0912df832e",
+      "review_level": "contact sheet",
+      "observation": "牛仔外套、羽绒内层、双排扣大衣、风衣与西装表现不同角色感；额颊、发际线、颈部与肩背姿态联动，不把年龄只写成皱纹。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_men_04",
+      "group": "older_men",
+      "source_title": "街歩きスナップ｜***///trk@ms",
+      "page_url": "https://note.com/okasan226/n/n0ad8e7952693",
+      "image_url": "https://assets.st-note.com/production/uploads/images/89726755/fa6ef8d52294b67c69b24ad81f11df09.png?width=1200",
+      "archived_image": "images/expanded-older_men_04.png",
+      "dimensions": [
+        1024,
+        768
+      ],
+      "sha256": "be1f1d5cd25ea1fa9a413f38de5a89cb0956e703a5d8e2247731fa790cb314d5",
+      "review_level": "contact sheet",
+      "observation": "牛仔外套、羽绒内层、双排扣大衣、风衣与西装表现不同角色感；额颊、发际线、颈部与肩背姿态联动，不把年龄只写成皱纹。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_men_05",
+      "group": "older_men",
+      "source_title": "Asgentleman：赤峰幸生（Akamine Yukio）_西装",
+      "page_url": "https://www.sohu.com/a/406274666_599888",
+      "image_url": "https://p4.itc.cn/images01/20200707/5c9a15c34ad54d09bef1c8e0b979de07.png",
+      "archived_image": "images/expanded-older_men_05.png",
+      "dimensions": [
+        468,
+        704
+      ],
+      "sha256": "6d65cfa3b88a2b5b6e6f0033c95fdc2f833a7290ef2b99cd935cb3e2ac46c762",
+      "review_level": "contact sheet",
+      "observation": "牛仔外套、羽绒内层、双排扣大衣、风衣与西装表现不同角色感；额颊、发际线、颈部与肩背姿态联动，不把年龄只写成皱纹。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_men_06",
+      "group": "older_men",
+      "source_title": "追憶　～私の中の俳優・深水三章さん～｜葛飾西山",
+      "page_url": "https://note.com/katsushika_note/n/ne7dba63a3cd4",
+      "image_url": "https://assets.st-note.com/img/1669291538930-DfPdKugVYa.jpg?fit=bounds&height=2000&quality=85&width=2000",
+      "archived_image": "images/expanded-older_men_06.jpg",
+      "dimensions": [
+        1395,
+        849
+      ],
+      "sha256": "738cead6b201aad271ec72d614c06d23720b0678aae1bf99fc69c704408721a3",
+      "review_level": "contact sheet",
+      "observation": "牛仔外套、羽绒内层、双排扣大衣、风衣与西装表现不同角色感；额颊、发际线、颈部与肩背姿态联动，不把年龄只写成皱纹。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_men_08",
+      "group": "older_men",
+      "source_title": "中国有街拍吗？ 我们和一个职业街拍摄影师聊了聊 | 界面 · 财经号",
+      "page_url": "https://m.jiemian.com/article/1528903.html",
+      "image_url": "https://img.jiemian.com/jiemian/original/20170807/150207536224762100.jpg",
+      "archived_image": "images/expanded-older_men_08.jpg",
+      "dimensions": [
+        1200,
+        1800
+      ],
+      "sha256": "59a879d7d0570ae2f460ced307ae00bd82c90b7624e7f63ea022e06f9bb60aa8",
+      "review_level": "contact sheet",
+      "observation": "牛仔外套、羽绒内层、双排扣大衣、风衣与西装表现不同角色感；额颊、发际线、颈部与肩背姿态联动，不把年龄只写成皱纹。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_men_10",
+      "group": "older_men",
+      "source_title": "The most stylish men in Tokyo right now | Japanese street fashion, Japanese mens fashion, Most stylish men",
+      "page_url": "https://www.pinterest.com/pin/the-most-stylish-men-in-tokyo-right-now--843369467716656288/",
+      "image_url": "https://i.pinimg.com/736x/09/76/3c/09763cbd38a8d86d31cfeaea559bea33.jpg",
+      "archived_image": "images/expanded-older_men_10.jpg",
+      "dimensions": [
+        736,
+        1104
+      ],
+      "sha256": "f7611878c7bbdc55d7a6a911fa1af6ed5ea777bd2e3d2ba3f6492724b6531dc9",
+      "review_level": "contact sheet",
+      "observation": "牛仔外套、羽绒内层、双排扣大衣、风衣与西装表现不同角色感；额颊、发际线、颈部与肩背姿态联动，不把年龄只写成皱纹。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "midlife_faces_01",
+      "group": "midlife_faces",
+      "source_title": "| profile",
+      "page_url": "https://yuki-profile.amebaownd.com/posts/32514416",
+      "image_url": "https://cdn.amebaowndme.com/madrid-prd/madrid-web/images/sites/1006559/e49216120e81da0c58cd36983039a72b_594ec676818acd280fe9bc7ac64f1f1b.jpg",
+      "archived_image": "images/expanded-midlife_faces_01.jpg",
+      "dimensions": [
+        853,
+        1280
+      ],
+      "sha256": "83eb7bebb4719e672b45299dc4ca082e1380f889e84af151d318c05d195999ca",
+      "review_level": "contact sheet",
+      "observation": "笑容开合、嘴角、眼周挤压、下颌量感和站姿差异清楚；合照的靠近、倾斜与肩线也贡献生活感。墨镜、反光和分辨率限制可判断部位。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "midlife_faces_05",
+      "group": "midlife_faces",
+      "source_title": "Thomas Au | Fora Travel",
+      "page_url": "https://www.foratravel.com/advisor/thomas-au",
+      "image_url": "https://media.foratravel.com/image/upload/v1773670315/2a917bb2-27df-4a12-ad13-d70d1dcf9244.png",
+      "archived_image": "images/expanded-midlife_faces_05.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "f5531dd59f3ea4b4ec6e8559a292116a6ba271ac56a7bef4a28458884e1a1fee",
+      "review_level": "contact sheet",
+      "observation": "笑容开合、嘴角、眼周挤压、下颌量感和站姿差异清楚；合照的靠近、倾斜与肩线也贡献生活感。墨镜、反光和分辨率限制可判断部位。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "midlife_faces_07",
+      "group": "midlife_faces",
+      "source_title": "South Korea",
+      "page_url": "https://www.atlasofhumanity.com/southkorea",
+      "image_url": "https://dvqlxo2m2q99q.cloudfront.net/000_clients/657152/file/657152QvBLlOtz.jpg",
+      "archived_image": "images/expanded-midlife_faces_07.jpg",
+      "dimensions": [
+        1200,
+        900
+      ],
+      "sha256": "e0a13bccd69ec3fab13018d602fce82034a8dad0ac0f567a7bc824bf19abde90",
+      "review_level": "contact sheet",
+      "observation": "笑容开合、嘴角、眼周挤压、下颌量感和站姿差异清楚；合照的靠近、倾斜与肩线也贡献生活感。墨镜、反光和分辨率限制可判断部位。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "midlife_faces_08",
+      "group": "midlife_faces",
+      "source_title": "访谈第一排｜秦朔：用商业文明重塑企业家精神_手机新浪网",
+      "page_url": "https://news.sina.cn/2019-04-16/detail-ihvhiqax3085107.d.html?vt=4",
+      "image_url": "https://k.sinaimg.cn/n/translate/621/w1269h952/20190416/iPzF-hvsckth4760960.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
+      "archived_image": "images/expanded-midlife_faces_08.jpg",
+      "dimensions": [
+        700,
+        525
+      ],
+      "sha256": "49c2d82e6ec3baab77465d48089e4940a2002ecd6a52036999b98c24841b30a5",
+      "review_level": "contact sheet",
+      "observation": "笑容开合、嘴角、眼周挤压、下颌量感和站姿差异清楚；合照的靠近、倾斜与肩线也贡献生活感。墨镜、反光和分辨率限制可判断部位。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "midlife_faces_09",
+      "group": "midlife_faces",
+      "source_title": "金門日報全球資訊網 -鄉訊",
+      "page_url": "https://www.kmdn.gov.tw/1117/1271/4189/h?Page=33&PageSize=12",
+      "image_url": "https://www.kmdn.gov.tw/media/114228587/w_1101016g1.jpg",
+      "archived_image": "images/expanded-midlife_faces_09.jpg",
+      "dimensions": [
+        700,
+        458
+      ],
+      "sha256": "d8dbad8096f83e5c68aca4413028f358cd3f8862e75acbe0e3e52f8d4f8ed281",
+      "review_level": "contact sheet",
+      "observation": "笑容开合、嘴角、眼周挤压、下颌量感和站姿差异清楚；合照的靠近、倾斜与肩线也贡献生活感。墨镜、反光和分辨率限制可判断部位。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_portraits_01",
+      "group": "women_portraits",
+      "source_title": "今泉力哉監督『街の上で』に穂志もえか、古川琴音、萩原みのり、中田青渚ら | CINRA",
+      "page_url": "https://www.cinra.net/news/20190913-machinouede",
+      "image_url": "https://former-cdn.cinra.net/uploads/img/news/2019/20190913-machinouede_full.jpg",
+      "archived_image": "images/expanded-women_portraits_01.jpg",
+      "dimensions": [
+        816,
+        700
+      ],
+      "sha256": "338fc8e3acbaf39514c34d3e581b2d6f7cbbbfd464afe495437e2bdd1e9dc082",
+      "review_level": "contact sheet",
+      "observation": "普通街拍/访谈配图与美妆自拍观感差异明显；眼睑显隐、颊部体积、鼻翼和唇缘比单纯放大眼睛更能区分长相；明显妆造感图不充当无修图标准。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_portraits_02",
+      "group": "women_portraits",
+      "source_title": "ストリートスナップ詳細| ゲックル - gekkle 久留米・福岡・佐賀のタウン情報誌",
+      "page_url": "https://gekkle.com/streetsnap/models/show/135",
+      "image_url": "https://gekkle.com/streetsnap/uploads/model/b93b993c5a057ec42f7628a7faffabdd.jpg",
+      "archived_image": "images/expanded-women_portraits_02.jpg",
+      "dimensions": [
+        406,
+        720
+      ],
+      "sha256": "0cebd7154cb0f0172c4297c865b9f4d481eab9d2da9c30194bd804a695a5ec21",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "普通街拍/访谈配图与美妆自拍观感差异明显；眼睑显隐、颊部体积、鼻翼和唇缘比单纯放大眼睛更能区分长相；明显妆造感图不充当无修图标准。",
+      "detail_observation": "笑时上眼睑与下眼周同步收窄；颊部量感和露齿宽度共同构成表情。原图仅406×720，不能确认细微汗毛。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_portraits_03",
+      "group": "women_portraits",
+      "source_title": "北村優衣 (@Kitamura_Y910) on X",
+      "page_url": "https://x.com/Kitamura_Y910",
+      "image_url": "https://pbs.twimg.com/media/G9f73N6bcAA2UD6.jpg",
+      "archived_image": "images/expanded-women_portraits_03.jpg",
+      "dimensions": [
+        921,
+        1200
+      ],
+      "sha256": "021c65274e074c9347d61dcdfcdf896d706b79019eede007f83416482ca57cfd",
+      "review_level": "contact sheet",
+      "observation": "普通街拍/访谈配图与美妆自拍观感差异明显；眼睑显隐、颊部体积、鼻翼和唇缘比单纯放大眼睛更能区分长相；明显妆造感图不充当无修图标准。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_portraits_06",
+      "group": "women_portraits",
+      "source_title": "編集会社かくしごと「学生エディター」事業を本格化　Z世代の力を、企業の魅力発信・課題解決に | 株式会社かくしごとのプレスリリース",
+      "page_url": "https://prtimes.jp/main/html/rd/p/000000003.000072912.html",
+      "image_url": "https://prcdn.freetls.fastly.net/release_image/72912/3/72912-3-b96f277e5eae7c2bcb97a08919d0eabc-1800x2700.jpg?auto=webp&fit=bounds&format=jpeg&height=1350&quality=85%2C65&width=1950",
+      "archived_image": "images/expanded-women_portraits_06.jpg",
+      "dimensions": [
+        900,
+        1350
+      ],
+      "sha256": "d6ebea61402bc946f099a9c005a0a04e7504fb0c6bbab94ccfc6cb7503607fd9",
+      "review_level": "contact sheet",
+      "observation": "普通街拍/访谈配图与美妆自拍观感差异明显；眼睑显隐、颊部体积、鼻翼和唇缘比单纯放大眼睛更能区分长相；明显妆造感图不充当无修图标准。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_portraits_07",
+      "group": "women_portraits",
+      "source_title": "華語圈網紅付玉蒙與Midori造訪奈良縣，透過發聲活動致力實現相互理解且有秩序的入境旅遊",
+      "page_url": "https://hk.news.yahoo.com/%E8%8F%AF%E8%AA%9E%E5%9C%88%E7%B6%B2%E7%B4%85%E4%BB%98%E7%8E%89%E8%92%99%E8%88%87midori%E9%80%A0%E8%A8%AA%E5%A5%88%E8%89%AF%E7%B8%A3-%E9%80%8F%E9%81%8E%E7%99%BC%E8%81%B2%E6%B4%BB%E5%8B%95%E8%87%B4%E5%8A%9B%E5%AF%A6%E7%8F%BE%E7%9B%B8%E4%BA%92%E7%90%86%E8%A7%A3%E4%B8%94%E6%9C%89%E7%A7%A9%E5%BA%8F%E7%9A%84%E5%85%A5%E5%A2%83%E6%97%85%E9%81%8A-062400217.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/cFc.TbuDqI0F5TLTrmVjfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTk2MA--/https%3A/media.zenfs.com/en/saiga_nak_871/a68fc4ff21942a198621ac21d5032fe3",
+      "archived_image": "images/expanded-women_portraits_07.jpg",
+      "dimensions": [
+        960,
+        960
+      ],
+      "sha256": "0a1e6e5306dced84f56a934c4143df3f29b1c5e9d8b99d5350ec770d7abed397",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "普通街拍/访谈配图与美妆自拍观感差异明显；眼睑显隐、颊部体积、鼻翼和唇缘比单纯放大眼睛更能区分长相；明显妆造感图不充当无修图标准。",
+      "detail_observation": "较横向的眼睛、外段睑线显隐、颊部与唇形连在一起看；妆造与后期程度未知，不据此断定原生单/双眼皮。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_portraits_09",
+      "group": "women_portraits",
+      "source_title": "燃ゆるレジーナ（無表情） (@moyururegina_sg) on X",
+      "page_url": "https://x.com/moyururegina_sg",
+      "image_url": "https://pbs.twimg.com/media/G3OalrrWkAAed7D.jpg",
+      "archived_image": "images/expanded-women_portraits_09.jpg",
+      "dimensions": [
+        1180,
+        1180
+      ],
+      "sha256": "eca44213f206c59c93fe399e190a7a471e7816424fc8d3de5a5ad6b06eaec157",
+      "review_level": "contact sheet",
+      "observation": "普通街拍/访谈配图与美妆自拍观感差异明显；眼睑显隐、颊部体积、鼻翼和唇缘比单纯放大眼睛更能区分长相；明显妆造感图不充当无修图标准。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_portraits_10",
+      "group": "women_portraits",
+      "source_title": "ふきんしん (@ptsr_my) on X",
+      "page_url": "https://x.com/ptsr_my",
+      "image_url": "https://pbs.twimg.com/media/G5xRFDaaoAAJlod.jpg",
+      "archived_image": "images/expanded-women_portraits_10.jpg",
+      "dimensions": [
+        900,
+        1200
+      ],
+      "sha256": "7a110b2e7dabf5afa1207ed151d8f30f98cf25d96004ab2142ff51510b6b58cc",
+      "review_level": "contact sheet",
+      "observation": "普通街拍/访谈配图与美妆自拍观感差异明显；眼睑显隐、颊部体积、鼻翼和唇缘比单纯放大眼睛更能区分长相；明显妆造感图不充当无修图标准。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "women_portraits_11",
+      "group": "women_portraits",
+      "source_title": "夢薫🌸-yumeka- (@yuyuyu_ukauka) on X",
+      "page_url": "https://x.com/yuyuyu_ukauka",
+      "image_url": "https://pbs.twimg.com/media/HKwjIL-bEAAlH_x.jpg",
+      "archived_image": "images/expanded-women_portraits_11.jpg",
+      "dimensions": [
+        802,
+        1200
+      ],
+      "sha256": "ce55a2fcf968d6f276a7f67b5f6b4c81208a1f714ca640b3c834cd8c7401823c",
+      "review_level": "contact sheet",
+      "observation": "普通街拍/访谈配图与美妆自拍观感差异明显；眼睑显隐、颊部体积、鼻翼和唇缘比单纯放大眼睛更能区分长相；明显妆造感图不充当无修图标准。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_portraits_01",
+      "group": "men_portraits",
+      "source_title": "Laughter the best medicine in Japan: Local govt passes new health law | World News - Business Standard",
+      "page_url": "https://www.business-standard.com/amp/world-news/laughter-the-best-medicine-in-japan-local-govt-passes-new-health-law-124071200472_1.html",
+      "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/12/full/1720773495-2015.jpg",
+      "archived_image": "images/expanded-men_portraits_01.jpg",
+      "dimensions": [
+        3458,
+        2484
+      ],
+      "sha256": "d83351b7435df78807a49fb2ad85c0b101addaf6db7ff3b3905971119de79e77",
+      "review_level": "contact sheet",
+      "observation": "访谈与摄影作品覆盖浓眉窄眼、宽鼻短面中、长向轮廓等不同组合；毛孔集中部位、胡茬与发丝散乱程度不同；有一张同照片重复结果并扣除。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_portraits_02",
+      "group": "men_portraits",
+      "source_title": "ランジャタイ・国崎和也 インタビュー後編 - TOKION",
+      "page_url": "https://tokion.jp/2023/03/31/ranjyatai-kazuya-kunizaki-part2/",
+      "image_url": "https://image.tokion.jp/wp-content/uploads/2023/03/004279780008-1-1533x1920.jpg",
+      "archived_image": "images/expanded-men_portraits_02.jpg",
+      "dimensions": [
+        1533,
+        1920
+      ],
+      "sha256": "393be594391c1991e9a5b4871bb932441b1d16f3e3dcfede5fd8e957731f15be",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "访谈与摄影作品覆盖浓眉窄眼、宽鼻短面中、长向轮廓等不同组合；毛孔集中部位、胡茬与发丝散乱程度不同；有一张同照片重复结果并扣除。",
+      "detail_observation": "眉毛厚度、横向眼裂、下眼睑体积、宽鼻翼和短向口周组合明确；毛孔在不同部位有差异，并非均匀砂纸。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_portraits_03",
+      "group": "men_portraits",
+      "source_title": "I was earning $300,000 at Google and saving for early retirement — then I quit for a more flexible life. It changed how I view success.",
+      "page_url": "https://www.yahoo.com/lifestyle/articles/earning-300-000-google-saving-111650069.html",
+      "image_url": "https://s.yimg.com/ny/api/res/1.2/8ySTOJ_AgPwaF0L09X95Mw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTcyMDtjZj13ZWJw/https%3A/media.zenfs.com/en/business_insider_articles_888/2aaeebd7a76ec77e353eefbc15dca48b",
+      "archived_image": "images/expanded-men_portraits_03.jpg",
+      "dimensions": [
+        960,
+        720
+      ],
+      "sha256": "011c2686baa4f9eed4b6ee158cfc5988334f8eb911243a640e976f5a708fc9c3",
+      "review_level": "contact sheet",
+      "observation": "访谈与摄影作品覆盖浓眉窄眼、宽鼻短面中、长向轮廓等不同组合；毛孔集中部位、胡茬与发丝散乱程度不同；有一张同照片重复结果并扣除。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_portraits_04",
+      "group": "men_portraits",
+      "source_title": "素顔のSnowMan | majiromamaのブログ",
+      "page_url": "https://ameblo.jp/majiromama/entry-12872909555.html",
+      "image_url": "https://stat.ameba.jp/user_images/20241028/12/majiromama/4d/ee/j/o1080131615503186171.jpg",
+      "archived_image": "images/expanded-men_portraits_04.jpg",
+      "dimensions": [
+        1080,
+        1316
+      ],
+      "sha256": "3a6ac74e1906ba61439a3b83bf732991cabecedf37413ac0368a8e0ae5dfd0ff",
+      "review_level": "contact sheet",
+      "observation": "访谈与摄影作品覆盖浓眉窄眼、宽鼻短面中、长向轮廓等不同组合；毛孔集中部位、胡茬与发丝散乱程度不同；有一张同照片重复结果并扣除。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_portraits_05",
+      "group": "men_portraits",
+      "source_title": "どんな撮影にも対応できるようになりたい！cite超ライティングワークショップ体験談 ｜すずきしん",
+      "page_url": "https://nt.suzukishin.jp/n/n56936eef108f",
+      "image_url": "https://assets.st-note.com/img/1737558046-Tw7qEPCtFxIAmyblJnzD4Kr1.jpg?fit=bounds&height=2000&quality=85&width=2000",
+      "archived_image": "images/expanded-men_portraits_05.jpg",
+      "dimensions": [
+        1387,
+        2000
+      ],
+      "sha256": "f56d789009e18c7da47194b821b422f1fed2f28891af3bf96195b72363150627",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "访谈与摄影作品覆盖浓眉窄眼、宽鼻短面中、长向轮廓等不同组合；毛孔集中部位、胡茬与发丝散乱程度不同；有一张同照片重复结果并扣除。",
+      "detail_observation": "近摄中鼻颊毛孔、轻微泛红、分散色素点与口周细毛可见；同时保留较平整区域。刘海遮挡，不能补猜完整双眼。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_portraits_08",
+      "group": "men_portraits",
+      "source_title": "静岡の映像クリエイター、中島響ってどんな人？｜中島響｜映像ディレクター",
+      "page_url": "https://note.com/kyo_nakajima/n/n5631f11e82a8",
+      "image_url": "https://assets.st-note.com/production/uploads/images/53968714/picture_pc_72a3c21931db3d89fc1a3aa290e0647c.jpg?width=1200",
+      "archived_image": "images/expanded-men_portraits_08.jpg",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "sha256": "5161ae6f2630082b8e41a532a1a74c7036f5c3491fea638e14f384f8f898f06a",
+      "review_level": "contact sheet",
+      "observation": "访谈与摄影作品覆盖浓眉窄眼、宽鼻短面中、长向轮廓等不同组合；毛孔集中部位、胡茬与发丝散乱程度不同；有一张同照片重复结果并扣除。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_portraits_09",
+      "group": "men_portraits",
+      "source_title": "元・週刊文春記者が語る、新大久保の異文化 | 無料のアプリでラジオを聴こう！ | radiko news(ラジコニュース)",
+      "page_url": "https://news.radiko.jp/article/station/TBS/105378/",
+      "image_url": "https://tbsradio.g.kuroco-img.app/files/user/topics_img/4/09/2%2831%29.jpg",
+      "archived_image": "images/expanded-men_portraits_09.jpg",
+      "dimensions": [
+        1168,
+        1053
+      ],
+      "sha256": "3731ccc601e44fec31427383851d3c8a80f8191bd22eb9b5f9cb6efc9beeb731",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "访谈与摄影作品覆盖浓眉窄眼、宽鼻短面中、长向轮廓等不同组合；毛孔集中部位、胡茬与发丝散乱程度不同；有一张同照片重复结果并扣除。",
+      "detail_observation": "转头与视线偏移改变内外眼角显示；眉、鼻颊、胡茬及下颌关系有个人特点；针织衣领与外套形成厚度关系。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "men_portraits_10",
+      "group": "men_portraits",
+      "source_title": "kaz - Lohnt es sich? Aktuell für 2026 (mit Fotos)",
+      "page_url": "https://www.tripadvisor.at/Attraction_Review-g1066456-d28008589-Reviews-Kaz-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/b4/dc/b8/caption.jpg?h=-1&s=1&w=1200",
+      "archived_image": "images/expanded-men_portraits_10.jpg",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "sha256": "cf1a9d9a2484e99347968ddbaa3bb1f82ae029ce8e4e757ee7d4de662be29284",
+      "review_level": "contact sheet",
+      "observation": "访谈与摄影作品覆盖浓眉窄眼、宽鼻短面中、长向轮廓等不同组合；毛孔集中部位、胡茬与发丝散乱程度不同；有一张同照片重复结果并扣除。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_portraits_03",
+      "group": "older_portraits",
+      "source_title": "2022年“最美港城人”及提名奖获奖名单凤凰网江苏_凤凰网",
+      "page_url": "https://js.ifeng.com/c/8MSlIef4xn8",
+      "image_url": "https://x0.ifengimg.com/ucms/2023_02/41AD1FA5ED97D91199503442856F978DCDB8AC1B_size62_w640_h903.jpg",
+      "archived_image": "images/expanded-older_portraits_03.jpg",
+      "dimensions": [
+        640,
+        903
+      ],
+      "sha256": "dae4bf3194f70395693923e8e9c49088b1712b4c6324cd0314098cb5f748b7a4",
+      "review_level": "contact sheet",
+      "observation": "不同肖像中的眼睑松弛、眉尾、颧颊、口周和牙齿/微笑关系不同；皱褶沿体积与动作形成，黑白对比不是人人都要有的皮肤质感。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_portraits_05",
+      "group": "older_portraits",
+      "source_title": "北京协和医院",
+      "page_url": "https://www.pumch.cn/department_huxnk/doctor.html",
+      "image_url": "https://www.pumch.cn/Uploads/Picture/2018/01/19/s5a615cd3d9601_714_1048_0_0.jpg",
+      "archived_image": "images/expanded-older_portraits_05.jpg",
+      "dimensions": [
+        714,
+        1048
+      ],
+      "sha256": "bedfb07dd03b1f551f09879e7565abf0dd6a47f4a6df617c99fed0bee9d87784",
+      "review_level": "contact sheet",
+      "observation": "不同肖像中的眼睑松弛、眉尾、颧颊、口周和牙齿/微笑关系不同；皱褶沿体积与动作形成，黑白对比不是人人都要有的皮肤质感。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_portraits_06",
+      "group": "older_portraits",
+      "source_title": "Old chinese senior man looking into the camera. BW Portrait. Slightly... | Portrait, People of the world, Portrait photo",
+      "page_url": "https://in.pinterest.com/pin/old-chinese-senior-man-looking-into-the-camera-bw-portrait-slightly--77616793560498567/",
+      "image_url": "https://i.pinimg.com/736x/e3/36/1b/e3361b2dfc3bab1caa7aa72076e5e4bb.jpg",
+      "archived_image": "images/expanded-older_portraits_06.jpg",
+      "dimensions": [
+        736,
+        1102
+      ],
+      "sha256": "7460a8438c8b00a62313946c03b816a77ed75ed053a7cc41c90f564a033fd8cd",
+      "review_level": "contact sheet",
+      "observation": "不同肖像中的眼睑松弛、眉尾、颧颊、口周和牙齿/微笑关系不同；皱褶沿体积与动作形成，黑白对比不是人人都要有的皮肤质感。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_portraits_08",
+      "group": "older_portraits",
+      "source_title": "Making statues for over-60-year-olds in Shengjing Village - Capture Photography Festival",
+      "page_url": "https://capturephotofest.com/exhibitions/making-statues-for-over-60-year-olds-in-shengjing-village/",
+      "image_url": "https://capturephotofest.com/wp-content/uploads/2016/11/IMG_0137-640x960.jpg",
+      "archived_image": "images/expanded-older_portraits_08.jpg",
+      "dimensions": [
+        640,
+        960
+      ],
+      "sha256": "9503f057034d536bfe4b04d9a9d4bff4243286ac86d91ad38eec332cd18bf5c2",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "不同肖像中的眼睑松弛、眉尾、颧颊、口周和牙齿/微笑关系不同；皱褶沿体积与动作形成，黑白对比不是人人都要有的皮肤质感。",
+      "detail_observation": "松弛眼睑、颊部体积、浅笑、发际与散布色斑是同一人的整体；额纹随额部结构形成，不用来给年轻人物批量贴皱纹。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_portraits_09",
+      "group": "older_portraits",
+      "source_title": "“你好，我的样子！”—99个中国人肖像故事手机摄影展作品赏(1)--中国摄影家协会网",
+      "page_url": "https://www.cpanet.org.cn/detail_picdetail_99636.html",
+      "image_url": "https://www.cpanet.org.cn/uploads/allimg/160804/86492-160P4140506-50.jpg",
+      "archived_image": "images/expanded-older_portraits_09.jpg",
+      "dimensions": [
+        1000,
+        1333
+      ],
+      "sha256": "ffefad3d8567bcdad14adbd52467c21c1e0e8de6c67f3a5686df349b9a861c5e",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "不同肖像中的眼睑松弛、眉尾、颧颊、口周和牙齿/微笑关系不同；皱褶沿体积与动作形成，黑白对比不是人人都要有的皮肤质感。",
+      "detail_observation": "微笑让下眼周和颊部上提，左右皱褶和唇缘不完全相同；黑白增强了局部对比，不等于所有人皮肤都应粗糙。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_portraits_11",
+      "group": "older_portraits",
+      "source_title": "Portraits of Chinese People :: Behance",
+      "page_url": "https://www.behance.net/gallery/920152/Portraits-of-Chinese-People",
+      "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/b192805815641.560249821cd6e.jpg",
+      "archived_image": "images/expanded-older_portraits_11.jpg",
+      "dimensions": [
+        600,
+        900
+      ],
+      "sha256": "54a70f1f89ceb86af81d36ebddfedc8cb40e301614cfc897b96dd51a6e085c0a",
+      "review_level": "contact sheet",
+      "observation": "不同肖像中的眼睑松弛、眉尾、颧颊、口周和牙齿/微笑关系不同；皱褶沿体积与动作形成，黑白对比不是人人都要有的皮肤质感。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "older_portraits_12",
+      "group": "older_portraits",
+      "source_title": "人像摄影 | 摄影师龚正理作品欣赏|摄影家|当涂县|协会|人像摄影|龚正理_新浪新闻",
+      "page_url": "https://k.sina.com.cn/article_1244259855_4a29e60f001007hij.html",
+      "image_url": "https://k.sinaimg.cn/n/sinacn20/782/w1024h1358/20180402/f95f-fysuuxz7714810.jpg/w700d1q75cms.jpg?by=cms_fixed_width",
+      "archived_image": "images/expanded-older_portraits_12.jpg",
+      "dimensions": [
+        700,
+        929
+      ],
+      "sha256": "e4ba7da77ae93dfeb43bfe56942d5df6423b3cc774978c1da36dd2e9cc4b56c7",
+      "review_level": "contact sheet",
+      "observation": "不同肖像中的眼睑松弛、眉尾、颧颊、口周和牙齿/微笑关系不同；皱褶沿体积与动作形成，黑白对比不是人人都要有的皮肤质感。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "children_portraits_04",
+      "group": "children_portraits",
+      "source_title": "にこたま写真館Nicori | 二子玉川　写真館　お宮参り　世田谷 | 世田谷区 玉川 東京都 日本",
+      "page_url": "https://www.nicori-photo.com/",
+      "image_url": "https://static.wixstatic.com/media/4a81f2_1cd2ea2393a0485a8463f83ab35296ed~mv2.jpg/v1/fit/w_709%2Ch_532%2Cq_90/4a81f2_1cd2ea2393a0485a8463f83ab35296ed~mv2.jpg",
+      "archived_image": "images/expanded-children_portraits_04.jpg",
+      "dimensions": [
+        709,
+        531
+      ],
+      "sha256": "428694edda5fcf7b350406900ca0e8859268de95b9db0e983632937522d91df5",
+      "review_level": "contact sheet",
+      "observation": "家庭照片中成人与幼儿的头身、颊部、鼻唇比例和表情不同；拥抱、身体支撑和不同注视方向使场面自然。不能给幼儿套成人毛孔、胡茬或妆面。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "children_portraits_05",
+      "group": "children_portraits",
+      "source_title": "よしや写真館｜家族写真・ファミリーフォト｜つくば市のフォトスタジオ",
+      "page_url": "https://yoshiya-studio.com/family.html",
+      "image_url": "https://yoshiya-studio.com/gallery/family/1.jpg",
+      "archived_image": "images/expanded-children_portraits_05.jpg",
+      "dimensions": [
+        970,
+        700
+      ],
+      "sha256": "3d64d66f1121062ce0345933d60bf509cc7c508ec96b2b9bde8ca38c52e95faa",
+      "review_level": "contact sheet and separate enlarged view",
+      "observation": "家庭照片中成人与幼儿的头身、颊部、鼻唇比例和表情不同；拥抱、身体支撑和不同注视方向使场面自然。不能给幼儿套成人毛孔、胡茬或妆面。",
+      "detail_observation": "幼儿圆颊、较短鼻唇区域、成人笑时眼周收窄、手臂支撑与靠近关系可见；一家人的表情不同步仍自然。",
+      "identity_or_retouch_verified": false
+    },
+    {
+      "batch": "expanded",
+      "key": "children_portraits_11",
+      "group": "children_portraits",
+      "source_title": "伊澤写真館 - 足立区北千住の写真スタジオ",
+      "page_url": "https://www.izawa-photostudio.com/",
+      "image_url": "https://static.wixstatic.com/media/4c005d_921e86c2ca2f4faab2e9f7242857f16a~mv2.jpg/v1/fill/w_669%2Ch_1003%2Cq_90/4c005d_921e86c2ca2f4faab2e9f7242857f16a~mv2.jpg",
+      "archived_image": "images/expanded-children_portraits_11.jpg",
+      "dimensions": [
+        669,
+        1003
+      ],
+      "sha256": "04bf2ae70f8e4fb613a3462fb548afef540323ccab94e43c507d9510861ae4bf",
+      "review_level": "contact sheet",
+      "observation": "家庭照片中成人与幼儿的头身、颊部、鼻唇比例和表情不同；拥抱、身体支撑和不同注视方向使场面自然。不能给幼儿套成人毛孔、胡茬或妆面。",
+      "detail_observation": null,
+      "identity_or_retouch_verified": false
+    }
+  ]
+}

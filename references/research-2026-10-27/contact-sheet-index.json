@@ -1,0 +1,186 @@
+[
+  {
+    "group": "women_outfits",
+    "image": "contact-sheets/women_outfits_1.jpg",
+    "keys": [
+      "women_outfits_02",
+      "women_outfits_03",
+      "women_outfits_04",
+      "women_outfits_05",
+      "women_outfits_06",
+      "women_outfits_07",
+      "women_outfits_08",
+      "women_outfits_09",
+      "women_outfits_10"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "women_outfits",
+    "image": "contact-sheets/women_outfits_2.jpg",
+    "keys": [
+      "women_outfits_11",
+      "women_outfits_12"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "men_outfits",
+    "image": "contact-sheets/men_outfits_1.jpg",
+    "keys": [
+      "men_outfits_01",
+      "men_outfits_03",
+      "men_outfits_04",
+      "men_outfits_05",
+      "men_outfits_07",
+      "men_outfits_08",
+      "men_outfits_09",
+      "men_outfits_10",
+      "men_outfits_11"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "men_outfits",
+    "image": "contact-sheets/men_outfits_2.jpg",
+    "keys": [
+      "men_outfits_12"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "women_faces",
+    "image": "contact-sheets/women_faces_1.jpg",
+    "keys": [
+      "women_faces_02",
+      "women_faces_04",
+      "women_faces_07",
+      "women_faces_08",
+      "women_faces_09",
+      "women_faces_11",
+      "women_faces_12"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "men_faces",
+    "image": "contact-sheets/men_faces_1.jpg",
+    "keys": [
+      "men_faces_02",
+      "men_faces_03",
+      "men_faces_06",
+      "men_faces_07",
+      "men_faces_08",
+      "men_faces_09",
+      "men_faces_12"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "older_women",
+    "image": "contact-sheets/older_women_1.jpg",
+    "keys": [
+      "older_women_01",
+      "older_women_02",
+      "older_women_03",
+      "older_women_04",
+      "older_women_05",
+      "older_women_06",
+      "older_women_07",
+      "older_women_08",
+      "older_women_09"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "older_women",
+    "image": "contact-sheets/older_women_2.jpg",
+    "keys": [
+      "older_women_10",
+      "older_women_11"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "older_men",
+    "image": "contact-sheets/older_men_1.jpg",
+    "keys": [
+      "older_men_01",
+      "older_men_02",
+      "older_men_03",
+      "older_men_04",
+      "older_men_05",
+      "older_men_06",
+      "older_men_08",
+      "older_men_10"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "midlife_faces",
+    "image": "contact-sheets/midlife_faces_1.jpg",
+    "keys": [
+      "midlife_faces_01",
+      "midlife_faces_05",
+      "midlife_faces_07",
+      "midlife_faces_08",
+      "midlife_faces_09"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "women_portraits",
+    "image": "contact-sheets/women_portraits_1.jpg",
+    "keys": [
+      "women_portraits_01",
+      "women_portraits_02",
+      "women_portraits_03",
+      "women_portraits_06",
+      "women_portraits_07",
+      "women_portraits_09",
+      "women_portraits_10",
+      "women_portraits_11"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "men_portraits",
+    "image": "contact-sheets/men_portraits_1.jpg",
+    "keys": [
+      "men_portraits_01",
+      "men_portraits_02",
+      "men_portraits_03",
+      "men_portraits_04",
+      "men_portraits_05",
+      "men_portraits_06",
+      "men_portraits_08",
+      "men_portraits_09",
+      "men_portraits_10"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "older_portraits",
+    "image": "contact-sheets/older_portraits_1.jpg",
+    "keys": [
+      "older_portraits_03",
+      "older_portraits_05",
+      "older_portraits_06",
+      "older_portraits_08",
+      "older_portraits_09",
+      "older_portraits_11",
+      "older_portraits_12"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  },
+  {
+    "group": "children_portraits",
+    "image": "contact-sheets/children_portraits_1.jpg",
+    "keys": [
+      "children_portraits_04",
+      "children_portraits_05",
+      "children_portraits_11"
+    ],
+    "status": "visually reviewed; historical duplicate slots retained"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "candidates": 136,
+  "initially_excluded": 34,
+  "fetch_attempts": 102,
+  "failed": 14,
+  "automatic_prior_duplicates": 2,
+  "files_seen_in_sheets": 86,
+  "additional_visual_duplicates": 2,
+  "new_valid_samples": 84,
+  "standalone_detail_reviews": 12,
+  "prior_samples": 15,
+  "cumulative_samples": 99,
+  "skill_modified": false
+}

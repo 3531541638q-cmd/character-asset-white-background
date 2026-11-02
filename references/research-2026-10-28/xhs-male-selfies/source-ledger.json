@@ -1,0 +1,1856 @@
+{
+  "archived_at": "2026-10-28",
+  "authorization": "把这两页里合适的照片收进我的外部素材库，以后生成新男生时按人物需要选用，别总沿用之前那三张。",
+  "source_pages": [
+    {
+      "key": "P1",
+      "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%B7%E7%94%9F%E8%87%AA%E6%8B%8D&source=web_explore_feed&type=51",
+      "observed_filter": "真实",
+      "observed_notes": 28
+    },
+    {
+      "key": "P2",
+      "url": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E7%259C%259F%25E5%25AE%259E%25E5%25B9%25B4%25E8%25BD%25BB%25E7%2594%25B7%25E6%2580%25A7%25E8%2587%25AA%25E6%258B%258D%25E7%2585%25A7%25E7%2589%2587&source=web_explore_feed",
+      "observed_filter": "高级感",
+      "observed_notes": 32
+    }
+  ],
+  "counts": {
+    "notes": 43,
+    "general": 32,
+    "limited": 11,
+    "cover_files": 43,
+    "detail_files": 8,
+    "author_handles": 39,
+    "unique_people": "unknown"
+  },
+  "notes": "收集日期不是拍摄或发布年份；作者标题与标签不证明年龄、真人、素颜或未美颜。相同笔记跨页去重，相同作者不同状态互相关联，封面与大图同画面不算新身份。",
+  "samples": [
+    {
+      "key": "X01",
+      "note_id": "6aa8f6cb000000002902ffc8",
+      "title": "🤔",
+      "author": "咔咔",
+      "display_date": "09-15",
+      "source_url": "https://www.xiaohongshu.com/explore/6aa8f6cb000000002902ffc8",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/499b1adf43c529dc11bb1a25562825fa/note_pre_post_uhdr/1040g3r83254m8jef40a05nkj6cfg8msr3ii5n9g!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X01.webp",
+      "sha256": "82878e1c2a9c03449e74f290f53768f5b06a9091f57039c308d6ffbdfca8c149",
+      "scope": "综合",
+      "tags": [
+        "眼镜",
+        "短发",
+        "轻薄刘海",
+        "闭唇"
+      ],
+      "observation": "低短刘海、普通矩形镜框与较柔和的颊颌共同成立，闭唇状态克制。",
+      "limits": "镜像与镜片影响左右及眼部尺度，不量取眼距。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X01.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X02",
+      "note_id": "6a886305000000002301033f",
+      "title": "健身小白初见成效啦",
+      "author": "小龙很机智",
+      "display_date": "08-21",
+      "source_url": "https://www.xiaohongshu.com/explore/6a886305000000002301033f",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/9e7b224b125eb02fcd127902cb25be08/1040g0083244s6vesgm005pguim40u27n4pqc6ag!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X02.webp",
+      "sha256": "113afb6f7316f91b0002cc378aa62da548b48b1fa724e33663d6c60e44ae9b5e",
+      "scope": "综合",
+      "tags": [
+        "眼镜",
+        "短发",
+        "轻笑",
+        "短刘海"
+      ],
+      "observation": "低而不齐的刘海配矩形眼镜，轻微闭口笑与面颊的响应较弱而连贯。",
+      "limits": "与X26同作者，不作为两个不同人物；镜片影响眼部。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X02.webp",
+      "same_author_notes": [
+        "X26"
+      ]
+    },
+    {
+      "key": "X03",
+      "note_id": "6a5748f2000000000f0071a0",
+      "title": "出门好热",
+      "author": "伯乐",
+      "display_date": "07-15",
+      "source_url": "https://www.xiaohongshu.com/explore/6a5748f2000000000f0071a0",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/195fee72c5dd5ce9bcbb4ea2f4026cea/note_pre_post_uhdr/1040g3r8322ktsfu9ms705pjrjcf1ork7a64v730!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X03.webp",
+      "sha256": "c4358df2489fd69890fc55e39933cb799241fad8bd24409dcea2aa1754f4a1cb",
+      "scope": "综合",
+      "tags": [
+        "眼镜",
+        "短发",
+        "颊部体量",
+        "闭唇"
+      ],
+      "observation": "镜框下普通开合的双眼、较饱满面颊及自然闭唇组合，可供日常人物设计取材。",
+      "limits": "手按头顶改变发型体量；与X16同作者，勿照搬压扁的头顶。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X03.webp",
+      "same_author_notes": [
+        "X16"
+      ]
+    },
+    {
+      "key": "X06",
+      "note_id": "6a98195e000000002603220f",
+      "title": "谁拉这了👽",
+      "author": "_tc",
+      "display_date": "09-02",
+      "source_url": "https://www.xiaohongshu.com/explore/6a98195e000000002603220f",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/7e92947bc041baeecad408f0597e467d/1040g008324k6ovfhna1g5nknn99g8hqeku2l83o!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X06.webp",
+      "sha256": "edecff624d0f3b8744d209f0a2715d587e52b7039fb4dfd055b84e6549f6d1fc",
+      "scope": "综合",
+      "tags": [
+        "前落刘海",
+        "上眼睑",
+        "唇部体量"
+      ],
+      "observation": "较直的短前刘海、放松的上睑与较有体量的唇部落在同一张柔和脸型里。",
+      "limits": "自拍转角和抬臂改变轮廓；皮肤修饰程度未知。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X06.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X07",
+      "note_id": "6ad0bdcb000000000a020c75",
+      "title": "为啥照镜子感觉自己帅的一，但自拍很丑",
+      "author": "骷髅弓箭手",
+      "display_date": "10-15",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad0bdcb000000000a020c75",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/a3e6dc9068022908dd1a0ccfcd32321a/1040g2sg326bhd5o74q005opufla65f79klm1nl0!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看封面及详情加载大图；非整帖穷尽检查",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        913
+      ],
+      "format": "WEBP",
+      "local_file": "images/X07.webp",
+      "sha256": "73719cc49d6f48937e65229598dc535726aaa3d14d65cc4de97308abeedd025d",
+      "scope": "综合",
+      "tags": [
+        "偏中分",
+        "长刘海",
+        "平静注视",
+        "唇缝"
+      ],
+      "observation": "中长发由偏中分向两侧落下，眼睑开合并非展示式放大，闭唇与视线状态连贯。",
+      "limits": "低头或高机位改变眼下及下颌；痣位不作为新人物身份模板。",
+      "source_pages": [
+        "P1",
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [
+        {
+          "key": "X07-D01",
+          "parent": "X07",
+          "image_url": "https://sns-webpic-qc.xhscdn.com/202610280123/23deb2fbe04c8bab43c6b5811ed538f4/1040g2sg326bhd5o74q0g5opufla65f795m49eu8!nd_dft_wlteh_webp_3",
+          "local_file": "details/X07-D01.webp",
+          "dimensions": [
+            1080,
+            1440
+          ],
+          "format": "WEBP",
+          "sha256": "5181c46911239b775f24907b93c2eae63ef533fbfa08fdc73b9ce62d3976e99d",
+          "display_date": "10-15 广东",
+          "year": null,
+          "review_level": "已查看详情加载图片像素；不代表整篇全部图片均已看过",
+          "scope": "综合",
+          "observation": "较远斜向自拍，整头分缝和两侧发束更完整；头部角度不同，不量取五官比例。"
+        },
+        {
+          "key": "X07-D02",
+          "parent": "X07",
+          "image_url": "https://sns-webpic-qc.xhscdn.com/202610280123/6d8f61bf99170892fe2ce3c4e3318461/1040g2sg326bhd5o74q005opufla65f79klm1nl0!nd_dft_wlteh_webp_3",
+          "local_file": "details/X07-D02.webp",
+          "dimensions": [
+            1080,
+            1541
+          ],
+          "format": "WEBP",
+          "sha256": "682d06a9426ade42d6e3656a7f0b608239384ffc299b9c556c3fdccf66d39a59",
+          "display_date": "10-15 广东",
+          "year": null,
+          "review_level": "已查看详情加载图片像素；不代表整篇全部图片均已看过",
+          "scope": "综合",
+          "observation": "较近正面自拍；眼睑开合、闭唇及发束落点可见，高机位改变下庭。"
+        }
+      ],
+      "preferred_file": "details/X07-D02.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X08",
+      "note_id": "69f7042f000000001f0063f5",
+      "title": "大叔来了",
+      "author": "再睡一会吧",
+      "display_date": "05-03",
+      "source_url": "https://www.xiaohongshu.com/explore/69f7042f000000001f0063f5",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/664716a1243b0fe9ed124f1f436bd381/1040g00831vmtev84ias05ooap34jop9p4d9em7o!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        1138
+      ],
+      "format": "WEBP",
+      "local_file": "images/X08.webp",
+      "sha256": "67463815a11e55491c8675ab94f52ba9ca5cfae891c7fe9841745ecd7dc75e0f",
+      "scope": "综合",
+      "tags": [
+        "前落刘海",
+        "发束层次",
+        "颊部体量"
+      ],
+      "observation": "向前的碎层发束与较饱满的脸部体量相配，嘴唇自然合拢。",
+      "limits": "与X22同作者；不能因发色或状态改变算成新人物。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X08.webp",
+      "same_author_notes": [
+        "X22"
+      ]
+    },
+    {
+      "key": "X10",
+      "note_id": "6979b038000000000e03d70f",
+      "title": "给我放假",
+      "author": "山下直人",
+      "display_date": "01-28",
+      "source_url": "https://www.xiaohongshu.com/explore/6979b038000000000e03d70f",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/6ca7ba9dfd71d07918134f11da0bff09/notes_pre_post/1040g3k831rsgg7kc2a705obo4p20knc7pf5qu38!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X10.webp",
+      "sha256": "08a8cfe9759696fb30060ec2a23544185648dd1c59bdeb545647055c1992a7e0",
+      "scope": "受限",
+      "tags": [
+        "眼镜",
+        "前落刘海",
+        "闭唇"
+      ],
+      "observation": "可看透明矩形眼镜、较长前刘海和闭唇状态的整体关系。",
+      "limits": "头顶被裁切，皮肤较平滑；不用来决定整头发型或细微眼睑结构。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X10.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X11",
+      "note_id": "6a656d6e000000000100fe94",
+      "title": "不上班才有点活人感",
+      "author": "Felix",
+      "display_date": "07-26",
+      "source_url": "https://www.xiaohongshu.com/explore/6a656d6e000000000100fe94",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/7151ed175c8c2a50201f49ed11edb2bb/notes_pre_post/1040g3k03232nq7qv7k005nabdg5lisc64b7onq8!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看封面及详情加载大图；非整帖穷尽检查",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X11.webp",
+      "sha256": "a9e693e0ef2d7c15c1666135fa47c17a5c50fe4de7c278e6092eed5a0969670a",
+      "scope": "综合",
+      "tags": [
+        "眼镜",
+        "短刘海",
+        "轻笑",
+        "眉颊口周联动"
+      ],
+      "observation": "短而断续的前刘海、透明镜框及轻微嘴角抬起，使眼睑和面颊有小幅连带变化。",
+      "limits": "镜像与镜片影响；不复制皮肤斑点，不推定未美颜。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [
+        {
+          "key": "X11-D02",
+          "parent": "X11",
+          "image_url": "https://sns-webpic-qc.xhscdn.com/202610280128/80fd27668cb86f72407d12a45ec5b8a5/notes_pre_post/1040g3k03232nq7qv7k005nabdg5lisc64b7onq8!nd_dft_wlteh_webp_3",
+          "local_file": "details/X11-D02.webp",
+          "dimensions": [
+            1080,
+            1440
+          ],
+          "format": "WEBP",
+          "sha256": "87ee33a900845fa2e254be0d4ad2774afe5491fa996ba4060dcef3741f906407",
+          "display_date": "编辑于 07-26",
+          "year": null,
+          "review_level": "已查看详情加载图片像素；不代表整篇全部图片均已看过",
+          "scope": "综合",
+          "observation": "较近镜面自拍，轻笑与面颊、眼睑联动；注意镜片和镜像。"
+        },
+        {
+          "key": "X11-D03",
+          "parent": "X11",
+          "image_url": "https://sns-webpic-qc.xhscdn.com/202610280128/a89fd272ae34fb59ee3740c9a3c6d586/notes_pre_post/1040g3k03232nq8co7u705nabdg5lisc69rstdf0!nd_dft_wlteh_webp_3",
+          "local_file": "details/X11-D03.webp",
+          "dimensions": [
+            1080,
+            1440
+          ],
+          "format": "WEBP",
+          "sha256": "ae2ac3e842f9aded8c1dff540a37f589cf016db2f688a88b6455eb3acc0bdae6",
+          "display_date": "编辑于 07-26",
+          "year": null,
+          "review_level": "已查看详情加载图片像素；不代表整篇全部图片均已看过",
+          "scope": "综合",
+          "observation": "稍远镜面自拍，可与同帖近景比较；不按两个人计。"
+        }
+      ],
+      "preferred_file": "details/X11-D02.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X12",
+      "note_id": "6a00a886000000003501d4f2",
+      "title": "洗漱台拍个照🧺🛁🚿",
+      "author": "我知道了",
+      "display_date": "05-10",
+      "source_url": "https://www.xiaohongshu.com/explore/6a00a886000000003501d4f2",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/7424fdaa197f7fa0ec4a49c9e1f85208/notes_uhdr/1040g3qo3200aq1c248705pnc1ta7c0t96v4j2rg!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X12.webp",
+      "sha256": "38130c5ca81930f38f401d928cf67448413d9e0a8eb498693e8764999dc08595",
+      "scope": "综合",
+      "tags": [
+        "卷发",
+        "两侧体量",
+        "侧向注视"
+      ],
+      "observation": "较完整可见的卷发头顶和两侧轮廓，与侧看时的眉眼、口周共同形成状态。",
+      "limits": "镜像、转侧和低清限制精细比例，不把卷发设成所有人物默认。",
+      "source_pages": [
+        "P1",
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X12.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X13",
+      "note_id": "6a412cd100000000110061d5",
+      "title": "",
+      "author": "特立独行的猪",
+      "display_date": "06-28",
+      "source_url": "https://www.xiaohongshu.com/explore/6a412cd100000000110061d5",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/e64e83d50542872b00802af1ee208dca/1040g008321v80dsq720g5pldjsknca8mpa6famg!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看封面及详情加载大图；非整帖穷尽检查",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X13.webp",
+      "sha256": "e597103782247412ce7cb6eacb08dc298fe9155d8fefb6949e6b1e9fd89e3ed4",
+      "scope": "综合",
+      "tags": [
+        "卷发",
+        "整头发型",
+        "闭唇",
+        "平静注视"
+      ],
+      "observation": "较紧的小卷组成向前蓬松的发型，普通眼裂开合、圆钝鼻部体量和闭唇相互协调。",
+      "limits": "同帖近距离俯拍与稍远自拍的鼻颌变化属透视；不把近摄鼻部放大当稳定结构。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [
+        {
+          "key": "X13-D01",
+          "parent": "X13",
+          "image_url": "https://sns-webpic-qc.xhscdn.com/202610280129/cabec0c8649b57a09a4b454cd4e47228/1040g008321v80dsq72205pldjsknca8m1e89g8o!nd_dft_wlteh_webp_3",
+          "local_file": "details/X13-D01.webp",
+          "dimensions": [
+            1080,
+            1440
+          ],
+          "format": "WEBP",
+          "sha256": "db6717951014844f19f996361506709331d60d0cb495e375b7fb5c33d218537e",
+          "display_date": "06-28",
+          "year": null,
+          "review_level": "已查看详情加载图片像素；不代表整篇全部图片均已看过",
+          "scope": "受限",
+          "observation": "极近距离俯拍，主要观察发束与注视变化，不沿用鼻部或下庭尺度。"
+        },
+        {
+          "key": "X13-D02",
+          "parent": "X13",
+          "image_url": "https://sns-webpic-qc.xhscdn.com/202610280129/69c56afbfb03c411a9f470a732a8857a/1040g008321v80dsq720g5pldjsknca8mpa6famg!nd_dft_wlteh_webp_3",
+          "local_file": "details/X13-D02.webp",
+          "dimensions": [
+            1080,
+            1440
+          ],
+          "format": "WEBP",
+          "sha256": "7a43f28168d2b469f6becb9c62fc75b9dff6c332ec0929b440f825b97a611a5e",
+          "display_date": "06-28",
+          "year": null,
+          "review_level": "已查看详情加载图片像素；不代表整篇全部图片均已看过",
+          "scope": "综合",
+          "observation": "稍远自拍，完整头发、脸部及闭唇状态可见；室内光有方向性。"
+        },
+        {
+          "key": "X13-D03",
+          "parent": "X13",
+          "image_url": "https://sns-webpic-qc.xhscdn.com/202610280129/4396a004659bb593f39c3f461cc5069c/1040g008321v80dsq721g5pldjsknca8mas39vp0!nd_dft_wlteh_webp_3",
+          "local_file": "details/X13-D03.webp",
+          "dimensions": [
+            1080,
+            1440
+          ],
+          "format": "WEBP",
+          "sha256": "d3e159647a8028d14c75038c5bdf33d8f6111b63758c8d430595a94710065b47",
+          "display_date": "06-28",
+          "year": null,
+          "review_level": "已查看详情加载图片像素；不代表整篇全部图片均已看过",
+          "scope": "综合",
+          "observation": "较接近正面，卷发与眉眼、鼻唇的整体关系可见。"
+        }
+      ],
+      "preferred_file": "details/X13-D03.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X15",
+      "note_id": "6a38c5070000000007026f16",
+      "title": "南京～",
+      "author": "爆头爆到脚趾头",
+      "display_date": "06-22",
+      "source_url": "https://www.xiaohongshu.com/explore/6a38c5070000000007026f16",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/718ea7853553d6d896f5dcc90fc49410/1040g008321n47dc2nk005o6ppoig8hivoe0t51g!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X15.webp",
+      "sha256": "ab2890c83e3e1b91764dc12a723fdfc53e63ce7a11e441a24c01b3ff5d230761",
+      "scope": "受限",
+      "tags": [
+        "前落刘海",
+        "户外",
+        "姿态"
+      ],
+      "observation": "可观察中长前刘海、背包与户外姿态组成的宽泛气质。",
+      "limits": "脸在图中较小，不支持眼睑、唇缘或微表情。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X15.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X16",
+      "note_id": "6a6580a200000000220183ab",
+      "title": "素颜",
+      "author": "伯乐",
+      "display_date": "07-26",
+      "source_url": "https://www.xiaohongshu.com/explore/6a6580a200000000220183ab",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/1494f730d835a688fdfd654b3bb79592/note_pre_post_uhdr/1040g3r83232q5m3c6u105pjrjcf1ork7gjl7hs8!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X16.webp",
+      "sha256": "78618aa8404c0a0fb1635eb1ff6675dd3cfdcb73d65fe3dab87fb0bfb6b1f729",
+      "scope": "综合",
+      "tags": [
+        "眼镜",
+        "短刘海",
+        "放松注视",
+        "闭唇"
+      ],
+      "observation": "低而较散的短发与镜框、较柔和的眼睑开合和松弛闭唇相配。",
+      "limits": "与X03同作者；素颜是标题说法，未经核实。",
+      "source_pages": [
+        "P1",
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X16.webp",
+      "same_author_notes": [
+        "X03"
+      ]
+    },
+    {
+      "key": "X17",
+      "note_id": "6a6e21cb0000000028006dcd",
+      "title": "",
+      "author": "。。。",
+      "display_date": "08-02",
+      "source_url": "https://www.xiaohongshu.com/explore/6a6e21cb0000000028006dcd",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/b56ea046b1b21ff329332b58deedcc4c/notes_pre_post/1040g3k0323b7ps7f7a605p3gjujk6hbso7e7d90!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X17.webp",
+      "sha256": "207d9928232e6bcb2ba5f1bc89c8c02af99d38dffb2246062ccafa1c743dbc2e",
+      "scope": "综合",
+      "tags": [
+        "前落刘海",
+        "唇部体量",
+        "视角变化"
+      ],
+      "observation": "短发向前落，面颊与较饱满唇部配合，神态较日常。",
+      "limits": "高机位与转头缩短下庭，不能照抄为永久脸型比例。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X17.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X18",
+      "note_id": "6ab16857000000003a02ef5f",
+      "title": "浅浅~(¯▽¯~)发一下自拍，好看吗(＾◡＾)",
+      "author": "灰乌",
+      "display_date": "09-22",
+      "source_url": "https://www.xiaohongshu.com/explore/6ab16857000000003a02ef5f",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/416e955e6024bd48d6d88ea0568ace39/note_pre_post_uhdr/1040g3r8325cu3fvfl6b05p5iatf9esjrklq8nt0!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X18.webp",
+      "sha256": "17a1ad88ad3f6f1bd0c4147a4fbc6314a68855f223803c2b0099cdb52ca5acfa",
+      "scope": "受限",
+      "tags": [
+        "中分",
+        "发型体量",
+        "眼镜"
+      ],
+      "observation": "能看较高蓬松中分与细框眼镜形成的完整造型。",
+      "limits": "造型较整齐，不作为生活发型唯一依据；不以整齐本身判不自然。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X18.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X19",
+      "note_id": "68d20672000000001300ee4b",
+      "title": "",
+      "author": "。",
+      "display_date": "2025-09-23",
+      "source_url": "https://www.xiaohongshu.com/explore/68d20672000000001300ee4b",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/f4324726c05ffc481a729001dd65c5fe/1040g00831mopgi3l58005pb9l1j86kth3n7onkg!nc_n_webp_mw_1",
+      "published_year": 2025,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X19.webp",
+      "sha256": "887d10580aafdb9bf37ca23331236bea4781d9a623d82edecbae26742107792e",
+      "scope": "综合",
+      "tags": [
+        "短刘海",
+        "侧向注视",
+        "颊颌"
+      ],
+      "observation": "短碎前刘海、侧向目光及转侧时颊部到下颌的过渡可供组合取材。",
+      "limits": "显示2025-09-23；模糊与皮肤平滑影响细节，勿精确量取。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X19.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X20",
+      "note_id": "6a30b9c8000000001003fe59",
+      "title": "",
+      "author": "麻辣芝麻糊",
+      "display_date": "06-16",
+      "source_url": "https://www.xiaohongshu.com/explore/6a30b9c8000000001003fe59",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/2726652cd401dc9a19448f16f8f79bbb/notes_uhdr/1040g3qo321f8ta3q74705pn5iprnc5oelqhe98o!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X20.webp",
+      "sha256": "5a15a5c42208c546e091b09841fbd1fc17e4177a13560fd9e0358cbfddeb49ae",
+      "scope": "综合",
+      "tags": [
+        "长刘海",
+        "微张唇",
+        "眉眼口周联动"
+      ],
+      "observation": "较松的长前刘海、自然开合的眼睑及微张嘴唇共同构成注视状态。",
+      "limits": "自拍角度与可能修饰影响尺度，不把微张唇固定成自然感公式。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X20.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X22",
+      "note_id": "6915e2c70000000004003a3c",
+      "title": "洗完脸",
+      "author": "再睡一会吧",
+      "display_date": "2025-11-13",
+      "source_url": "https://www.xiaohongshu.com/explore/6915e2c70000000004003a3c",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/66a78f4f4cac1f8cbb647661523b4ff2/1040g2sg31or258cn1oe05ooap34jop9p9g7p1fo!nc_n_webp_mw_1",
+      "published_year": 2025,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        1138
+      ],
+      "format": "WEBP",
+      "local_file": "images/X22.webp",
+      "sha256": "96f08bdfc2ebed799f87e9bda80c5fc6182f191363204ab55d5d0c0e8e6c5e09",
+      "scope": "综合",
+      "tags": [
+        "短发",
+        "发束层次",
+        "颊部体量",
+        "闭唇"
+      ],
+      "observation": "较湿散或成束的短发、自然鼻唇体量与较弱睑褶，在同一张脸里成立。",
+      "limits": "显示2025-11-13；与X08同作者，阴影不能当作眼睑实测。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X22.webp",
+      "same_author_notes": [
+        "X08"
+      ]
+    },
+    {
+      "key": "X23",
+      "note_id": "69f419d00000000035030020",
+      "title": "07",
+      "author": "今晚早点睡",
+      "display_date": "05-01",
+      "source_url": "https://www.xiaohongshu.com/explore/69f419d00000000035030020",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280102/b11ea30b4b7d6e8a796f3b0be126c14e/1040g00831vk2atdh1m005osifudnqimj0gnhg2o!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X23.webp",
+      "sha256": "8e4424e26c7bc8dd294c83e7d11562a71ff6589ea33e729f88d41d02691bd713",
+      "scope": "综合",
+      "tags": [
+        "短刘海",
+        "偏分",
+        "眉部张力"
+      ],
+      "observation": "略偏分的短刘海，眉部有轻微收紧，闭口与面颊状态响应。",
+      "limits": "俯拍及树影影响；标题07不是可核实出生年份。",
+      "source_pages": [
+        "P1",
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X23.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X24",
+      "note_id": "69104ae6000000000301ff34",
+      "title": "干净点，是你喜欢的样子吗",
+      "author": "Junb",
+      "display_date": "2025-11-09",
+      "source_url": "https://www.xiaohongshu.com/explore/69104ae6000000000301ff34",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280103/b99412628123649b25d549369ecfc980/notes_pre_post/1040g3k831oljbo3bmg005o0hfq2g925ireunqug!nc_n_webp_mw_1",
+      "published_year": 2025,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        825
+      ],
+      "format": "WEBP",
+      "local_file": "images/X24.webp",
+      "sha256": "1078f4e92107868a58dfa5172843914a111da4179bf33ec63f0361c15eafc02e",
+      "scope": "综合",
+      "tags": [
+        "前落刘海",
+        "露齿笑",
+        "眉颊口周联动"
+      ],
+      "observation": "前落微卷发束下，轻微露齿笑带动面颊和眼睑，是连贯表情的候选。",
+      "limits": "显示2025-11-09；皮肤较平滑，主要借表情联动而非肤质证据。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X24.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X25",
+      "note_id": "6a7c93ca0000000028008864",
+      "title": "纯素颜",
+      "author": "英格里斯🍒",
+      "display_date": "08-12",
+      "source_url": "https://www.xiaohongshu.com/explore/6a7c93ca0000000028008864",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280103/6f9ffe41efbd31db493b78dd8a1e1801/notes_pre_post/1040g3k0323pb8mrq0o6g5pj45342u7mf0ih2dh0!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X25.webp",
+      "sha256": "ebb37faad3e924f1c995e4c89c755b9f255e08e27513a745c2decb610fabd9ec",
+      "scope": "综合",
+      "tags": [
+        "眼镜",
+        "短刘海",
+        "轻笑"
+      ],
+      "observation": "较平的短前刘海、普通眼镜与轻微闭口笑共同成立，颊部保有体量。",
+      "limits": "纯素颜为标题说法；镜片影响眼部尺度。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X25.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X26",
+      "note_id": "6aa40a4a00000000280009d7",
+      "title": "记录普通大学生的一天",
+      "author": "小龙很机智",
+      "display_date": "09-11",
+      "source_url": "https://www.xiaohongshu.com/explore/6aa40a4a00000000280009d7",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280103/a97f1f0dd51f8a99b78a610f5dc9623b/notes_pre_post/1040g3k8324vscm2134705pguim40u27ncj4rv38!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X26.webp",
+      "sha256": "aabc5ce2c556050793a8e69148d61871c8f442eb502713039c103e1e491ea894",
+      "scope": "受限",
+      "tags": [
+        "眼镜",
+        "托腮",
+        "轻笑",
+        "状态变化"
+      ],
+      "observation": "托腮时嘴角与面颊发生连带变化，可观察动作与神态关系。",
+      "limits": "手挤压改变脸颊和下颌，只作状态参考；与X02同作者。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X26.webp",
+      "same_author_notes": [
+        "X02"
+      ]
+    },
+    {
+      "key": "X27",
+      "note_id": "6aab884800000000120378ae",
+      "title": "黑皮",
+      "author": "长亭序.",
+      "display_date": "09-17",
+      "source_url": "https://www.xiaohongshu.com/explore/6aab884800000000120378ae",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280103/d2671ec649927ee4b0031cc631e2db9e/notes_uhdr/1040g3qg325762vht480g5nrm4lpg9e837al3af8!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看封面及详情加载大图；非整帖穷尽检查",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X27.webp",
+      "sha256": "d0f3e093f12acd5fe5fb8c7f171559ed4dfab3c9b78e3954b4eb2321ad347f09",
+      "scope": "综合",
+      "tags": [
+        "短发",
+        "短刘海",
+        "上眼睑",
+        "鼻唇体量"
+      ],
+      "observation": "低短而不齐的发束配放松上眼睑，鼻部和上下唇保有普通体量，口周未摆成强笑。",
+      "limits": "高手机机位影响下庭；标题不证明肤色、年龄或修饰状态。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [
+        {
+          "key": "X27-D01",
+          "parent": "X27",
+          "image_url": "https://sns-webpic-qc.xhscdn.com/202610280131/3152afaa52e801069eddc728ab49ed1a/notes_uhdr/1040g3qg325762vht480g5nrm4lpg9e837al3af8!nd_dft_wlteh_webp_3",
+          "local_file": "details/X27-D01.webp",
+          "dimensions": [
+            1080,
+            1440
+          ],
+          "format": "WEBP",
+          "sha256": "dff6d1d5a52be350a0a65a8b147fe6060b94f8011acb80539d1f015a836087e8",
+          "display_date": "09-17",
+          "year": null,
+          "review_level": "已查看详情加载图片像素；不代表整篇全部图片均已看过",
+          "scope": "综合",
+          "observation": "短前刘海、上睑、鼻唇与颊颌体量可见；手机偏高，不量取下庭。"
+        }
+      ],
+      "preferred_file": "details/X27-D01.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "X28",
+      "note_id": "6a61c2f4000000000401dd05",
+      "title": "哈喽",
+      "author": "0%",
+      "display_date": "07-23",
+      "source_url": "https://www.xiaohongshu.com/explore/6a61c2f4000000000401dd05",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280103/31277cab0093ce55503940c097254734/notes_pre_post/1040g3k8322v58pdcg2e05q9lfemtoovfvh5kupg!nc_n_webp_mw_1",
+      "published_year": null,
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "local_file": "images/X28.webp",
+      "sha256": "fbbee7d682bbd4ff7a6dbcebb933a318e2a352e8957ade11f2c98824285df9cc",
+      "scope": "受限",
+      "tags": [
+        "长刘海",
+        "眼镜",
+        "遮额"
+      ],
+      "observation": "可看偏长前刘海与较厚镜框如何形成遮额轮廓。",
+      "limits": "眉眼被头发遮挡，室内偏暗，只作发型候选。",
+      "source_pages": [
+        "P1"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/X28.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y01",
+      "note_id": "6a2a9f9f000000001603d93f",
+      "author": "Choi",
+      "display_date": "06-11",
+      "title": "🤳",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/418ffd5f06ded0308071e9bab56634fa/1040g0083219a700d7a005nol2sm086di87v38ag!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6a2a9f9f000000001603d93f",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y01.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "cdaf16bebfaae6bbef01ef5332e59dd542ff9a9238b03a265574a0abb161a9a5",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "受限",
+      "tags": [
+        "短刘海",
+        "短发",
+        "低光状态"
+      ],
+      "observation": "低光中可辨短碎前刘海、较窄的整头轮廓及安静闭唇状态。",
+      "limits": "暗部细节不足，不推断眼睑厚薄或皮肤层次。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y01.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y02",
+      "note_id": "69fb0e7400000000350293bd",
+      "author": "黑眼圈的杰尼龟",
+      "display_date": "05-06",
+      "title": "呆呆的淡淡的像只树懒",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/3cffd6b188c0c4931d1b01b926223cb6/notes_pre_post/1040g3k831vqrl2lk548g5pb8hqp73409vn1vgag!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/69fb0e7400000000350293bd",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y02.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "43f077bdb08edd882504c91139913d61d7379ffe7104dd3d32d1ba5b8902a070",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "综合",
+      "tags": [
+        "中长发",
+        "偏分",
+        "侧向注视",
+        "微张唇"
+      ],
+      "observation": "中长发在耳旁向外散开，视线偏侧、嘴唇微分，发型与略停顿的状态连贯。",
+      "limits": "转头影响远近侧大小；较平滑皮肤不作未修饰证据。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y02.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y03",
+      "note_id": "69ec8b76000000002301fcab",
+      "author": "饼nn",
+      "display_date": "04-25",
+      "title": "几张实况",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/62a84cd450e5ef0342762dcaf601f2e9/1040g2sg31vcm6ske2qe05nfrb3408vaasvg571o!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/69ec8b76000000002301fcab",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y03.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "c37ff118c1623619907837516f3d727829f054247600f9687b263ce204cc5508",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "受限",
+      "tags": [
+        "长刘海",
+        "低机位",
+        "前落发束"
+      ],
+      "observation": "较长前刘海遮额，低机位下头发整体较贴合，目光向下回应镜头。",
+      "limits": "逆光和低机位明显改变鼻底与下颌，仅借宽泛发型和注视关系。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y03.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y04",
+      "note_id": "6a69970800000000010329de",
+      "author": "饭团",
+      "display_date": "07-29",
+      "title": "想看看大家素颜的图",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/c466aee9a0d969e3a5273742e3d0a380/notes_pre_post/1040g3k83236pqmq37ue05q7j4nutpbonjqha44o!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6a69970800000000010329de",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y04.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "e8ed47cd1b3f4e3f88f36445ce242b7430f201c797dc434631733b3b2308d694",
+      "review_level": "已单独查看下载封面全图",
+      "scope": "综合",
+      "tags": [
+        "前落刘海",
+        "上眼睑",
+        "颊颌",
+        "唇缝"
+      ],
+      "observation": "前落发束长度不齐，眼睑自然包裹虹膜，鼻翼至面颊及闭唇边缘仍有体积转折。",
+      "limits": "自拍轻微俯角、头发遮眉；不把皮肤印记或整体比例逐项复制。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y04.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y06",
+      "note_id": "6aa546620000000011037de6",
+      "author": "こんくわ",
+      "display_date": "09-12",
+      "title": "这样的自拍可以打几分！",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/7e0eace7df602a9d04dfb169d9308038/notes_pre_post/1040g3k032512vp7uj60g5q86pvjcl4g6lf804lo!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6aa546620000000011037de6",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y06.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "36d36303ba44f9e4f8b7ff143f8bd28318c17580ba323971b13a1f8cf28dea44",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "受限",
+      "tags": [
+        "长刘海",
+        "两侧体量",
+        "托腮"
+      ],
+      "observation": "较长直发在脸侧延伸，眉眼被刘海部分遮住，可看整头轮廓及嘴角与手势关系。",
+      "limits": "托下巴和镜面影响轮廓，仅作发型与动作状态补充。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y06.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y08",
+      "note_id": "6a54a511000000001101508f",
+      "author": "蒸馏水大王",
+      "display_date": "07-14",
+      "title": "客观评价一下，求锐评",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/8e84765b7c07269279af9e6369120793/1040g008322i5ruvk6u505qh2lpr0g700fv90qcg!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6a54a511000000001101508f",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y08.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "63209504505a6f5dd718b6408457b8f34e74e08eed39e6aae2a1d3e7e3467b47",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "受限",
+      "tags": [
+        "短发",
+        "轻笑",
+        "眉颊口周联动"
+      ],
+      "observation": "短发下的轻笑带动口角与面颊，保有日常回应感。",
+      "limits": "夜间模糊与逆光，不用于眼睑、鼻翼或唇缘精细设计。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y08.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y13",
+      "note_id": "69f8c35f0000000035021475",
+      "author": "1279",
+      "display_date": "05-05",
+      "title": "",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/bf1a91296d30ac52c3cc9ec257c49b5d/note_pre_post_uhdr/1040g3r031vok05o9kc405on0pac7jqbab5ja6j8!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/69f8c35f0000000035021475",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y13.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "521b770cb3ac86fe3535c475302249fe5d0ca657254f85757612e52966ab2b1a",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "综合",
+      "tags": [
+        "直刘海",
+        "整头发型",
+        "闭唇",
+        "颊颌"
+      ],
+      "observation": "厚度较实的直前刘海落于眉上附近，颊部与偏收的下庭相配，嘴唇自然闭合。",
+      "limits": "略转头与手机角度改变两侧尺度；与Y23同作者。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y13.webp",
+      "same_author_notes": [
+        "Y23"
+      ]
+    },
+    {
+      "key": "Y14",
+      "note_id": "6a2d413c000000000702ae9f",
+      "author": "泥泥。",
+      "display_date": "06-13",
+      "title": "天还亮着",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/0a31bc88f68b01f73fc7e4fbf7e61cae/notes_pre_post/1040g3k8321bse4epnk905pbj66evd1n6ianqb18!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6a2d413c000000000702ae9f",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y14.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "0ade9c623c7784cccafd2bf2a6d8e29c7afca74d6bddec09b1af59be52e222a8",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "综合",
+      "tags": [
+        "短刘海",
+        "上眼睑",
+        "唇部体量",
+        "光线限制"
+      ],
+      "observation": "短而较散的前刘海配放松上睑，较有体量的唇部自然闭合。",
+      "limits": "橙色窄光带改变一侧肤色和阴影，不编码为永久面部不对称。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y14.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y15",
+      "note_id": "6a99485f000000002900cb0b",
+      "author": "Al2(SO4)3",
+      "display_date": "09-03",
+      "title": "对镜",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/07b1fcd5ccabf5f98bbbebf350b4077f/notes_pre_post/1040g3k8324lc9jcq0m705ofj85c418jb5ug52b8!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6a99485f000000002900cb0b",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y15.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "45622ab9b75e452c391e4537d22bd74c5ac1fa5cb124da90c0d73e8d6a6672a0",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "综合",
+      "tags": [
+        "露额",
+        "短发",
+        "镜面",
+        "侧向注视"
+      ],
+      "observation": "短发露额，顶端与两侧体量不同；注视手机时，眉眼与口周处于关注状态。",
+      "limits": "镜像和看向手机引起侧转；脸在图中较小，只支持中尺度关系。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y15.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y18",
+      "note_id": "69dfc89c000000001b023c89",
+      "author": "Echo",
+      "display_date": "05-24",
+      "title": "男大",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/f413f884a58d79bef680873c74c37f91/1040g2sg31v07f4r62ge05n2utsek9fhs6r2abk0!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/69dfc89c000000001b023c89",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y18.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "a8a14ea22aa96802f2c986d497b212bddd65b4e0ff5b2e4514459ed7d7921d8d",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "综合",
+      "tags": [
+        "短刘海",
+        "发束层次",
+        "唇部体量"
+      ],
+      "observation": "短发束向前散开，较柔和颊部与有体量的唇部共同成立，上睑并非刻意提亮放大。",
+      "limits": "高机位与近摄改变下颌和鼻唇，修饰程度未知。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y18.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y20",
+      "note_id": "69ac096d00000000150385da",
+      "author": "番茄响铃卷",
+      "display_date": "03-07",
+      "title": "叔今年37岁了，看得出来吗？",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/be6fb8370260574f36322817d6ca632b/notes_pre_post/1040g3k831tdm4ejj5k705n9poilllst6g38qq00!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/69ac096d00000000150385da",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y20.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "315a8a0f64911988513506e85f78cb8a6075d2b96d50be819962a0f9432e0568",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "综合",
+      "tags": [
+        "长刘海",
+        "偏分",
+        "口周",
+        "面部体量"
+      ],
+      "observation": "偏分长刘海落点不齐，眼睑较放松，鼻唇与下庭保有独立体量。",
+      "limits": "标题37岁为作者说法，年龄未核实；不照搬胡须或其他身份标记。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y20.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y21",
+      "note_id": "6a8fead000000000280057cb",
+      "author": "竹梨",
+      "display_date": "08-27",
+      "title": "",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/49e487d533db58cede63463b1e628871/1040g2sg324c7k3jvmue05plbebcnc86ia6cod9g!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6a8fead000000000280057cb",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y21.webp",
+      "dimensions": [
+        640,
+        640
+      ],
+      "format": "WEBP",
+      "sha256": "c96ffba3cc3191972da78439ad676a7f53e5866a9f017f61a6b7cdb02d02cafe",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "综合",
+      "tags": [
+        "偏分",
+        "整头发型",
+        "平静注视",
+        "闭唇"
+      ],
+      "observation": "较整齐的分缝与向两侧落的发束，配自然闭唇和较平静的眼睑开合。",
+      "limits": "造型与光线较精致，可作部分关系参考，不用来证明原生肤质，也不因好看排除。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y21.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y22",
+      "note_id": "69bf34f2000000001a02fe39",
+      "author": "不要熬夜",
+      "display_date": "03-22",
+      "title": "胡子拉碴",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/00cb30b0858b07786b74125965c64962/1040g00831u0d9ihkne005o3vr6r08fc7od9mlt0!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/69bf34f2000000001a02fe39",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y22.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "20d98aae1d61fcf14abcf55df79fc57c33c72c619418f28ac116505dcceb7d5f",
+      "review_level": "已单独查看下载封面全图",
+      "scope": "综合",
+      "tags": [
+        "短发",
+        "露额",
+        "颊颌",
+        "轻笑"
+      ],
+      "observation": "贴合头形的短发露额，眉眼、普通鼻部体量与稍厚下唇协调，嘴角轻抬但未形成强笑。",
+      "limits": "看似近正面仍有轻微透视；皮肤修饰程度未知。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y22.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y23",
+      "note_id": "6a33e02f000000000f01fb1a",
+      "author": "1279",
+      "display_date": "06-18",
+      "title": "",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/e44e582e078c3975bec8134c3a9a571c/notes_pre_post/1040g3k0321ibae2gms005on0pac7jqbaleau9io!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6a33e02f000000000f01fb1a",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y23.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "4f5248d4aed32d1892e50fcd1c8fe49a31ddf30f14026fa33807f446794e0330",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "综合",
+      "tags": [
+        "前落刘海",
+        "偏分",
+        "颊颌",
+        "闭唇"
+      ],
+      "observation": "户外光下较厚的前落发束与偏收的下颌共同成立，嘴唇较平静合拢。",
+      "limits": "与Y13同作者，仅作不同光线和状态；不当成新增人物。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y23.webp",
+      "same_author_notes": [
+        "Y13"
+      ]
+    },
+    {
+      "key": "Y24",
+      "note_id": "69db9f3f00000000230200fb",
+      "author": "WPL.",
+      "display_date": "04-30",
+      "title": "Only Head！",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/03b5b7e98575334690be675de96a7979/note_pre_post_uhdr/1040g3r831us5bjnejm9g5nguuv8g92o6vov815g!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/69db9f3f00000000230200fb",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y24.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "9f60a31874100bf6ddbc2f3f889caa2c5c33b6d6ceaf8b3391731b0d32b536db",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "受限",
+      "tags": [
+        "露额",
+        "短发",
+        "胡须",
+        "低机位"
+      ],
+      "observation": "短发顶端方向较散，低机位与口周状态共同形成宽泛造型。",
+      "limits": "墨镜遮眼、强低机位；不能用于眉眼或鼻颌比例。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y24.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y25",
+      "note_id": "6aa6a7cf000000002b002998",
+      "author": "是凉拌腐竹啊",
+      "display_date": "09-13",
+      "title": "29岁男人的plog🤤",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/1fc20facbf51189338b2aca560a7bb2d/notes_pre_post/1040g3k03252dhuhhj60g5nt9btgg9aptjkdgtcg!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6aa6a7cf000000002b002998",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y25.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "79bdaffb5357a91c3f5887fbc75f065df6904a06100995fe6f6ab69c459e5635",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "受限",
+      "tags": [
+        "短发",
+        "露额",
+        "向下注视",
+        "口周状态"
+      ],
+      "observation": "较短蓬松发束配向下看手机的眼睑和微分的嘴唇，适合动作状态取材。",
+      "limits": "镜像、低头及整身构图使脸较小，不作为清晰正脸细节依据。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y25.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y27",
+      "note_id": "6a8657670000000014021b81",
+      "author": "宁屿",
+      "display_date": "08-20",
+      "title": "打工人打工魂",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/4ff32916e0fb5a812dc24e2f3dfcbfd1/1040g0083242sc2dc0m6g5pcamdgnqbu49oe0pgo!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6a8657670000000014021b81",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y27.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "c60a5a3ecf1a457c92035824299f8cff56da961dfd56181c5426a9bcbd4e9818",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "综合",
+      "tags": [
+        "短发",
+        "露额",
+        "侧向注视",
+        "闭唇"
+      ],
+      "observation": "较短前额发束配轻微侧向注视，普通鼻唇及更有体量的侧颊形成协调组合。",
+      "limits": "视觉气质不宜硬套所有年轻角色；标题打工人不证明职业或年龄。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y27.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y29",
+      "note_id": "6a655be9000000001c013d50",
+      "author": "L.J.R.",
+      "display_date": "07-26",
+      "title": "",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/a55c44e4ccc4d2b7a0017a071c762e06/note_pre_post_uhdr/1040g3r83232lmjtg7o705opfrlr8vephai520po!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6a655be9000000001c013d50",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y29.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "805ca18d931696a22303ec8351fe25ae8b85972643280a0d65bf01be5f2f1318",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "综合",
+      "tags": [
+        "偏分",
+        "发束层次",
+        "微张唇",
+        "眉眼口周联动"
+      ],
+      "observation": "较松的偏分发束与普通开合的眉眼相配，嘴唇微分带出临时回应的状态。",
+      "limits": "照片有运动模糊和轻微俯拍，细微唇缘与眼睑褶皱不可精读。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y29.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y30",
+      "note_id": "6abf9f94000000001b02cb37",
+      "author": "Yiun",
+      "display_date": "10-02",
+      "title": "长成这样到底好看不",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/abdd3b70886260d73f97122015139c4e/note_pre_post_uhdr/1040g3r8325qqe8koka705q4knp2a62r8mcu3dr8!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/6abf9f94000000001b02cb37",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y30.webp",
+      "dimensions": [
+        640,
+        1138
+      ],
+      "format": "WEBP",
+      "sha256": "bd5cf4da4e4bddd6d16d3db88954e45ac467b4f4efad582b2a875b7372516bf0",
+      "review_level": "已单独查看下载封面全图",
+      "scope": "综合",
+      "tags": [
+        "眼镜",
+        "短发",
+        "唇部体量",
+        "微张唇"
+      ],
+      "observation": "短发顶部松散而两侧贴合，普通矩形镜框下的眼睑、鼻部与较厚唇部共同成立，嘴唇微分。",
+      "limits": "近距离与偏低机位、镜片改变比例；不用唇部放大或镜片变形制造特色。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y30.webp",
+      "same_author_notes": []
+    },
+    {
+      "key": "Y32",
+      "note_id": "69c546b3000000001a028f44",
+      "author": "沙漏",
+      "display_date": "03-26",
+      "title": "老实人听劝改造",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280139/1386b75b54748ec99f5dfa27ce2a1b86/1040g00831u6b0u2diq4g5ngll1c08r8vs1mspdo!nc_n_webp_mw_1",
+      "source_url": "https://www.xiaohongshu.com/explore/69c546b3000000001a028f44",
+      "published_year": null,
+      "retouch_status": "unknown",
+      "photographed_at": null,
+      "local_file": "images/Y32.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "format": "WEBP",
+      "sha256": "d1155eeda5112160e0789d8df1bf2acfdeb3b95977bf54a66b0cfa7c8d3c9f12",
+      "review_level": "已看下载封面像素；正常尺寸及编号拼图观察",
+      "scope": "综合",
+      "tags": [
+        "眼镜",
+        "短刘海",
+        "面部体量",
+        "闭唇"
+      ],
+      "observation": "较平短刘海配透明矩形眼镜、较饱满面颊和闭唇，支持不同于窄脸长发的组合取材。",
+      "limits": "镜片和室内光影响眼部，皮肤平滑程度不能证明无修饰。",
+      "source_pages": [
+        "P2"
+      ],
+      "collected_at": "2026-10-28",
+      "age_verified": false,
+      "details": [],
+      "preferred_file": "images/Y32.webp",
+      "same_author_notes": []
+    }
+  ],
+  "excluded": [
+    {
+      "key": "X04",
+      "note_id": "6a06bda5000000003700c0e6",
+      "title": "我保证我是天使只是有点坏",
+      "source_url": "https://www.xiaohongshu.com/explore/6a06bda5000000003700c0e6",
+      "reason": "低清且平滑明显，只看不到足够结构，未入库。"
+    },
+    {
+      "key": "X05",
+      "note_id": "6ab52629000000001a02aa7c",
+      "title": "一些很普通但很喜欢的瞬间",
+      "source_url": "https://www.xiaohongshu.com/explore/6ab52629000000001a02aa7c",
+      "reason": "手机大面积遮脸，不作为脸部参考。"
+    },
+    {
+      "key": "X09",
+      "note_id": "6a638c28000000002201a9e4",
+      "title": "",
+      "source_url": "https://www.xiaohongshu.com/explore/6a638c28000000002201a9e4",
+      "reason": "贴纸覆盖及镜面遮挡妨碍结构判断。"
+    },
+    {
+      "key": "X14",
+      "note_id": "6a5ef35c00000000110112a4",
+      "title": "模糊1️⃣下",
+      "source_url": "https://www.xiaohongshu.com/explore/6a5ef35c00000000110112a4",
+      "reason": "夜间模糊，不足以补充本次素材。"
+    },
+    {
+      "key": "X21",
+      "note_id": "6a63b6b0000000000f005b7b",
+      "title": "你是我39度的风",
+      "source_url": "https://www.xiaohongshu.com/explore/6a63b6b0000000000f005b7b",
+      "reason": "贴纸及躺卧角度遮挡和改变五官。"
+    },
+    {
+      "key": "Y05",
+      "note_id": "685d2b1c0000000013010735",
+      "title": "🪞",
+      "source_url": "https://www.xiaohongshu.com/explore/685d2b1c0000000013010735",
+      "reason": "牙刷遮挡口部且偏暗，本次不收。"
+    },
+    {
+      "key": "Y07",
+      "note_id": "68e7e090000000000402a408",
+      "title": "",
+      "source_url": "https://www.xiaohongshu.com/explore/68e7e090000000000402a408",
+      "reason": "手机覆盖鼻口，无法形成完整脸部关系。"
+    },
+    {
+      "key": "Y09",
+      "note_id": "6912cb790000000004021445",
+      "title": "网感男生单手自拍技巧思路全教学",
+      "source_url": "https://www.xiaohongshu.com/explore/6912cb790000000004021445",
+      "reason": "教程拼图、征集卡或AI明示，不作为真人结构样本"
+    },
+    {
+      "key": "Y11",
+      "note_id": "69bd5524000000001a02c543",
+      "title": "hi~",
+      "source_url": "https://www.xiaohongshu.com/explore/69bd5524000000001a02c543",
+      "reason": "光线过暗且镜片遮挡，结构证据不足。"
+    },
+    {
+      "key": "Y12",
+      "note_id": "6abe084f000000000b004c34",
+      "title": "自认为自己长得帅的照片请发在评论区",
+      "source_url": "https://www.xiaohongshu.com/explore/6abe084f000000000b004c34",
+      "reason": "教程拼图、征集卡或AI明示，不作为真人结构样本"
+    },
+    {
+      "key": "Y16",
+      "note_id": "696e2da9000000000a02d753",
+      "title": "存小幅度韩男氛围感拍照姿势13",
+      "source_url": "https://www.xiaohongshu.com/explore/696e2da9000000000a02d753",
+      "reason": "教程拼图、征集卡或AI明示，不作为真人结构样本"
+    },
+    {
+      "key": "Y28",
+      "note_id": "6adca41200000000310399c8",
+      "title": "男生头像（AI指令）",
+      "source_url": "https://www.xiaohongshu.com/explore/6adca41200000000310399c8",
+      "reason": "教程拼图、征集卡或AI明示，不作为真人结构样本"
+    },
+    {
+      "key": "Y31",
+      "note_id": "6a6c44290000000005022c0e",
+      "title": "",
+      "source_url": "https://www.xiaohongshu.com/explore/6a6c44290000000005022c0e",
+      "reason": "脏镜、雾光和小脸尺度，未入库。"
+    }
+  ]
+}

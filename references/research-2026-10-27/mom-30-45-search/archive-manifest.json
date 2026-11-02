@@ -1,0 +1,226 @@
+{
+  "archived_at": "2026-10-27",
+  "authorization": "把这两次调研写进skill，并且在下次生成图片时，你自己去思考使用。",
+  "source_workspace": "C:\\Users\\0\\Documents\\Codex\\2026-10-26\\new-chat-9\\work\\xhs-mom-portrait-research-20261027",
+  "image_count": 36,
+  "files_copied": 58,
+  "representation_note": "原报告保持原文；JSON与CSV中工作区文件路径改为归档内相对路径，原始临时下载清单仅保留历史来源用途。",
+  "historical_state_note": "原报告及研究摘要中未写入skill等句子描述调研结束阶段，本次已追加归档。",
+  "media_integrity": [
+    {
+      "path": "七例人物与穿搭观察.jpg",
+      "sha256": "a6dd916d52185d8dd73dd08574998e11702424443ca813ddc883f254036d3ced",
+      "bytes": 605673
+    },
+    {
+      "path": "images/cover_02_ddc29202a0f1935c.webp",
+      "sha256": "ad6ec02fcdc15e88758263e47df4908fd806d71605b3baad8cd6438bdaf6d9ce",
+      "bytes": 53612
+    },
+    {
+      "path": "images/cover_03_a32b47f29e52ccc2.webp",
+      "sha256": "e91e69532439c86810f732e3511f176533a7c41151e6b25b30522fa0facc9c1b",
+      "bytes": 147934
+    },
+    {
+      "path": "images/cover_04_4d28a6bfdd470151.webp",
+      "sha256": "01c6d3d5d736323080df21489ade3aa3dd6b7865bcac2744aef31de9a029fe7a",
+      "bytes": 53820
+    },
+    {
+      "path": "images/cover_06_5c098110155350e2.webp",
+      "sha256": "ef01e03b0b873b463ffde8ca5d5e55b2752b5297c7521976ca658bfc2724c737",
+      "bytes": 51098
+    },
+    {
+      "path": "images/cover_16_3a063ce71a139614.webp",
+      "sha256": "16fe1161e50122baf206985f30bcff63fcfa87c9f61ee24a3b7908cc6a9af74b",
+      "bytes": 55890
+    },
+    {
+      "path": "images/cover_17_14201771f6c47de2.webp",
+      "sha256": "eab02fb325dd5df898629849058789f8e7f6ab39426672630db9d3f43d31c3b2",
+      "bytes": 75418
+    },
+    {
+      "path": "images/cover_21_af92a584cc98beb1.webp",
+      "sha256": "6f9595cbd967b1974107fd6a24c00d470c2f264eb88f128e6dffec690839f2e3",
+      "bytes": 105034
+    },
+    {
+      "path": "images/cover_22_a09fd9338c9496c8.webp",
+      "sha256": "b60725661fa864e2c1b00700aff61b87326b2ae6c39dd090a14785f7f61c39c1",
+      "bytes": 41034
+    },
+    {
+      "path": "images/cover_23_6c578a65e4c3994b.webp",
+      "sha256": "c4d0c2e198814eddb7223116b6f08d4aec662fba4cd9c99c5228302d7ecb1a94",
+      "bytes": 64090
+    },
+    {
+      "path": "images/cover_24_2209d2fb273833ce.webp",
+      "sha256": "d7b15ec126599e07d119c187c2bd72f656859e8c2e340ec6d572690fc53bff1b",
+      "bytes": 67382
+    },
+    {
+      "path": "images/cover_25_92fbb225c4ce3e21.webp",
+      "sha256": "4adbaecca8259af77bdb89a6404e4ba1bca9950d6fe00426b790aef079c684ff",
+      "bytes": 44438
+    },
+    {
+      "path": "images/cover_26_970e1000130c47bc.webp",
+      "sha256": "b86a3ed18d9a9982b3941ad3e2c1dd0b03a774e9208767043fe7a1c2a1e2683e",
+      "bytes": 43834
+    },
+    {
+      "path": "images/cover_27_bb480ab87f519106.webp",
+      "sha256": "60f8722508f214fef23ea1cae4b0314925aa45fb260a605e24300f3da26be704",
+      "bytes": 76650
+    },
+    {
+      "path": "images/cover_b2_02_a7be4e19c48f6842.webp",
+      "sha256": "9ed46f3c6d9576ba3dbfe24b45ce56c9934c07a025624aefd8f8f07caef67858",
+      "bytes": 65928
+    },
+    {
+      "path": "images/cover_b2_06_a9a9b6ba201df539.webp",
+      "sha256": "c6637074662a37ab7f4ed7f3a331c3c4c70009f19cc9a6fbbe700ded28c4964d",
+      "bytes": 77498
+    },
+    {
+      "path": "images/cover_b2_13_2b645822dbb422a0.webp",
+      "sha256": "ab953c202b439f0c93afc0b9320a70fc3f8dd361c2430f62807e38f5faa7a742",
+      "bytes": 81766
+    },
+    {
+      "path": "images/cover_b2_14_b5697d9951fc0ab9.webp",
+      "sha256": "feefb68d53992babe1b1d25c8b257fb890e7758258bd2457847112dc444f2b5b",
+      "bytes": 88980
+    },
+    {
+      "path": "images/cover_b2_15_82b0e37334824507.webp",
+      "sha256": "87999cd866b50062b6dd25eecfda0517732b521cf76b24b92d7be5234ea9a92b",
+      "bytes": 53214
+    },
+    {
+      "path": "images/cover_b2_16_87a44a2ea9c79e30.webp",
+      "sha256": "87ebb546e9d314cb38b2262344b9016d8bc474ae1004c299fb21743a08baeba1",
+      "bytes": 92252
+    },
+    {
+      "path": "images/cover_b2_18_ef6c49b34a69d005.webp",
+      "sha256": "2cb9e88fda90d8c28841f8d5189e4d94ed0e7e0911c0f4fa4866c12f67019f07",
+      "bytes": 76628
+    },
+    {
+      "path": "images/cover_b2_19_1559b11fc07bdc63.webp",
+      "sha256": "459bde64a81d1051a6aaecb794a96794b1a7c6fdac52a3f913725213f06a6918",
+      "bytes": 87376
+    },
+    {
+      "path": "images/cover_b2_20_c4e6e6e5023cef06.webp",
+      "sha256": "8a471176b75cae388b5ecafa4de56b5c3463f6fa29d0563a62d7507c51ae3551",
+      "bytes": 59592
+    },
+    {
+      "path": "images/cover_b2_21_77a88027498671a8.webp",
+      "sha256": "9467de974600afeccbc403e249e4fb6ab17a222ef4d37e0d9cd18c4a373739ab",
+      "bytes": 147936
+    },
+    {
+      "path": "images/cover_b2_22_194ea1312c3c8f85.webp",
+      "sha256": "0dcd36ee2aeb22a6d42a3107ba78d373969ba788030cd96b94577d3aa56ca5e0",
+      "bytes": 55120
+    },
+    {
+      "path": "images/cover_b2_23_e5bb48794b865509.webp",
+      "sha256": "fc7a777fb671ead4f262665e5df8b7dd930edf07fe2a5efce24462144c21d2ed",
+      "bytes": 59656
+    },
+    {
+      "path": "images/cover_b2_24_daba04b6cc4bfb98.webp",
+      "sha256": "4996b8cd8acf16a1f40877e672951d12669198bdf83164b61398fbfc0a1f61e6",
+      "bytes": 118158
+    },
+    {
+      "path": "images/cover_b2_25_328a54bc8e5d1777.webp",
+      "sha256": "9cc91b33a17e20089286da26b326d865778e6f336aca003c2742a24c4fe9ebd9",
+      "bytes": 110770
+    },
+    {
+      "path": "images/cover_b2_26_b3e704da34ba2476.webp",
+      "sha256": "c2bd2778fd4d982486b187d6e02495a4052a8be9adde58d6c051e5f017011800",
+      "bytes": 120592
+    },
+    {
+      "path": "images/cover_b2_28_da863253e556aeb7.webp",
+      "sha256": "6b8200ee58e99d59cb762dc7ec38db6619ad803317c516f7144b0319011d4050",
+      "bytes": 102356
+    },
+    {
+      "path": "images/cover_b2_29_b1028d74929fb60d.webp",
+      "sha256": "066dc08175836e542cdcbaab5a2c0a4a5b0280c82b3c5d83f91d7f8cc6c45560",
+      "bytes": 44914
+    },
+    {
+      "path": "images/cover_b2_30_6cc23fee3326a574.webp",
+      "sha256": "b58619a679bcdf81b399fa428e9068ca536121040d84e51c35757cbfd231c066",
+      "bytes": 91022
+    },
+    {
+      "path": "images/detail_age30_01_d1ca68a4c24a4363.webp",
+      "sha256": "c3f586b9d800e9f75b583720dc8fd2b56bcc927688ee2ac9b37274bbcd1f0741",
+      "bytes": 190586
+    },
+    {
+      "path": "images/detail_age30_02_53b7b8a8654ad97d.webp",
+      "sha256": "3b7562603ad4c91c1d5cb708cf22875f7d124e89f0d84685aa8c8ac6bca84340",
+      "bytes": 201762
+    },
+    {
+      "path": "images/detail_age39_1bfa4d0631db9d35.webp",
+      "sha256": "0617faaf1028bbb3c2894eaf70ee4caa0860fc4bba632d7fc0ceafee49817a9c",
+      "bytes": 124700
+    },
+    {
+      "path": "images/detail_age44_01_6a37a59986009e19.webp",
+      "sha256": "65963d5eb548abb640fe0d53c07542ac506751d0981fc78c8d044267ed1dd822",
+      "bytes": 388472
+    },
+    {
+      "path": "images/detail_age44_page2_8a6cf86067e2b9b7.webp",
+      "sha256": "8fecd84f2221978dd0688d118c2a3ef5d40ad35adcb66352572af7e94c22af6c",
+      "bytes": 466632
+    },
+    {
+      "path": "contact-sheets/batch1_01.jpg",
+      "sha256": "6a0b85843c87a3040f0dd7281df1a5bb62364a6528014d38826a8e4596759065",
+      "bytes": 570406
+    },
+    {
+      "path": "contact-sheets/batch1_02.jpg",
+      "sha256": "9c7426a660c20cc73ff782405982b49f5d8fe48206fa807aa14612ab5eb5807d",
+      "bytes": 530084
+    },
+    {
+      "path": "contact-sheets/batch1_03.jpg",
+      "sha256": "ff73a6914ef19f8c505e0ad09b79db149dc120f49f98edc5971130189a3ac360",
+      "bytes": 138244
+    },
+    {
+      "path": "contact-sheets/batch2_01.jpg",
+      "sha256": "4b999d2280db69c403999e1b45f72e7fcdb2d50661cb9cb77330b992b377ea3a",
+      "bytes": 590893
+    },
+    {
+      "path": "contact-sheets/batch2_02.jpg",
+      "sha256": "dd59530ffae2de358498d365c7c4c93aa1b75e225b21b8c2ec07e10878ee6b5f",
+      "bytes": 628044
+    },
+    {
+      "path": "contact-sheets/batch2_03.jpg",
+      "sha256": "9be20c72e09dcbd9be1cc66427d0ada9a7de3841d1ffd4db6d842e6cd866ee7c",
+      "bytes": 669931
+    }
+  ]
+}

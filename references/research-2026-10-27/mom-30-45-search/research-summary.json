@@ -1,0 +1,25 @@
+{
+  "research_date": "2026-10-27",
+  "search_url": "https://www.xiaohongshu.com/search_result?keyword=%25E5%25A6%2588%25E5%25A6%2588%25E8%2587%25AA%25E6%258B%258D&source=web_search_result_notes",
+  "unique_note_urls_logged": 52,
+  "covers_actually_viewed": 31,
+  "detail_images_actually_viewed": 5,
+  "detail_breakdown": {
+    "portrait_images": 3,
+    "still_life": 1,
+    "garment_only": 1
+  },
+  "core_distinct_publishers_with_age_self_report_in_target": 7,
+  "limitations": [
+    "52为来源条目数，31为封面图数，不能说成52或31位目标年龄女性。",
+    "搜索结果混入玩偶、历史照片、47—55岁与年龄不明者，核心样本已区分。",
+    "同作者多帖和同帖大图不另计不同人物。",
+    "结果包含2024、2025及仅月日无年份内容，不能统称2026新照片或2026主流趋势。",
+    "原相机、素颜、无美颜为作者自述，不能证明未处理或确认照片真实来源。",
+    "40岁全身和45岁居家两例详情返回300031暂时无法浏览，观察仅基于已取得封面。",
+    "没有统计代表性；列出的风格是这批实例，不是平台占比、全体女性或所有妈妈的画像。",
+    "仅观察服装下可见轮廓，不推断体重、真实腰臀尺寸、生育情况或身体健康。"
+  ],
+  "archive_boundary": "研究文件只写工作区；本轮未修改skill及长期记忆。",
+  "browser_end_state": "已恢复用户原妈妈自拍搜索标签页，搜索框值为妈妈自拍。"
+}

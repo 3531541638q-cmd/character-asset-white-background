@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-27",
+  "unique_note_urls": 50,
+  "covers_actually_viewed": 50,
+  "detail_images_actually_viewed": 10,
+  "detail_note_count": 3,
+  "focused_case_count": 12,
+  "explicit_non_target_or_AI_or_illustration_covers": 7,
+  "valid_detail_bodies_read": 4,
+  "failed_detail_bodies": 1,
+  "individual_height_cm_verified": 0,
+  "official_height_reference": "WS/T 423—2022表A.3、A.4，P50；PDF第9—11页已视觉核对",
+  "archive_boundary": "仅工作区，未修改skill及长期记忆"
+}

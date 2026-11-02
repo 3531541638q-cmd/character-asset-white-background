@@ -1,0 +1,1040 @@
+{
+  "archived_at": "2026-10-28",
+  "user_authorization": "记录skill",
+  "scope": "归档上轮指定搜索页的发型、五官、风格与穿搭调研；没有生成或修改角色图。",
+  "counts": {
+    "viewed_cover_files": 41,
+    "notes_in_ledger": 44,
+    "unviewed_ai_title_exclusions": 3,
+    "verified_real_people": null
+  },
+  "samples": [
+    {
+      "key": "H01",
+      "note": "6adc9af3000000003301386c",
+      "author": "或_",
+      "source_url": "https://www.xiaohongshu.com/explore/6adc9af3000000003301386c",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/69bc1eb41d0f1ca55ae73de4facaf9a9/1040g008326n437cllq6g5prbmic63g7gg4dii48!nc_n_webp_mw_1",
+      "file": "images/H01.webp",
+      "dimensions": [
+        300,
+        400
+      ],
+      "sha256": "15381d6bd1c9d24a5970184c1d9dc722ec9b261a734346c1cd03b212ddacb7ca",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "强造型，拍摄年代及原始出处未核实，不作当代日常默认。",
+      "roles": [],
+      "selection_status": "受限观察"
+    },
+    {
+      "key": "H02",
+      "note": "6adca41200000000310399c8",
+      "author": "半绵学姐",
+      "source_url": "https://www.xiaohongshu.com/explore/6adca41200000000310399c8",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/2e4c6b9806439e245f476a2b708a4523/1040g008326n1tg084q4g5pj5iosgu3nn0ps7frg!nc_n_webp_mw_1",
+      "excluded": "标题AI明示，未下载为真人样本",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "仅核对标题，未看图",
+      "limits": "自拍角度、修饰和年龄未经核实；只取可见关系。",
+      "roles": [],
+      "selection_status": "排除真人结构"
+    },
+    {
+      "key": "H03",
+      "note": "6adda176000000002c035d11",
+      "author": "Dai.",
+      "source_url": "https://www.xiaohongshu.com/explore/6adda176000000002c035d11",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/5cc3637589daf27aedf85739c5ff929e/notes_pre_post/1040g3k0326o463csk4005proi97m3s2ufmm2df8!nc_n_webp_mw_1",
+      "file": "images/H03.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "96e3c253948d61452d1619f430cf447654238afa121449ec0f1f2cffe4045ca9",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "头顶与眉眼部分裁切或遮挡，只支持可见发型大关系。",
+      "roles": [
+        "发型轮廓",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H04",
+      "note": "6adb2b82000000002b02838a",
+      "author": "走心橙🍊",
+      "source_url": "https://www.xiaohongshu.com/explore/6adb2b82000000002b02838a",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/8d8421fa99f8864ddf4d680b0c8623f5/notes_uhdr/1040g3qo326ln9msikc705o39gbr097h8hea9rd0!nc_n_webp_mw_1",
+      "file": "images/H04.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "1e6db556df7da9dce87c783eb19c546d7b25bd03d5ce3363c7f44583dcbd11ca",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "自拍角度、修饰和年龄未经核实；只取可见关系。",
+      "roles": [
+        "发型轮廓",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H05",
+      "note": "6ade37e4000000002c0378a7",
+      "author": "广.木",
+      "source_url": "https://www.xiaohongshu.com/explore/6ade37e4000000002c0378a7",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/39bc526fe3c9784f789151bf81e16939/notes_pre_post/1040g3k8326omgn48kc705n5rjt5llkatvan9k18!nc_n_webp_mw_1",
+      "file": "images/H05.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "9ef563a96f374c6adcf23563a5eb5ca6a39c6080fc043d9223dba3a2e6b3fcde",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "自拍角度、修饰和年龄未经核实；只取可见关系。",
+      "roles": [
+        "可见穿搭",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H06",
+      "note": "6ad8dc97000000002c01e896",
+      "author": "猫咪糕手",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad8dc97000000002c01e896",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/56c5aa96093669f88ea1bd57cb51e063/1040g008326jeuj0p4q5g5q6enrmobbiqqd637e8!nc_n_webp_mw_1",
+      "file": "images/H06.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "da3a2b1b7b7fcfe8518f55a4b05ffd7f723bc064d4cd202ed6cc1367b2e1d9e0",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "文字征集卡，排除人体参考。",
+      "roles": [],
+      "selection_status": "排除真人结构"
+    },
+    {
+      "key": "H07",
+      "note": "6addaa9e0000000031036d5f",
+      "author": "布偶日记",
+      "source_url": "https://www.xiaohongshu.com/explore/6addaa9e0000000031036d5f",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/37bf8c6b3435c43f84076b3692cdf76a/notes_pre_post/1040g3k8326o59l02lqdg5qj1sfgk0002o0rgv6o!nc_n_webp_mw_1",
+      "file": "images/H07.webp",
+      "dimensions": [
+        640,
+        837
+      ],
+      "sha256": "9d11cb3bce652d85ae638b9b9525e94a54ef2c3d440b47261317b542b85c013a",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "多人物妆造拼图，只看造型范围，不作小图结构实测。",
+      "roles": [],
+      "selection_status": "受限观察"
+    },
+    {
+      "key": "H08",
+      "note": "6ad971db000000002403e093",
+      "author": "甜心老奶",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad971db000000002403e093",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/9f58a6211f2ed93eb9dbfc82da49596f/1040g2sg326k1a6jjlg705n7m8s85pdqbqvppi1o!nc_n_webp_mw_1",
+      "file": "images/H08.webp",
+      "dimensions": [
+        640,
+        784
+      ],
+      "sha256": "e085341ea55502d0ddfd2563eeb4b9502d12a992d29befa8b4811b5c22f375e0",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "妆造修饰明显，只看向后梳的发型轮廓。",
+      "roles": [
+        "发型轮廓"
+      ],
+      "selection_status": "受限观察"
+    },
+    {
+      "key": "H09",
+      "note": "6addb1780000000032017b81",
+      "author": "蛋蛋の",
+      "source_url": "https://www.xiaohongshu.com/explore/6addb1780000000032017b81",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/1218580d184397e09e40d1c9177cf848/notes_pre_post/1040g3k8326o6514l46005qir27ljnk00a505mag!nc_n_webp_mw_1",
+      "file": "images/H09.webp",
+      "dimensions": [
+        640,
+        854
+      ],
+      "sha256": "29538e9b09d307f3621c01093bebfe91ff8d1ae46f7ba30991534cb9ae3780c7",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "不作为本次男性发型核心样本。",
+      "roles": [],
+      "selection_status": "排除真人结构"
+    },
+    {
+      "key": "H10",
+      "note": "6ada03f0000000002c030436",
+      "author": "Link",
+      "source_url": "https://www.xiaohongshu.com/explore/6ada03f0000000002c030436",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/fa73a3eb0188521860adb89bd2946e42/notes_pre_post/1040g3k8326kj6piil0l05qmj5kd1f803bb0n1lg!nc_n_webp_mw_1",
+      "file": "images/H10.webp",
+      "dimensions": [
+        640,
+        375
+      ],
+      "sha256": "4ca12597b26fa0719967622b99859a8e8689e056d53a8f4d0030f2d82b4c5b5c",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "脸部很小，主要看可见针织穿搭。",
+      "roles": [
+        "可见穿搭"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H11",
+      "note": "6ad90101000000002c0159f9",
+      "author": "再睡会吧",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad90101000000002c0159f9",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/5fdb4716eec9e79ef77ded73e451e2be/1040g2sg326jjhs644qe04a5t3j6825972ottma0!nc_n_webp_mw_1",
+      "file": "images/H11.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "242fce939ef3fcdf832800e18bb08d3c16dc493c614954e068b16d48431ba9f4",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "刘海遮眉，只采用可见发束及口周关系。",
+      "roles": [
+        "发型轮廓"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H12",
+      "note": "6ade1df000000000330331f9",
+      "author": "自私鬼",
+      "source_url": "https://www.xiaohongshu.com/explore/6ade1df000000000330331f9",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/e8edcc3c35d1d39dac49cbbfcb4b2cb2/1040g008326ojc6rv50605qig853jnn00ejea8e8!nc_n_webp_mw_1",
+      "file": "images/H12.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "24434e2437ad22b64010e7494324c5dfee1128cee59d81b03eab0183db157386",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "转头、妆造及修饰程度未知。",
+      "roles": [
+        "发型轮廓",
+        "可见穿搭"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H13",
+      "note": "6adb60a2000000002a01e4b7",
+      "author": "半绵学姐",
+      "source_url": "https://www.xiaohongshu.com/explore/6adb60a2000000002a01e4b7",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/300e5f61a7985584efbffe8d8fd958d3/1040g008326lsgile501g5qdrv0fcvf6bfvtk9sg!nc_n_webp_mw_1",
+      "excluded": "标题AI明示，未下载为真人样本",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "仅核对标题，未看图",
+      "limits": "自拍角度、修饰和年龄未经核实；只取可见关系。",
+      "roles": [],
+      "selection_status": "排除真人结构"
+    },
+    {
+      "key": "H14",
+      "note": "6ad92d980000000031035fad",
+      "author": "白two泽",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad92d980000000031035fad",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/574f95c556e9bfde95f8054adb7a8f30/1040g2sg326jp00lo50dg5pciefq8hbqrcfda1qo!nc_n_webp_mw_1",
+      "file": "images/H14.webp",
+      "dimensions": [
+        640,
+        1139
+      ],
+      "sha256": "fded95efa545ae94f47c6a7c8c996ced4f72542598e1dc33385d950a8dad19ad",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "眼镜反射和局部遮挡影响，不能精确推定眼部尺度。",
+      "roles": [
+        "发型轮廓",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H15",
+      "note": "6ad9c97e0000000031025457",
+      "author": "KAI7",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad9c97e0000000031025457",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/0b15856902fee6dfa9bbc455a7330e24/notes_pre_post/1040g3k8326kc0s33kq605qlomjg4ue01o7uejs8!nc_n_webp_mw_1",
+      "file": "images/H15.webp",
+      "dimensions": [
+        640,
+        857
+      ],
+      "sha256": "54829201f6a11ab1fad851a64ee9c36f099ff2d00c5f505f3740824047ec310a",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "自拍角度、修饰和年龄未经核实；只取可见关系。",
+      "roles": [
+        "发型轮廓",
+        "可见穿搭",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H16",
+      "note": "6adc8fdc00000000330203a9",
+      "author": "承诺",
+      "source_url": "https://www.xiaohongshu.com/explore/6adc8fdc00000000330203a9",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/cc85bce8903e896b531980536ed178fb/notes_pre_post/1040g3k8326n2p8lt4qd05o3mv78080dr4aq1fio!nc_n_webp_mw_1",
+      "file": "images/H16.webp",
+      "dimensions": [
+        640,
+        640
+      ],
+      "sha256": "c061531bc93305bace3c5a354a344bd9fe754cdc4bef82c00f24849c45799057",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "转侧且长刘海遮眼，主要看发型与高领关系。",
+      "roles": [
+        "发型轮廓",
+        "可见穿搭"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H17",
+      "note": "6adca809000000002c026b9d",
+      "author": "半绵学姐",
+      "source_url": "https://www.xiaohongshu.com/explore/6adca809000000002c026b9d",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/7aaf42abbc904c4cd8eced5036f4abde/1040g008326n1tg084q105pj5iosgu3nni8hqqbo!nc_n_webp_mw_1",
+      "excluded": "标题AI明示，未下载为真人样本",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "仅核对标题，未看图",
+      "limits": "自拍角度、修饰和年龄未经核实；只取可见关系。",
+      "roles": [],
+      "selection_status": "排除真人结构"
+    },
+    {
+      "key": "H18",
+      "note": "6adc63bc000000002a029e44",
+      "author": "夏延",
+      "source_url": "https://www.xiaohongshu.com/explore/6adc63bc000000002a029e44",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/8f6021d9b854278194632a8ece9edeb3/1040g2sg326mrrm6d5ge05nlg68lg80evunng8rg!nc_n_webp_mw_1",
+      "file": "images/H18.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "bf0014c8299829a88819942bc062fb77958fb09f58845834c8ab6b52709ca9e9",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "漫画梗图，排除真人结构。",
+      "roles": [],
+      "selection_status": "排除真人结构"
+    },
+    {
+      "key": "H19",
+      "note": "6ade0924000000003101ec4d",
+      "author": "Lio",
+      "source_url": "https://www.xiaohongshu.com/explore/6ade0924000000003101ec4d",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/930fb142b5b2fda5a937fc33b08939d2/1040g008326ogra7h56e05n8bhrmkcr8ehm79b5g!nc_n_webp_mw_1",
+      "file": "images/H19.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "ddc5aa3effcd178804901b677f90d57ddc792df50f81c357fff92ada50b65f7b",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "自拍角度、修饰和年龄未经核实；只取可见关系。",
+      "roles": [
+        "发型轮廓",
+        "可见穿搭",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H20",
+      "note": "6adb371d000000002500624c",
+      "author": "Kai",
+      "source_url": "https://www.xiaohongshu.com/explore/6adb371d000000002500624c",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/f50b3b1e6af5fcd21f8516bd7d3c7a38/1040g008326lon2sflg005q432v3n9e6q8flkr4g!nc_n_webp_mw_1",
+      "file": "images/H20.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "c91fd2e8dc8d3dc893976b2bcf201314344186192bea73402d2046afb0b24cdd",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "帽子遮头顶，只看可见穿搭和宽泛状态。",
+      "roles": [
+        "可见穿搭"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H21",
+      "note": "6adda0ba00000000240359d0",
+      "author": "全糖甜心",
+      "source_url": "https://www.xiaohongshu.com/explore/6adda0ba00000000240359d0",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/628b1968bd58259dcb8a9b0a2f4747a9/1040g008326o47phil0005qjq31c4s500sl52fqo!nc_n_webp_mw_1",
+      "file": "images/H21.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "cbbb0cb619f9288b1d1208d3a71d143ca865b6b808fba35d3aa06a1073c6e126",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "抿唇为瞬间动作，镜片及暖光影响细节。",
+      "roles": [
+        "发型轮廓",
+        "可见穿搭",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H22",
+      "note": "6ada93b80000000025005a28",
+      "author": "优皇帝",
+      "source_url": "https://www.xiaohongshu.com/explore/6ada93b80000000025005a28",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/a1b7e088de198a40c7f4890d87711c7f/notes_uhdr/1040g3qg326l4g2bckq4g5q880b3du2jk80trh08!nc_n_webp_mw_1",
+      "file": "images/H22.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "b5a875df47a7a96c91b3fb4bdc60c736269d01f1654cde6b4ebf4788b40a1485",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "顶部裁切、装饰与修饰影响，卷曲只按可见范围取材。",
+      "roles": [
+        "发型轮廓"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H23",
+      "note": "6adb508c000000003101df20",
+      "author": "人生大事.",
+      "source_url": "https://www.xiaohongshu.com/explore/6adb508c000000003101df20",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/06d004af7370c969ebdd24b91e25d63c/notes_pre_post/1040g3k8326lrnk3g5g805q7m3g1tol8j9mttpv8!nc_n_webp_mw_1",
+      "file": "images/H23.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "1cfca31fd86ca50b3a12a092216ad6fcc12db4e66a7ff8c3a1675fb4071df165",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "多人妆造拼图，只看造型范围。",
+      "roles": [],
+      "selection_status": "受限观察"
+    },
+    {
+      "key": "H24",
+      "note": "6ae07bcf0000000028023882",
+      "author": "卡比云",
+      "source_url": "https://www.xiaohongshu.com/explore/6ae07bcf0000000028023882",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/25dfbb9c34eb9fb496136591a634ba83/1040g2sg326qtap725qe05og8tnhk1fep28qe13o!nc_n_webp_mw_1",
+      "file": "images/H24.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "6684705aba6afd0555a340b9de60208c0633f7c7d96497b3dce42c78896289b3",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "吸管遮嘴、近摄透视，只取大关系。",
+      "roles": [
+        "发型轮廓",
+        "可见穿搭",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H25",
+      "note": "6adb12670000000032020f92",
+      "author": "句子先森",
+      "source_url": "https://www.xiaohongshu.com/explore/6adb12670000000032020f92",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/41a0bbd31d870024b1550a29bcbc0826/notes_pre_post/1040g3k0326lk4ngc505g5p9q070h13afqh4o08g!nc_n_webp_mw_1",
+      "file": "images/H25.webp",
+      "dimensions": [
+        640,
+        1130
+      ],
+      "sha256": "cf06ae258da07cba5095d5a5fe8d271ec09d9c31e42a7611e047ce31ec68061f",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "眨眼和食物遮嘴是动作变化，不作稳定不对称。",
+      "roles": [
+        "发型轮廓",
+        "可见穿搭",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H26",
+      "note": "6add9bbb0000000024037bb0",
+      "author": "王安宇buss工作室",
+      "source_url": "https://www.xiaohongshu.com/explore/6add9bbb0000000024037bb0",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/62c1d211b65a2c653c4a7c47f71a089b/notes_pre_post/1040g3k8326o310c2l6o05q1f5dpjjut5vrlunk8!nc_n_webp_mw_1",
+      "file": "images/H26.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "da1c6c655c4438bc5a94ba9d6ec600b44dee511add465b9fc8189c5878ef1b83",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "有造型的摄影，发型与穿搭可看，不照抄身份。",
+      "roles": [
+        "发型轮廓",
+        "可见穿搭"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H27",
+      "note": "6ae038bc0000000018004fb0",
+      "author": "OVO",
+      "source_url": "https://www.xiaohongshu.com/explore/6ae038bc0000000018004fb0",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/f7822ada389763524a6261a48998f4ab/1040g008326ql4p3s5g705q838e9do1hug8ct5vg!nc_n_webp_mw_1",
+      "file": "images/H27.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "48ac3d95adfb0e9cd4f490d463586570fb2526db16c5a4ab00b7cfde4e1609ce",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "俯拍与耳机影响轮廓，头部比例不可照量。",
+      "roles": [
+        "发型轮廓",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H28",
+      "note": "6ae0ac2f00000000270147c3",
+      "author": "起司我了",
+      "source_url": "https://www.xiaohongshu.com/explore/6ae0ac2f00000000270147c3",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/6936b7fe5b1021aaaa868b6b4ea39fac/notes_pre_post/1040g3k8326r37jie5q704a59ob091n9iqlqci70!nc_n_webp_mw_1",
+      "file": "images/H28.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "833db9f00ff2983149fa96e71544753f7cc01c72ea6f839ee140c651938a1676",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "明显夸张视觉效果，不作成年男性五官结构。",
+      "roles": [],
+      "selection_status": "排除真人结构"
+    },
+    {
+      "key": "H29",
+      "note": "6adb9114000000002c012ee5",
+      "author": "真男人",
+      "source_url": "https://www.xiaohongshu.com/explore/6adb9114000000002c012ee5",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/9ba7692f76ba4360e3dc4a86a7b0b5bc/notes_uhdr/1040g3qo326m3mhcj56705netvtcg8nltd1lhnko!nc_n_webp_mw_1",
+      "file": "images/H29.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "c1f858c11a47dd6f31ff3f18167efdd2d8fd02bdb9822458676e51476983b363",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "近摄及修饰未知，不量取五官比例。",
+      "roles": [
+        "发型轮廓",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H30",
+      "note": "6adb11260000000031034e9c",
+      "author": "双眼皮那男的",
+      "source_url": "https://www.xiaohongshu.com/explore/6adb11260000000031034e9c",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/c3612d4274cca026e6022bfd01fa15f0/notes_pre_post/1040g3k0326lk27uvlg005o77sdu08rhh4lufih0!nc_n_webp_mw_1",
+      "file": "images/H30.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "7cfe8b27a3f6276d30442515d9b8156a35f23899ef6f3f003514457fd3e8f121",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "标题年龄未核实、转侧，不套用到所有成人角色。",
+      "roles": [
+        "发型轮廓",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H31",
+      "note": "6ad9bc4b0000000024038239",
+      "author": "鱼巷猫的自白-",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad9bc4b0000000024038239",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/8b942a1fc125fe68aad838ed2a83efdd/1040g2sg326kaea06kqkg5qhe05c3v201qbm8ka0!nc_n_webp_mw_1",
+      "file": "images/H31.webp",
+      "dimensions": [
+        640,
+        1138
+      ],
+      "sha256": "62c99d62a63d93ddf22679c9992d98336467acb4ced3b211eb576a3f50fc795f",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "模糊且裁切，不主动作为精细结构或整头发型参考。",
+      "roles": [],
+      "selection_status": "受限观察"
+    },
+    {
+      "key": "H32",
+      "note": "6adb3f16000000002c0146c0",
+      "author": "莓莓吃",
+      "source_url": "https://www.xiaohongshu.com/explore/6adb3f16000000002c0146c0",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/da051cae6d740aac91a8b0dda058e143/notes_pre_post/1040g3k0326lpk9h14q005on1a0p7on5hd1ctqs0!nc_n_webp_mw_1",
+      "file": "images/H32.webp",
+      "dimensions": [
+        640,
+        640
+      ],
+      "sha256": "be9246d4fa043417f35b93be8b244430f572da08b33c825843244cc8900a1e56",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "多人红毯拼图，只看造型范围。",
+      "roles": [],
+      "selection_status": "受限观察"
+    },
+    {
+      "key": "H33",
+      "note": "6ad960d3000000002403d11f",
+      "author": "biubiu羽羽",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad960d3000000002403d11f",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/d9c11b284bffed459cf67792b93c8e25/notes_pre_post/1040g3k8326jv995el0805qh56tbgga00uotjpfo!nc_n_webp_mw_1",
+      "file": "images/H33.webp",
+      "dimensions": [
+        640,
+        1518
+      ],
+      "sha256": "57ef5e360072936ab00291c1c04f6a7d0989cd6a244ac1942383f82beb678c73",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "强修饰或造型感，来源真实性未知，不作原生五官证据。",
+      "roles": [],
+      "selection_status": "受限观察"
+    },
+    {
+      "key": "H34",
+      "note": "6addaae6000000002c016dd0",
+      "author": "阿龍",
+      "source_url": "https://www.xiaohongshu.com/explore/6addaae6000000002c016dd0",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/e567571284cdf32bce371f379f27d50b/notes_pre_post/1040g3k0326o59vsp4q005qa6brhtp6b9cearuv8!nc_n_webp_mw_1",
+      "file": "images/H34.webp",
+      "dimensions": [
+        640,
+        851
+      ],
+      "sha256": "6d5eaeda6714df0a033ba421a5e19e2848e19a34e348bef738cb9d13b6a75bc0",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "自拍角度、修饰和年龄未经核实；只取可见关系。",
+      "roles": [
+        "发型轮廓",
+        "可见穿搭",
+        "五官与面部体量的大关系"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H35",
+      "note": "6ad8d18f000000002c03a0df",
+      "author": "YY",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad8d18f000000002c03a0df",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/c61c7e8773fc767eaf59678961d14278/notes_uhdr/1040g3qg326jdpf2hl8005onh3si7og0ht41r3co!nc_n_webp_mw_1",
+      "file": "images/H35.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "404a0a79908296726e61e01e9f916366605a56cbf86f74590b3ef494fc3537d3",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "低光镜面遮挡，未提供足够可靠的精细结构。",
+      "roles": [],
+      "selection_status": "受限观察"
+    },
+    {
+      "key": "H36",
+      "note": "6adb44680000000024035431",
+      "author": "老周",
+      "source_url": "https://www.xiaohongshu.com/explore/6adb44680000000024035431",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/65911256080452ae9a7bb566937c7808/notes_pre_post/1040g3k0326lqaif450705n9kj6442hfdavfm2ho!nc_n_webp_mw_1",
+      "file": "images/H36.webp",
+      "dimensions": [
+        640,
+        960
+      ],
+      "sha256": "1494ca5be3d17a748be0f7fb6faa6df235fbba53ce62d1864520959ca044b04f",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "修饰与造型感较强，只留观察，不作未修饰五官证据。",
+      "roles": [],
+      "selection_status": "受限观察"
+    },
+    {
+      "key": "H38",
+      "note": "6adaf069000000002a03183b",
+      "author": "小赫赫 Xs",
+      "source_url": "https://www.xiaohongshu.com/explore/6adaf069000000002a03183b",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/b582f002976c5f04c5a8f8b8449ebf7b/1040g2sg326lfpjntl0jg5pirrfehohq9hjt3pho!nc_n_webp_mw_1",
+      "file": "images/H38.webp",
+      "dimensions": [
+        640,
+        1138
+      ],
+      "sha256": "b06c718a106bac329b32da387194a796f0ea9713e5e2cc0848cf0e6df272e370",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "裁切及强修饰，未见完整头顶，不作完整发型证据。",
+      "roles": [],
+      "selection_status": "受限观察"
+    },
+    {
+      "key": "H39",
+      "note": "6ada1be3000000002b02a13b",
+      "author": "情殇",
+      "source_url": "https://www.xiaohongshu.com/explore/6ada1be3000000002b02a13b",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280946/e0980f1e7650d45f27933ae2678dc395/notes_pre_post/1040g3k8326km494aka605qfokgp08t01cf6nu38!nc_n_webp_mw_1",
+      "file": "images/H39.webp",
+      "dimensions": [
+        640,
+        642
+      ],
+      "sha256": "2639d83c281eb2c3927869b0f00a3cbedeeb23ec69e907a643d8e12e0eec6033",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "低头且脸小，主要看可见上衣，不推断眼睑或整头高度。",
+      "roles": [
+        "可见穿搭"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H42",
+      "note": "6adc6ee30000000031035375",
+      "author": "庙里有个小神仙",
+      "source_url": "https://www.xiaohongshu.com/explore/6adc6ee30000000031035375",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280953/38349e21bc764e2a9de99581b341b3af/1040g008326mumcqe50l05p69ohk2opis3deire0!nc_n_webp_mw_1",
+      "file": "images/H42.webp",
+      "dimensions": [
+        640,
+        865
+      ],
+      "sha256": "09ae4c5c46bae22adcfb383016f1195b750bb506365be804ed390050fb74f3b6",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "标题明示自修，侧躺及修饰影响，只取可见发型轮廓。",
+      "roles": [
+        "发型轮廓"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H43",
+      "note": "6ad8caa2000000002b00dc2e",
+      "author": "夜亿黎",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad8caa2000000002b00dc2e",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280953/9a6b411f0c0b891314f44f779a774654/notes_pre_post/1040g3k0326jctt2tk46g5ph3ohmiuao9moalad0!nc_n_webp_mw_1",
+      "file": "images/H43.webp",
+      "dimensions": [
+        640,
+        1228
+      ],
+      "sha256": "6c63d7be32dfb2b41a08890542d4c11520dbe4aae97142f539d11e08ec92f27e",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "修饰造型感强，来源真实性未核实，不作为真人结构证据。",
+      "roles": [],
+      "selection_status": "受限观察"
+    },
+    {
+      "key": "H44",
+      "note": "6adb9fd80000000033010877",
+      "author": "Krayi",
+      "source_url": "https://www.xiaohongshu.com/explore/6adb9fd80000000033010877",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280953/61e55bb1d47b0de5caa4da22dcf20ff2/notes_pre_post/1040g3k8326ltsa294q9g5pjofeo1oncfrbk7hm0!nc_n_webp_mw_1",
+      "file": "images/H44.webp",
+      "dimensions": [
+        640,
+        640
+      ],
+      "sha256": "d138dd857a8002ff10cae86ec2b0b97cc6350dad6201476ac513af843fc10372",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "截去头和脚，只作穿搭与松量参考。",
+      "roles": [
+        "可见穿搭"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H45",
+      "note": "6ada2e75000000003102411f",
+      "author": "祁风.",
+      "source_url": "https://www.xiaohongshu.com/explore/6ada2e75000000003102411f",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280953/c3e448ac59ff19c86c13265be28800ca/1040g2sg326ko48cmlge05okcsm1ocghk203v4s8!nc_n_webp_mw_1",
+      "file": "images/H45.webp",
+      "dimensions": [
+        640,
+        853
+      ],
+      "sha256": "6d1306d725c389a84992efd4f701d90fc2f1f794422de4201b6e493d9ee4996a",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "帽子遮头顶，只作可见夏季穿搭参考。",
+      "roles": [
+        "可见穿搭"
+      ],
+      "selection_status": "按列明用途选用"
+    },
+    {
+      "key": "H46",
+      "note": "6ae0567a000000001b023075",
+      "author": "括号",
+      "source_url": "https://www.xiaohongshu.com/explore/6ae0567a000000001b023075",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280953/ee501d00960eaf34d34856c977eb7189/notes_pre_post/1040g3k8326qop12i4qd05pn93no2ufudnrvflcg!nc_n_webp_mw_1",
+      "file": "images/H46.webp",
+      "dimensions": [
+        640,
+        1138
+      ],
+      "sha256": "74d4dea4232f13fdd88f1b7cb99eea024c7dfd88d383813655343a31c22bff28",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "图内有AI生成标记，排除真人结构证据。",
+      "roles": [],
+      "selection_status": "排除真人结构"
+    },
+    {
+      "key": "H48",
+      "note": "6ad99ab8000000002b000648",
+      "author": "清樾",
+      "source_url": "https://www.xiaohongshu.com/explore/6ad99ab8000000002b000648",
+      "image_url": "https://sns-webpic-qc.xhscdn.com/202610280953/2b0773201b1ac489d1938dfac525b2aa/notes_pre_post/1040g3k0326k6a56rk4005ptnbp6inof0tncrnf8!nc_n_webp_mw_1",
+      "file": "images/H48.webp",
+      "dimensions": [
+        640,
+        1391
+      ],
+      "sha256": "191f667916e43432e6037694e8e74096a7ce84eea2c45cb1d736c8063901d90c",
+      "archived_at": "2026-10-28",
+      "retouch_status": "unknown",
+      "age_verified": false,
+      "photographed_at": null,
+      "published_at": null,
+      "review_level": "已看下载封面像素与编号拼图；未穷尽详情",
+      "limits": "造型与修饰明显，只看可见偏分方向，不作未修饰证据。",
+      "roles": [
+        "发型轮廓"
+      ],
+      "selection_status": "受限观察"
+    }
+  ]
+}
