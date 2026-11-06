@@ -1,0 +1,76 @@
+{
+  "recorded_date": "2026-11-06",
+  "authorization": "更新skill，把有用信息记录进skill。关于盖住全身视图，高清，不生成噪点的上下文是要记录的",
+  "acceptance_scope": "Candidate03 adopted; board delivered without separate blanket approval; no video tested",
+  "files": [
+    {
+      "file": "source-reference.png",
+      "original_path": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\mist-blue-pajamas-20261106\\reference.png",
+      "role": "Source screenshot, observation only",
+      "bytes": 167703,
+      "sha256": "401e3d1b72d66fb99260bb47e3ae7969e30b61638525148da6cc5ccb22d5bb21",
+      "width": 314,
+      "height": 388
+    },
+    {
+      "file": "approved-frontal.png",
+      "original_path": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\mist-blue-pajamas-20261106\\frontal-candidate-03.png",
+      "role": "User-adopted independent frontal identity for this character only",
+      "bytes": 2128212,
+      "sha256": "c169c61a4e690198d38030ad425f36b1678a705666ca0a59dcd0310e9a762e04",
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "file": "approved-frontal-prompt.txt",
+      "original_path": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\mist-blue-pajamas-20261106\\frontal-candidate-03-prompt.txt",
+      "role": "Actual prompt with two authorized limited structure references",
+      "bytes": 4947,
+      "sha256": "c9c43e30e4cbb1f5690346da892272b61c165599cbf31b9b2fe541cf8a0279f8"
+    },
+    {
+      "file": "character-asset-board.png",
+      "original_path": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\mist-blue-pajamas-20261106\\character-asset-board.png",
+      "role": "Delivered board; no separate blanket approval",
+      "bytes": 2023705,
+      "sha256": "df7587f282f32a66289b43a8ce1e0eecd2991b21c0152c302b203a8d1599118c",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "file": "character-asset-board-prompt.txt",
+      "original_path": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\mist-blue-pajamas-20261106\\character-asset-board-prompt.txt",
+      "role": "Actual board prompt, approved frontal as sole image input",
+      "bytes": 5323,
+      "sha256": "ebbc97009d2bb77a59f66ecd35016bb347d18e1a1a3b9a2c34a3602f02656b4d"
+    },
+    {
+      "file": "frontal-review.md",
+      "original_path": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\mist-blue-pajamas-20261106\\review-03.md",
+      "role": "Assistant visual inspection, not user acceptance",
+      "bytes": 1890,
+      "sha256": "71cc64fec4dd7209bbdb304bee824f09a6a79657358b16777f4c32fd3da3aded"
+    },
+    {
+      "file": "board-review.md",
+      "original_path": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\mist-blue-pajamas-20261106\\board-review.md",
+      "role": "Assistant inspection and limitations",
+      "bytes": 2023,
+      "sha256": "ab4aacd8c545f158f02c88e17dfeac60884a0856fb3f916275ffda9a77b005c2"
+    },
+    {
+      "file": "frontal-input-chain.md",
+      "original_path": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\mist-blue-pajamas-20261106\\input-chain-03.md",
+      "role": "Limited image input authorization",
+      "bytes": 1011,
+      "sha256": "1b1c0a4622b35cd502a58cd5f840215265839fb5bd7640bf167d62d2267cec7d"
+    },
+    {
+      "file": "board-input-chain.md",
+      "original_path": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\mist-blue-pajamas-20261106\\board-input-chain.md",
+      "role": "Sole identity reference and face masking instruction",
+      "bytes": 1128,
+      "sha256": "42855ba0ac0a9a3cfb9b423ab12f8696222b6b6118b7f9925b5d5a1552d79243"
+    }
+  ]
+}

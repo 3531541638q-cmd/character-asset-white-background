@@ -1,0 +1,100 @@
+{
+  "archive_date": "2026-11-04",
+  "authorization": "记录skill",
+  "scope": "current black straight hair character, approved frontal, original outfit and beige outfit workflow",
+  "evaluation": "frontal explicitly adopted; full boards archived without blanket satisfaction claim",
+  "files": [
+    {
+      "file": "source-photo.jpg",
+      "role": "original_photo_observation_and_clothing_reference",
+      "source": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\colorblock-denim-female-20261104\\reference.jpg",
+      "sha256": "d0d4c7cd4be7b0df57c71f4eefc6621d873632cb4002e7593b6eb1f60fc1aa63",
+      "bytes": 676415,
+      "source_copy_equal": true,
+      "dimensions": [
+        1240,
+        2772
+      ]
+    },
+    {
+      "file": "reference-description.txt",
+      "role": "source_description",
+      "source": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\colorblock-denim-female-20261104\\reference-description.txt",
+      "sha256": "7c0948ef9c372cc2fab89f1a2d249a63167a66daaaeadf1f4421af1d6b2368d2",
+      "bytes": 1540,
+      "source_copy_equal": true
+    },
+    {
+      "file": "approved-frontal.png",
+      "role": "approved_identity_for_this_character_only",
+      "source": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\colorblock-denim-female-20261104\\frontal-candidate-01.png",
+      "sha256": "3cf0ea0fd6a4dfd20b24b646a09c805dec54fef590308fc91d288c880ad1f9f4",
+      "bytes": 2221023,
+      "source_copy_equal": true,
+      "dimensions": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "file": "approved-frontal-prompt.txt",
+      "role": "actual_text_only_face_prompt",
+      "source": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\colorblock-denim-female-20261104\\frontal-candidate-01-prompt.txt",
+      "sha256": "c9bbcdb79b416eef58f3e9c38c741ba99c2c48ae1fbe21cbd4294091e674c6a2",
+      "bytes": 4750,
+      "source_copy_equal": true
+    },
+    {
+      "file": "original-outfit-board.png",
+      "role": "original_outfit_board_not_separately_rated",
+      "source": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\colorblock-denim-female-20261104\\character-asset-board.png",
+      "sha256": "05fccf6999c5189091538ac768f249b11789fe032cadbc5277431289f4616458",
+      "bytes": 2276503,
+      "source_copy_equal": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "original-outfit-board-prompt.txt",
+      "role": "actual_original_board_prompt",
+      "source": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\colorblock-denim-female-20261104\\character-asset-board-prompt.txt",
+      "sha256": "1c968b85923d0746b948dd9169346d4741406108f7e86776f2825786e82db5e1",
+      "bytes": 6229,
+      "source_copy_equal": true
+    },
+    {
+      "file": "beige-outfit-reference.png",
+      "role": "new_clothing_only_reference",
+      "source": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\colorblock-denim-female-20261104\\outfit-reference-beige.png",
+      "sha256": "0268e38f05076b23802f3c39ddec16641219601980f402dcab645ce40441005a",
+      "bytes": 112817,
+      "source_copy_equal": true,
+      "dimensions": [
+        203,
+        405
+      ]
+    },
+    {
+      "file": "beige-outfit-board.png",
+      "role": "archived_beige_outfit_delivery_not_blanket_accepted",
+      "source": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\colorblock-denim-female-20261104\\character-asset-board-beige-outfit.png",
+      "sha256": "e0d39becfd6ee3a0628bce59a06547c2306dd5a6770b00d101ebb573351687bc",
+      "bytes": 2028520,
+      "source_copy_equal": true,
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "file": "beige-outfit-board-prompt.txt",
+      "role": "actual_beige_outfit_prompt",
+      "source": "C:\\Users\\0\\Documents\\Codex\\2026-10-27\\new-chat-7\\outputs\\colorblock-denim-female-20261104\\character-asset-board-beige-outfit-prompt.txt",
+      "sha256": "d8f7fda4d8608f219d9cb20a2a1982ee5d80e5f661283cf725cd476d09635d22",
+      "bytes": 5276,
+      "source_copy_equal": true
+    }
+  ]
+}
