@@ -1,0 +1,15 @@
+实际生成提示词（face_candidate_v4_detached_reference）
+
+生成方式：内置 image_gen；本次改为图像状态参考 + 文字约束。随机抽到并实际传入的两张外部参考：
+- references/research-2026-10-27/girls-portrait-search/images/11_656f90dd1ec80c97.webp：仅取克制的上睑张力和疏离目光。
+- references/research-2026-10-27/girls-portrait-search/images/06_8b2b9d521f358a43.webp：仅取放松嘴部和沉重眼睑的抽离状态。
+排除两张图中的眼镜、刘海、发型、衣服、光线、透视、磨皮和人物身份。
+
+Create a new single front-facing portrait candidate for an original adult East Asian woman, late 20s to early 30s, for a character asset board. This is a new face after rejected candidates; do not preserve or copy any prior generated face. Use the two attached images only as external state references: from the first image take only the restrained upper-eyelid tension and emotionally distant gaze; from the second image take only the relaxed mouth and heavy-lidded, detached mood. Exclude their glasses, bangs, hairstyles, clothing, lighting, camera distortion, skin smoothing, and identity. Build a clearly original woman.
+
+She should feel cool, tired, and difficult to approach, as if she has emotionally checked out of whatever is happening around her. The expression is indifferent and detached rather than angry, cute, smiling, or theatrically sad. Head upright and front-facing for a face reference; eyes open but slightly narrowed with low upper-lid coverage, gaze steady and just past the camera, no sparkle or eager engagement. Brows fairly straight and relaxed, with one tail subtly lower. Cheeks have moderate natural volume with a gentle cheekbone plane; lower face is softly angular and a little longer, chin defined but not sharp. Avoid a round baby face and avoid a masculine square jaw.
+
+Eyes: medium-sized horizontal almond eyes, slightly hooded, soft lower lids, tiny natural difference in opening between sides, no giant eyes, no dramatic cat-eye makeup. Nose: moderate straight bridge with a slightly prominent rounded tip and natural wings, no tiny button nose and no pinched beauty nose. Mouth: medium-full lips with a flatter upper lip on one side, lower lip slightly fuller, lips relaxed and almost imperceptibly parted, corners neutral to faintly downturned; no smile. Keep the nose, mouth, chin and cheeks coherent and attractive. Add a small restrained natural cheek mark or local color difference, no pile of blemishes.
+
+Preserve the requested outfit: long straight black hair with an off-center part and a few loose strands, loose white collared shirt, black tie, oversized muted gray-green jacket, a small edge of black skirt. Pure white background with a very soft contact shadow. Bright but subdued natural window light, realistic clean high-resolution photographic reference, subtle pores and lip lines, no dense artificial grain, no repeated swirl texture, no plastic shine, no airbrushed beauty filter, no text, watermark, phone UI, gray gradient, or illustration style. Keep the face attractive but emotionally unreachable, with a quiet deadpan presence.
+
